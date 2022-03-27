@@ -1,0 +1,3205 @@
+Name,Location,AvgPrice,Currency,Cuisine,MICHELINStars
+Aqua,Wolfsburg,225,EUR,"Creative, Modern Cuisine",3
+The Table Kevin Fehling,Hamburg,230,EUR,Creative,3
+Restaurant Überfahrt Christian Jürgens,Rottach-Egern,319,EUR,Creative,3
+Victor's Fine Dining by christian bau,Perl,295,EUR,Creative,3
+Rutz,Berlin,245,EUR,"Modern Cuisine, Creative",3
+Restaurant Bareiss,Baiersbronn,335,EUR,Classic French,3
+temporaire - Schwarzwaldstube,Baiersbronn,265,EUR,"Classic French, Creative",3
+schanz. restaurant.,Piesport,178,EUR,"Modern French, Creative",3
+Waldhotel Sonnora,Dreis,249,EUR,Classic French,3
+L'Enclume,Cartmel,175,GBP,Creative,3
+Fat Duck,Bray,375,GBP,Creative,3
+Waterside Inn,Bray,188,GBP,Classic French,3
+Restaurant Gordon Ramsay,London,220,GBP,French,3
+Hélène Darroze at The Connaught,London,185,GBP,Modern Cuisine,3
+CORE by Clare Smyth,London,195,GBP,Modern British,3
+Sketch (The Lecture Room & Library),London,250,GBP,Modern French,3
+Alain Ducasse at The Dorchester,London,195,GBP,French,3
+Amador,Vienna,265,EUR,"Creative, Contemporary",3
+Xin Rong Ji (Xinyuan South Road),Beijing,"2,000",CNY,Taizhou,3
+King's Joy,Beijing,"1,399",CNY,Vegetarian,3
+Jade Dragon,Macau,"2,000",MOP,Cantonese,3
+Robuchon au Dôme,Macau,"3,500",MOP,French Contemporary,3
+The Eight,Macau,"3,000",MOP,Cantonese,3
+8 1/2 Otto e Mezzo - Bombana,Hong Kong,"2,080",HKD,Italian,3
+T'ang Court,Hong Kong,"1,830",HKD,Cantonese,3
+Sushi Shikon,Hong Kong,"3,500",HKD,Sushi,3
+Caprice,Hong Kong,"2,600",HKD,French Contemporary,3
+Forum,Hong Kong,"2,000",HKD,Cantonese,3
+Lung King Heen,Hong Kong,"2,980",HKD,Cantonese,3
+L'Atelier de Joël Robuchon,Hong Kong,"2,600",HKD,French Contemporary,3
+Azurmendi,Larrabetzu,250,EUR,Creative,3
+Martín Berasategui,Lasarte - Oria,290,EUR,Creative,3
+Aponiente,El Puerto de Santa María,215,EUR,"Creative, Innovative",3
+El Celler de Can Roca,Girona,350,EUR,Creative,3
+Quique Dacosta,Dénia,210,EUR,Creative,3
+Cenador de Amós,Villaverde de Pontones,235,EUR,Modern Cuisine,3
+DiverXO,Madrid,365,EUR,Creative,3
+Arzak,Donostia / San Sebastián,260,EUR,"Creative, Traditional Cuisine",3
+Akelaŕe,Donostia / San Sebastián,240,EUR,"Creative, Traditional Cuisine",3
+Lasarte,Barcelona,250,EUR,Creative,3
+ABaC,Barcelona,250,EUR,Creative,3
+L'OSIER,Tokyo,"44,000",JPY,French,3
+Sazenka,Tokyo,"73,000",JPY,Chinese,3
+Kagurazaka Ishikawa,Tokyo,"43,000",JPY,Japanese,3
+Kanda,Tokyo,"43,000",JPY,Japanese,3
+L'Effervescence,Tokyo,"34,000",JPY,French,3
+Quintessence,Tokyo,"35,000",JPY,French,3
+Azabu Kadowaki,Tokyo,"70,000",JPY,Japanese,3
+Joël Robuchon,Tokyo,"54,000",JPY,French,3
+RyuGin,Tokyo,"49,000",JPY,Japanese,3
+Sushi Yoshitake,Tokyo,"38,000",JPY,Sushi,3
+Kohaku,Tokyo,"43,000",JPY,Japanese,3
+Makimura,Tokyo,"27,000",JPY,Japanese,3
+Gaon,SEOUL,"260,000",KRW,Korean,3
+La Yeon,SEOUL,"280,000",KRW,Korean,3
+Dal Pescatore,Runate,300,EUR,"Modern Cuisine, Italian",3
+Le Calandre,Rubano,225,EUR,Creative,3
+Reale,Castel di Sangro,220,EUR,"Creative, Contemporary",3
+Osteria Francescana,Modena,320,EUR,Creative,3
+Da Vittorio,Brusaporto,380,EUR,"Modern Cuisine, Contemporary",3
+St. Hubertus,San Cassiano,310,EUR,"Creative, Alpine",3
+Enrico Bartolini al Mudec,Milan,300,EUR,"Creative, Innovative",3
+Enoteca Pinchiorri,Florence,345,EUR,Modern Cuisine,3
+Piazza Duomo,Alba,300,EUR,"Creative, Modern Cuisine",3
+Uliassi,Senigallia,220,EUR,"Creative, Seafood",3
+La Pergola,Rome,290,EUR,"Modern Cuisine, Contemporary",3
+Taian Table,Shanghai,"2,188",CNY,Innovative,3
+Ultraviolet by Paul Pairet,Shanghai,"8,888",CNY,Innovative,3
+Kashiwaya,Osaka,"43,000",JPY,Japanese,3
+HAJIME,Osaka,"54,000",JPY,Innovative,3
+Taian,Osaka,"20,000",JPY,Japanese,3
+Isshisoden Nakamura,Kyoto,"38,000",JPY,Japanese,3
+Kikunoi Honten,Kyoto,"64,000",JPY,Japanese,3
+Gion Sasaki,Kyoto,"37,000",JPY,Japanese,3
+Mizai,Kyoto,"50,000",JPY,Japanese,3
+Hyotei,Kyoto,"64,000",JPY,Japanese,3
+Maeda,Kyoto,"49,000",JPY,Japanese,3
+The French Laundry,Yountville,450,USD,"Contemporary, French",3
+SingleThread,Healdsburg,375,USD,"Contemporary, Californian",3
+Manresa,Los Gatos,325,USD,"Contemporary, Californian",3
+Atelier Crenn,San Francisco,298,USD,"Contemporary, French",3
+Benu,San Francisco,350,USD,"Asian, Contemporary",3
+Quince,San Francisco,360,USD,"Contemporary, Californian",3
+Frantzén,Stockholm,"3,800",SEK,Modern Cuisine,3
+Maaemo,Oslo,"3,500",NOK,"Modern Cuisine, Creative",3
+Geranium,Copenhagen,"2,800",DKK,"Creative, Contemporary",3
+noma,Copenhagen,"2,800",DKK,Creative,3
+Odette,Singapore,378,SGD,French Contemporary,3
+Les Amis,Singapore,510,SGD,French,3
+Zén,Singapore,450,SGD,European Contemporary,3
+Le Palais,Taipei,"5,000",TWD,Cantonese,3
+Eleven Madison Park,New York,285,USD,"Contemporary, Innovative",3
+Per Se,New York,355,USD,"Contemporary, French",3
+Masa,New York,595,USD,"Japanese, Sushi",3
+Le Bernardin,New York,228,USD,Seafood,3
+Chef's Table at Brooklyn Fare,New York,395,USD,Contemporary,3
+Alinea,Chicago,365,USD,"Contemporary, Creative",3
+The Inn at Little Washington,Washington,238,USD,"American, French",3
+Inter Scaldes,Kruiningen,380,EUR,Modern Cuisine,3
+De Librije,Zwolle,232,EUR,Modern Cuisine,3
+Restaurant de l'Hôtel de Ville,Crissier,390,CHF,Classic French,3
+Cheval Blanc by Peter Knogl,Basel,270,CHF,Classic French,3
+Schloss Schauenstein,Fürstenau,330,CHF,"Creative, Country cooking",3
+Le Louis XV - Alain Ducasse à l'Hôtel de Paris,Monaco,380,EUR,"Mediterranean Cuisine, Modern Cuisine",3
+Assiette Champenoise,Reims,335,EUR,Creative,3
+Les Prés d'Eugénie - Michel Guérard,Eugénie-les-Bains,295,EUR,Classic Cuisine,3
+Georges Blanc,Vonnas,320,EUR,Classic Cuisine,3
+La Vague d'Or - Cheval Blanc St-Tropez,Saint-Tropez,375,EUR,"Creative, Modern Cuisine",3
+Mirazur,Menton,380,EUR,Creative,3
+René et Maxime Meilleur,Saint-Martin-de-Belleville,389,EUR,"Creative, Regional Cuisine",3
+Alléno Paris au Pavillon Ledoyen,Paris,395,EUR,Creative,3
+Le 1947 - Cheval Blanc,Courchevel,395,EUR,"Creative, Modern Cuisine",3
+AM par Alexandre Mazzia,Marseille,385,EUR,Creative,3
+Pic,Valence,350,EUR,Creative,3
+Troisgros - Le Bois sans Feuilles,Ouches,330,EUR,Creative,3
+Pierre Gagnaire,Paris,400,EUR,Creative,3
+Le Pré Catelan,Paris,330,EUR,"Creative, Modern Cuisine",3
+L'Ambroisie,Paris,330,EUR,Classic Cuisine,3
+Épicure,Paris,380,EUR,Modern Cuisine,3
+Christophe Bacquié,Le Castellet,295,EUR,Modern Cuisine,3
+Maison Lameloise,Chagny,260,EUR,Modern Cuisine,3
+Flocons de Sel,Megève,280,EUR,Creative,3
+Le Cinq,Paris,380,EUR,Modern Cuisine,3
+Guy Savoy,Paris,530,EUR,Creative,3
+Auberge du Vieux Puits,Fontjoncouse,225,EUR,Creative,3
+Arpège,Paris,460,EUR,Creative,3
+Kei,Paris,340,EUR,Modern Cuisine,3
+L'Oustau de Baumanière,Les Baux-de-Provence,240,EUR,Modern Cuisine,3
+Christopher Coutanceau,La Rochelle,265,EUR,Seafood,3
+Le Petit Nice,Marseille,430,EUR,Seafood,3
+Régis et Jacques Marcon,Saint-Bonnet-le-Froid,240,EUR,Creative,3
+Le Clos des Sens,Annecy,238,EUR,Creative,3
+Zilte,Antwerpen,330,EUR,Creative,3
+Hof van Cleve,Kruishoutem,530,EUR,Creative,3
+Ösch Noir,Donaueschingen,195,EUR,"Modern Cuisine, Classic Cuisine",2
+ES:SENZ,Grassau,205,EUR,"Creative, Modern Cuisine",2
+Luce d'Oro,Krün,229,EUR,"Modern Cuisine, Creative",2
+Tohru in der Schreiberei,Munich,245,EUR,"Modern Cuisine, Japanese Contemporary",2
+OPUS V,Mannheim,185,EUR,"Modern Cuisine, Creative",2
+Lorenz Adlon Esszimmer,Berlin,250,EUR,Creative,2
+Falco,Leipzig,262,EUR,Creative,2
+Söl'ring Hof,Rantum,284,EUR,"Creative, Country cooking",2
+Obendorfers Eisvogel,Neunburg vorm Wald,211,EUR,"Creative, Classic Cuisine",2
+etz,Nuremberg,210,EUR,"Creative, Regional Cuisine",2
+Steinheuers Restaurant Zur Alten Post,Bad Neuenahr-Ahrweiler,195,EUR,"Classic French, Classic Cuisine",2
+Restaurant Heinz Winkler,Aschau im Chiemgau,210,EUR,Classic French,2
+Haerlin,Hamburg,250,EUR,"Creative French, Classic Cuisine",2
+Vendôme,Bergisch Gladbach,285,EUR,"Creative, Classic French",2
+Speisemeisterei,Stuttgart,189,EUR,"Modern Cuisine, International",2
+Tim Raue,Berlin,248,EUR,"Asian, Creative",2
+CODA Dessert Dining,Berlin,165,EUR,"Creative, Innovative",2
+Rosin,Dorsten,159,EUR,"Creative, Classic Cuisine",2
+Jante,Hanover,160,EUR,"Creative, Modern Cuisine",2
+AUGUST,Augsburg,210,EUR,Creative,2
+Le Pavillon,Bad Peterstal,189,EUR,Classic French,2
+Le Moissonnier,Cologne,165,EUR,"Creative French, Classic Cuisine",2
+LOUIS restaurant,Saarlouis,176,EUR,"Creative, French Contemporary",2
+100/200 Kitchen,Hamburg,144,EUR,"Creative, Modern Cuisine",2
+bianc,Hamburg,190,EUR,"Mediterranean Cuisine, Creative",2
+Ox & Klee,Cologne,230,EUR,"Modern Cuisine, Creative",2
+Ophelia,Constance,240,EUR,"Creative French, Classic Cuisine",2
+EssZimmer,Munich,275,EUR,"Modern French, Creative",2
+Horváth,Berlin,185,EUR,Creative,2
+Tantris,Munich,295,EUR,"Classic French, Classic Cuisine",2
+Gustav,Frankfurt on the Main,165,EUR,"Creative, Market Cuisine",2
+Goldberg,Fellbach,190,EUR,"Modern Cuisine, International",2
+Alexander Herrmann by Tobias Bätz,Wirsberg,219,EUR,Creative,2
+ammolite - The Lighthouse Restaurant,Rust,169,EUR,"Modern Cuisine, Classic French",2
+GästeHaus Klaus Erfort,Saarbrücken,225,EUR,Classic French,2
+Esplanade,Saarbrücken,149,EUR,"Classic Cuisine, Mediterranean Cuisine",2
+Alois - Dallmayr Fine Dining,Munich,175,EUR,"Modern French, Creative",2
+FACIL,Berlin,218,EUR,"Creative, Contemporary",2
+Hirschen,Sulzburg,295,EUR,Classic French,2
+Le Cerf,Zweiflingen,178,EUR,Classic French,2
+Meierei Dirk Luther,Glücksburg,218,EUR,"Classic Cuisine, Modern Cuisine",2
+PURS,Andernach,245,EUR,Modern Cuisine,2
+Courtier,Wangels,219,EUR,"Creative, Classic Cuisine",2
+Atelier,Munich,235,EUR,Creative French,2
+Essigbrätlein,Nuremberg,180,EUR,"Innovative, Market Cuisine",2
+Lafleur,Frankfurt on the Main,225,EUR,"Modern French, Creative",2
+Liath,Blackrock,130,EUR,Creative,2
+Aimsir,Celbridge,210,EUR,Modern Cuisine,2
+Patrick Guilbaud,Dublin City,225,EUR,Modern French,2
+Chapter One by Mickael Viljanen,Dublin City,170,EUR,Modern Cuisine,2
+Ynyshir,Machynlleth,300,GBP,Creative,2
+Raby Hunt,Summerhouse,245,GBP,Modern British,2
+Andrew Fairlie at Gleneagles,Auchterarder,130,GBP,Modern French,2
+"Le Manoir aux Quat' Saisons, a Belmond Hotel",Great Milton,220,GBP,French,2
+Restaurant Sat Bains,Nottingham,195,GBP,Creative,2
+Midsummer House,Cambridge,250,GBP,Creative,2
+Moor Hall,Aughton,195,GBP,Creative British,2
+Hand and Flowers,Marlow,152,GBP,Modern British,2
+Le Gavroche,London,178,GBP,French,2
+La Dame de Pic London,London,195,GBP,Modern French,2
+Da Terra,London,175,GBP,Creative,2
+Ikoyi,London,170,GBP,Creative,2
+Story,London,185,GBP,Modern Cuisine,2
+Dinner by Heston Blumenthal,London,120,GBP,Traditional British,2
+A. Wong,London,160,GBP,Chinese,2
+The Clove Club,London,145,GBP,Creative,2
+Kitchen Table,London,250,GBP,Modern Cuisine,2
+Claude Bosi at Bibendum,London,195,GBP,French,2
+SENNS.Restaurant,Salzburg,205,EUR,Creative,2
+Ikarus,Salzburg,210,EUR,Creative,2
+Silvio Nickol Gourmet Restaurant,Vienna,180,EUR,Modern Cuisine,2
+Steirereck im Stadtpark,Vienna,185,EUR,"Creative, Contemporary",2
+Mraz & Sohn,Vienna,145,EUR,Creative,2
+Konstantin Filippou,Vienna,189,EUR,Modern Cuisine,2
+Chao Shang Chao,Beijing,"2,000",CNY,Chao Zhou,2
+Shanghai Cuisine,Beijing,"1,000",CNY,Shanghainese,2
+Jingji,Beijing,"2,000",CNY,Beijing Cuisine,2
+Sichuan Moon,Macau,"3,268",MOP,Sichuan,2
+Mizumi (Macau),Macau,"2,400",MOP,Japanese,2
+Alain Ducasse at Morpheus,Macau,"2,688",MOP,French Contemporary,2
+Feng Wei Ju,Macau,800,MOP,"Hunanese, Sichuan",2
+Wing Lei,Macau,"2,000",MOP,Cantonese,2
+L'Envol,Hong Kong,"3,688",HKD,French Contemporary,2
+Bo Innovation,Hong Kong,"1,880",HKD,Innovative,2
+Sun Tung Lok,Hong Kong,"1,200",HKD,Cantonese,2
+Écriture,Hong Kong,"2,080",HKD,French Contemporary,2
+Octavium,Hong Kong,"1,888",HKD,Italian,2
+Ying Jee Club,Hong Kong,"1,200",HKD,Cantonese,2
+Amber,Hong Kong,"2,530",HKD,French Contemporary,2
+Tin Lung Heen,Hong Kong,"1,800",HKD,Cantonese,2
+Yan Toh Heen,Hong Kong,"2,000",HKD,Cantonese,2
+Tate,Hong Kong,"1,980",HKD,Innovative,2
+Ta Vie,Hong Kong,"2,580",HKD,Innovative,2
+Arbor,Hong Kong,"1,988",HKD,Innovative,2
+Yu Zhi Lan,Chengdu,"2,000",CNY,Sichuan,2
+Sorn,Bangkok,"3,500",THB,Southern Thai,2
+Chef's Table,Bangkok,"7,900",THB,French Contemporary,2
+R-Haan,Bangkok,"2,912",THB,Thai,2
+Mezzaluna,Bangkok,"6,500",THB,French Contemporary,2
+Sühring,Bangkok,"5,500",THB,European Contemporary,2
+Le Normandie,Bangkok,"8,200",THB,French Contemporary,2
+Casa de Chá da Boa Nova,Leça da Palmeira,210,EUR,Seafood,2
+Ocean,Porches,210,EUR,Creative,2
+The Yeatman,Vila Nova de Gaia,180,EUR,Creative,2
+Il Gallo d'Oro,Funchal,200,EUR,Modern Cuisine,2
+Vila Joya,Albufeira,195,EUR,Creative,2
+Belcanto,Lisbon,195,EUR,Creative,2
+Alma,Lisbon,145,EUR,Creative,2
+El Molino de Urdániz,Urdaitz,140,EUR,Creative,2
+Casa Marcial,La Salgar,180,EUR,Creative,2
+Cabaña Buenavista,El Palmar,140,EUR,Creative,2
+Maralba,Almansa,96,EUR,"Creative, Castilian",2
+BonAmb,Xàbia,160,EUR,Creative,2
+Les Cols,Olot,155,EUR,Creative,2
+M.B,Guía de Isora,165,EUR,Creative,2
+Voro,Canyamel,140,EUR,Modern Cuisine,2
+Mugaritz,Errenteria,231,EUR,Creative,2
+Culler de Pau,O Grove,150,EUR,Creative,2
+Bo.TiC,Corçà,180,EUR,Creative,2
+Miramar,Llançà,195,EUR,Creative,2
+Bardal,Ronda,170,EUR,Creative,2
+El Portal de Echaurren,Ezcaray,165,EUR,"Creative, Modern Cuisine",2
+L'Escaleta,Cocentaina,145,EUR,"Creative, Mediterranean Cuisine",2
+Iván Cerdeño,Toledo,145,EUR,Modern Cuisine,2
+Ramón Freixa Madrid,Madrid,165,EUR,Creative,2
+Coque,Madrid,230,EUR,Creative,2
+Smoked Room,Madrid,185,EUR,Contemporary,2
+DSTAgE,Madrid,170,EUR,Creative,2
+Paco Roncero,Madrid,210,EUR,Creative,2
+Atrio,Cáceres,195,EUR,Creative,2
+Ricard Camarena,Valencia,195,EUR,Creative,2
+El Poblet,Valencia,160,EUR,Creative,2
+Noor,Córdoba,190,EUR,Creative,2
+Amelia by Paulo Airaudo,Donostia / San Sebastián,170,EUR,Creative,2
+Skina,Marbella,189,EUR,Modern Cuisine,2
+Disfrutar,Barcelona,210,EUR,Creative,2
+Cinc Sentits,Barcelona,139,EUR,Creative,2
+Moments,Barcelona,189,EUR,Creative,2
+Enoteca Paco Pérez,Barcelona,175,EUR,Modern Cuisine,2
+Cocina Hermanos Torres,Barcelona,195,EUR,Creative,2
+Angle,Barcelona,185,EUR,Modern Cuisine,2
+BEIGE Alain Ducasse,Tokyo,"30,000",JPY,French,2
+Sushi Kanesaka,Tokyo,"37,000",JPY,Sushi,2
+Jingumae Higuchi,Tokyo,"37,000",JPY,Japanese,2
+Jushu,Tokyo,"25,000",JPY,Japanese,2
+ASAHINA Gastronome,Tokyo,"28,000",JPY,French,2
+Daigo,Tokyo,"28,000",JPY,Shojin,2
+HOMMAGE,Tokyo,"27,000",JPY,French,2
+PRISMA,Tokyo,"21,000",JPY,Italian,2
+Ginza Fukuju,Tokyo,"61,000",JPY,Japanese,2
+Tempura Kondo,Tokyo,"24,000",JPY,Tempura,2
+Higashiazabu Amamoto,Tokyo,"42,000",JPY,Sushi,2
+LA TABLE de Joël Robuchon,Tokyo,"21,000",JPY,French,2
+Den,Tokyo,"23,000",JPY,Japanese,2
+Seisoka,Tokyo,"43,000",JPY,Japanese,2
+L'ATELIER de Joël Robuchon,Tokyo,"22,000",JPY,French,2
+Nabeno-Ism,Tokyo,"27,000",JPY,French,2
+Nihombashi-kakigaracho Sugita,Tokyo,"37,000",JPY,Sushi,2
+Ryuzu,Tokyo,"31,000",JPY,French,2
+Crony,Tokyo,"19,000",JPY,French,2
+Florilège,Tokyo,"19,000",JPY,French,2
+Usukifugu Yamadaya,Tokyo,"41,000",JPY,Fugu / Pufferfish,2
+Kobikicho Tomoki,Tokyo,"43,000",JPY,Sushi,2
+Seizan,Tokyo,"50,000",JPY,Japanese,2
+Ginza Kojyu,Tokyo,"45,000",JPY,Japanese,2
+Sukiyabashi Jiro Roppongiten,Tokyo,"39,000",JPY,Sushi,2
+PIERRE GAGNAIRE,Tokyo,"38,000",JPY,French,2
+ESqUISSE,Tokyo,"31,000",JPY,French,2
+Akasaka Kikunoi,Tokyo,"37,000",JPY,Japanese,2
+Sushi Kimura,Tokyo,"33,000",JPY,Sushi,2
+NARISAWA,Tokyo,"43,000",JPY,Innovative,2
+Ginza Shinohara,Tokyo,"33,000",JPY,Japanese,2
+Kaiseki Tsujitome,Tokyo,"53,000",JPY,Japanese,2
+Édition Koji Shimomura,Tokyo,"32,000",JPY,French,2
+Sawada,Tokyo,"38,000",JPY,Sushi,2
+ZURRIOLA,Tokyo,"28,000",JPY,Spanish,2
+Kaiseki Komuro,Tokyo,"73,000",JPY,Japanese,2
+Kutan,Tokyo,"34,000",JPY,Japanese,2
+Tentempura Uchitsu,Tokyo,"31,000",JPY,Tempura,2
+Tempura Ginya,Tokyo,"21,000",JPY,Tempura,2
+Kioicho Fukudaya,Tokyo,"53,000",JPY,Japanese,2
+Harutaka,Tokyo,"45,000",JPY,Sushi,2
+Kojima,SEOUL,"380,000",KRW,Sushi,2
+alla Prima,SEOUL,"200,000",KRW,Innovative,2
+Jungsik,SEOUL,"230,000",KRW,Contemporary,2
+Mosu,SEOUL,"270,000",KRW,Innovative,2
+Kwonsooksoo,SEOUL,"240,000",KRW,Korean,2
+Joo Ok,SEOUL,"200,000",KRW,Korean,2
+Mingles,SEOUL,"220,000",KRW,Contemporary,2
+Agli Amici,Godia,140,EUR,Modern Cuisine,2
+daní maison,Ischia,265,EUR,"Creative, Italian",2
+Castel finedining,Tirol,208,EUR,"Creative, Modern Cuisine",2
+La Peca,Lonigo,200,EUR,"Creative, Contemporary",2
+La Madia,Licata,170,EUR,"Creative, Sicilian",2
+La Trota,Rivodutri,140,EUR,"Creative, Regional Cuisine",2
+Villa Crespi,Orta San Giulio,190,EUR,"Creative, Mediterranean Cuisine",2
+Taverna Estia,Brusciano,190,EUR,Creative,2
+Caino,Montemerano,190,EUR,Modern Cuisine,2
+Quattro Passi,Marina del Cantone,200,EUR,"Mediterranean Cuisine, Italian",2
+Antica Osteria Cera,Lughetto,250,EUR,"Seafood, Modern Cuisine",2
+L'Olivo,Anacapri,220,EUR,"Creative, Italian",2
+Krèsios,Telese,150,EUR,"Creative, Contemporary",2
+Don Alfonso 1890,Sant' Agata sui Due Golfi,190,EUR,"Creative, Italian",2
+Harry's Piccolo,Trieste,200,EUR,Creative,2
+Arnolfo,Colle di Val d'Elsa,180,EUR,Creative,2
+Duomo,Ragusa,198,EUR,"Creative, Sicilian",2
+La Madernassa,Guarene,300,EUR,"Creative, Modern Cuisine",2
+Miramonti l'Altro,Concesio,150,EUR,"Modern Cuisine, Contemporary",2
+Antica Corona Reale,Cervere,150,EUR,"Piedmontese, Regional Cuisine",2
+D'O,Cornaredo,180,EUR,Creative,2
+Villa Feltrinelli,Gargnano,250,EUR,"Creative, Contemporary",2
+Bracali,Ghirlanda,250,EUR,Creative,2
+Torre del Saracino,Vico Equense,220,EUR,"Creative, Italian",2
+Piccolo Lago,Fondotoce,180,EUR,"Modern Cuisine, Contemporary",2
+Magnolia,Cesenatico,140,EUR,"Creative, Contemporary",2
+Il Piccolo Principe,Viareggio,230,EUR,Creative,2
+Gourmetstube Einhorn,Mauls,165,EUR,Creative,2
+San Domenico,Imola,190,EUR,Classic Cuisine,2
+Tre Olivi,Paestum,130,EUR,Modern Cuisine,2
+Il Luogo di Aimo e Nadia,Milan,280,EUR,"Italian Contemporary, Modern Cuisine",2
+Seta by Antonio Guida,Milan,280,EUR,"Contemporary, Modern Cuisine",2
+Terra,Sarentino,179,EUR,"Creative, Regional Cuisine",2
+Santa Elisabetta,Florence,200,EUR,"Creative, Mediterranean Cuisine",2
+Madonnina del Pescatore,Marzocca,175,EUR,Creative,2
+Il Pagliaccio,Rome,190,EUR,"Creative, Innovative",2
+Glam Enrico Bartolini,Venice,210,EUR,"Creative, Contemporary",2
+Casa Perbellini,Verona,225,EUR,"Creative, Contemporary",2
+Spondi,Athens,165,EUR,French,2
+Ji Pin Court,Shanghai,"1,000",CNY,Cantonese,2
+Da Vittorio,Shanghai,"2,888",CNY,Italian,2
+L'Atelier de Joël Robuchon,Shanghai,"1,798",CNY,French Contemporary,2
+8 ½ Otto e Mezzo Bombana,Shanghai,"2,380",CNY,Italian,2
+Imperial Treasure Fine Chinese Cuisine (Huangpu),Shanghai,"1,000",CNY,Cantonese,2
+Canton 8 (Runan Street),Shanghai,500,CNY,Cantonese,2
+Bao Li Xuan,Shanghai,"1,288",CNY,Cantonese,2
+Xin Rong Ji (Nanyang Road),Shanghai,"2,500",CNY,Taizhou,2
+Miyamoto,Osaka,"19,000",JPY,Japanese,2
+Shunsaiten Tsuchiya,Osaka,"24,000",JPY,Tempura,2
+Honkogetsu,Osaka,"49,000",JPY,Japanese,2
+KAHALA,Osaka,"31,000",JPY,Innovative,2
+Sushi Harasho,Osaka,"17,000",JPY,Sushi,2
+Tenjimbashi Aoki,Osaka,"22,000",JPY,Japanese,2
+La Cime,Osaka,"28,000",JPY,French,2
+Sushiyoshi,Osaka,"25,000",JPY,Sushi,2
+Fujiya 1935,Osaka,"28,000",JPY,Innovative,2
+Numata,Osaka,"22,000",JPY,Tempura,2
+Koryu,Osaka,"33,000",JPY,Japanese,2
+Gion Matayoshi,Kyoto,"37,000",JPY,Japanese,2
+Kappo Chihiro,Kyoto,"27,000",JPY,Japanese,2
+Kyokaiseki Kichisen,Kyoto,"39,000",JPY,Japanese,2
+Gion Maruyama,Kyoto,"64,000",JPY,Japanese,2
+Yusokuryori Mankamero,Kyoto,"38,000",JPY,Japanese,2
+Kenninji Gion Maruyama,Kyoto,"64,000",JPY,Japanese,2
+Kodaiji Wakuden,Kyoto,"50,000",JPY,Japanese,2
+Gion Nishikawa,Kyoto,"31,000",JPY,Japanese,2
+Ogata,Kyoto,"60,000",JPY,Japanese,2
+Kikunoi Roan,Kyoto,"32,000",JPY,Japanese,2
+Sumibi Kappo Ifuki,Kyoto,"35,000",JPY,Japanese,2
+Shimmonzen Yonemura,Kyoto,"21,000",JPY,Innovative,2
+Miyamaso,Kyoto,"32,000",JPY,Japanese,2
+Sojiki Nakahigashi,Kyoto,"26,000",JPY,Japanese,2
+Otagi,Kyoto,"22,000",JPY,Japanese,2
+Kyotenjin Noguchi,Kyoto,"35,000",JPY,Japanese,2
+Wagokoro Izumi,Kyoto,"29,000",JPY,Japanese,2
+Gion Owatari,Kyoto,"32,000",JPY,Japanese,2
+Oryori Mitsuyasu,Kyoto,"26,000",JPY,Japanese,2
+Harbor House,Elk,180,USD,"Californian, Creative",2
+Vespertine,Culver City,295,USD,Contemporary,2
+Providence,Hollywood,475,USD,Seafood,2
+Sushi Ginza Onodera,West Hollywood,300,USD,"Japanese, Sushi",2
+Addison,San Diego,275,USD,"Contemporary, French",2
+Commis,Oakland,189,USD,Contemporary,2
+Mélisse,Santa Monica,295,USD,French,2
+Hayato,Los Angeles,295,USD,"Japanese, Seafood",2
+n/naka,Los Angeles,285,USD,"Japanese, Contemporary",2
+Lazy Bear,San Francisco,221,USD,"Contemporary, Modern Cuisine",2
+Birdsong,San Francisco,255,USD,"Contemporary, American",2
+Saison,San Francisco,306,USD,"Californian, Contemporary",2
+Campton Place,San Francisco,167,USD,"Indian, Contemporary",2
+Acquerello,San Francisco,250,USD,"Italian, Contemporary",2
+Coi,San Francisco,250,USD,"Contemporary, Californian",2
+Californios,San Francisco,223,USD,"Mexican, Contemporary",2
+Hiša Franko,Kobarid,225,EUR,"Creative, Regional Cuisine",2
+Taian Table,Guangzhou,"2,368",CNY,European Contemporary,2
+Imperial Treasure Fine Chinese Cuisine,Guangzhou,"1,000",CNY,Cantonese,2
+Jiang by Chef Fei,Guangzhou,"1,280",CNY,Cantonese,2
+Oaxen Krog,Stockholm,"2,750",SEK,"Creative, Country cooking",2
+Gastrologik,Stockholm,"2,100",SEK,Creative,2
+Aloë,Stockholm,"2,800",SEK,Creative,2
+Vollmers,Malmo,"2,500",SEK,Creative,2
+RE-NAA,Stavanger,"2,900",NOK,Creative,2
+KOKS,Leynavatn,"1,900",DKK,Creative,2
+Henne Kirkeby Kro,Henne,"1,495",DKK,Classic Cuisine,2
+Kadeau Copenhagen,Copenhagen,"2,500",DKK,Modern Cuisine,2
+a|o|c,Copenhagen,"2,500",DKK,Modern Cuisine,2
+Jordnær,Copenhagen,"2,700",DKK,Creative,2
+Kong Hans Kælder,Copenhagen,"1,700",DKK,"Modern French, Seasonal Cuisine",2
+Alchemist,Copenhagen,"3,500",DKK,Innovative,2
+Shoukouwa,Singapore,650,SGD,Sushi,2
+Shisen Hanten,Singapore,150,SGD,"Cantonese, Sichuan",2
+Saint Pierre,Singapore,388,SGD,French Contemporary,2
+Waku Ghin,Singapore,700,SGD,Japanese Contemporary,2
+Jaan by Kirk Westaway,Singapore,288,SGD,British Contemporary,2
+Shoun Ryugin,Taipei,"6,500",TWD,Japanese Contemporary,2
+Logy,Taipei,"3,750",TWD,Asian Contemporary,2
+JL Studio,Taichung,"3,800",TWD,Innovative,2
+Sushi Amamoto,Taipei,"6,000",TWD,Sushi,2
+L'Atelier de Joël Robuchon,Taipei,"6,880",TWD,French Contemporary,2
+The Guest House,Taipei,"4,880",TWD,"Huaiyang, Sichuan",2
+Taïrroir,Taipei,"5,680",TWD,Innovative,2
+Raw,Taipei,"3,500",TWD,Innovative,2
+The Modern,New York,188,USD,Contemporary,2
+Blue Hill at Stone Barns,Tarrytown,278,USD,"American, Contemporary",2
+Ko,New York,225,USD,Contemporary,2
+Atomix,New York,325,USD,"Korean, Contemporary",2
+Atera,New York,285,USD,Contemporary,2
+Jean-Georges,New York,248,USD,"Contemporary, French Contemporary",2
+Blanca,New York,198,USD,Contemporary,2
+Jungsik,New York,235,USD,"Korean, Contemporary",2
+Gabriel Kreuther,New York,245,USD,"Contemporary, Alsatian",2
+Aska,New York,295,USD,"Scandinavian, Contemporary",2
+L'Atelier de Joël Robuchon,New York,235,USD,French,2
+Daniel,New York,250,USD,French,2
+Aquavit,New York,155,USD,"Scandinavian, Contemporary",2
+Oriole,Chicago,285,USD,"Contemporary, American Contemporary",2
+Smyth,Chicago,265,USD,"Contemporary, Modern Cuisine",2
+Ever,Chicago,285,USD,"Contemporary, Modern Cuisine",2
+Moody Tongue,Chicago,330,USD,"Contemporary, American Contemporary",2
+Jônt,Washington,305,USD,Contemporary,2
+Pineapple and Pearls,Washington,325,USD,Contemporary,2
+minibar,Washington,295,USD,Contemporary,2
+Sabero,Roermond,139,EUR,"Modern French, World Cuisine",2
+'t Nonnetje,Harderwijk,165,EUR,"Creative, Modern French",2
+De Lindenhof,Giethoorn,150,EUR,Creative,2
+Restaurant 212,Amsterdam,188,EUR,Creative,2
+Aan de Poel,Amstelveen,149,EUR,Creative,2
+De Treeswijkhoeve,Waalre,170,EUR,Creative,2
+Brut172,Reijmerstok,195,EUR,Creative,2
+Ciel Bleu,Amsterdam,595,EUR,Creative,2
+Pure C,Cadzand-Bad,250,EUR,Creative,2
+De Lindehof,Nuenen,175,EUR,Creative,2
+Tribeca,Heeze,195,EUR,Creative,2
+FG - François Geurds,Rotterdam,210,EUR,Creative,2
+De Kromme Watergang,Hoofdplaat,225,EUR,"Country cooking, Modern Cuisine",2
+De Bokkedoorns,Overveen,155,EUR,Modern Cuisine,2
+Fred,Rotterdam,188,EUR,Creative French,2
+Spectrum,Amsterdam,180,EUR,Creative,2
+De Groene Lantaarn,Staphorst,145,EUR,"Creative, Seasonal Cuisine",2
+Parkheuvel,Rotterdam,170,EUR,Modern Cuisine,2
+Stucki - Tanja Grandits,Basel,240,CHF,"Creative, Modern Cuisine",2
+Maison Wenger,Le Noirmont,275,CHF,"Modern French, French",2
+Da Vittorio,Saint Moritz,450,CHF,Italian,2
+focus ATELIER,Vitznau,265,CHF,Creative,2
+Cà d'Oro,Saint Moritz,287,CHF,Mediterranean Cuisine,2
+Ecco,Ascona,240,CHF,Creative,2
+Anne-Sophie Pic,Lausanne,395,CHF,Creative,2
+Taverne zum Schäfli,Wigoltingen,220,CHF,"Classic French, Market Cuisine",2
+Ecco St. Moritz,Saint Moritz,300,CHF,Creative,2
+Einstein Gourmet,Sankt Gallen,215,CHF,"Creative, Modern Cuisine",2
+7132 Silver,Vals,275,CHF,"Creative, Innovative",2
+Domaine de Châteauvieux,Satigny,320,CHF,"Modern French, French",2
+The Restaurant,Zurich,298,CHF,"Creative, Modern Cuisine",2
+Gasthaus Zur Fernsicht - Incantare,Heiden,250,CHF,"Classic Cuisine, Creative",2
+Magdalena,Schwyz,185,CHF,"Modern Cuisine, Seasonal Cuisine",2
+Memories,Bad Ragaz,329,CHF,"Creative, Market Cuisine",2
+IGNIV by Andreas Caminada,Saint Moritz,280,CHF,Creative,2
+Widder Restaurant,Zurich,260,CHF,"Modern French, Contemporary",2
+Adelboden,Steinen,195,CHF,"Classic French, Classic Cuisine",2
+IGNIV by Andreas Caminada,Bad Ragaz,248,CHF,Creative,2
+Pavillon,Zurich,275,CHF,Classic French,2
+Sens,Vitznau,195,CHF,"Modern Cuisine, Market Cuisine",2
+RICO'S,Küsnacht,260,CHF,"Modern Cuisine, Mediterranean Cuisine",2
+Auberge du Cheval Blanc,Lembach,145,EUR,Creative,2
+La Table d'Olivier Nasti,Kaysersberg,240,EUR,Creative,2
+La Table de l'Alpaga,Megève,190,EUR,Modern Cuisine,2
+Jean Sulpice,Talloires-Montmin,275,EUR,Creative,2
+La Pyramide - Patrick Henriroux,Vienne,204,EUR,Modern Cuisine,2
+Le Montgomerie,Courchevel,310,EUR,"Creative, Modern Cuisine",2
+Serge Vieira,Chaudes-Aigues,215,EUR,Creative,2
+Racine,Reims,205,EUR,Modern Cuisine,2
+Sarkara,Courchevel,250,EUR,Creative,2
+Au 14 Février,Saint-Amour-Bellevue,125,EUR,Creative,2
+La Côte d'Or,Saulieu,255,EUR,Modern Cuisine,2
+La Maison des Bois - Marc Veyrat,Manigod,395,EUR,Creative,2
+Les Hauts de Loire,Onzain,175,EUR,Classic Cuisine,2
+Michel Kayser - Restaurant Alexandre,Garons,223,EUR,Modern Cuisine,2
+La Table de Pavie,Saint-Emilion,215,EUR,"Modern Cuisine, Creative",2
+Le Kintessence,Courchevel,350,EUR,"Modern Cuisine, Creative",2
+Le Parc Les Crayères,Reims,295,EUR,Modern Cuisine,2
+Maison Rostang,Paris,203,EUR,Classic Cuisine,2
+La Scène,Paris,250,EUR,Modern Cuisine,2
+Le Pré - Xavier Beaudiment,Clermont-Ferrand,180,EUR,Creative,2
+La Côte Saint-Jacques,Joigny,238,EUR,Classic Cuisine,2
+Le Clarence,Paris,320,EUR,Modern Cuisine,2
+La Villa Archange,Le Cannet,350,EUR,Modern Cuisine,2
+Paul Bocuse,Collonges-au-Mont-d'Or,295,EUR,Classic Cuisine,2
+Le Grand Restaurant - Jean-François Piège,Paris,346,EUR,Modern Cuisine,2
+Le Neuvième Art,Lyon,190,EUR,Creative,2
+Le Pressoir d'Argent - Gordon Ramsay,Bordeaux,250,EUR,Modern Cuisine,2
+La Marine,L'Herbaudière,220,EUR,"Creative, Seafood",2
+Hostellerie Jérôme,La Turbie,185,EUR,Mediterranean Cuisine,2
+Les Morainières,Jongieux,220,EUR,"Creative, Modern Cuisine",2
+Relais de la Poste,Magescq,150,EUR,Classic Cuisine,2
+Le Taillevent,Paris,250,EUR,Classic Cuisine,2
+L'Abysse au Pavillon Ledoyen,Paris,320,EUR,"Japanese, Creative",2
+Anne de Bretagne,La Plaine-sur-Mer,170,EUR,Creative,2
+David Toutain,Paris,270,EUR,"Creative, Modern Cuisine",2
+Château de Beaulieu - Christophe Dufossé,Busnes,220,EUR,Modern Cuisine,2
+Le Puits St-Jacques,Pujaudran,143,EUR,Creative,2
+Les Cèdres,Granges-les-Beaumont,180,EUR,Classic Cuisine,2
+Takao Takano,Lyon,160,EUR,Creative,2
+Villa René Lalique,Wingen-sur-Moder,230,EUR,"Creative, Modern Cuisine",2
+Restaurant Le Meurice Alain Ducasse,Paris,320,EUR,Creative,2
+Le Chabichou by Stéphane Buron,Courchevel,345,EUR,Classic Cuisine,2
+JY'S,Colmar,194,EUR,Creative,2
+La Grenouillère,La Madelaine-sous-Montreuil,215,EUR,"Modern Cuisine, Creative",2
+Casadelmar,Porto-Vecchio,270,EUR,Modern Cuisine,2
+La Table Lionel Giraud,Narbonne,145,EUR,Creative,2
+La Fourchette des Ducs,Obernai,245,EUR,Creative,2
+Sur Mesure par Thierry Marx,Paris,195,EUR,Creative,2
+Py-r,Toulouse,98,EUR,Modern Cuisine,2
+Marsan par Hélène Darroze,Paris,420,EUR,Modern Cuisine,2
+Le Gabriel - La Réserve Paris,Paris,195,EUR,Modern Cuisine,2
+La Palme d'Or,Cannes,260,EUR,Creative,2
+Jean-Luc Tartarin,Le Havre,135,EUR,"Modern Cuisine, Creative",2
+Le Coquillage,Cancale,165,EUR,"Creative, Seafood",2
+L'Atelier d'Edmond,Val-d'Isère,210,EUR,Creative,2
+Yoann Conte,Veyrier-du-Lac,330,EUR,Creative,2
+La Villa Madie,Cassis,250,EUR,"Creative, Mediterranean Cuisine",2
+Le Skiff Club,Pyla-sur-Mer,210,EUR,Modern Cuisine,2
+Michel Sarran,Toulouse,180,EUR,Creative,2
+Auberge de l'Ill,Illhaeusern,247,EUR,Classic Cuisine,2
+William Frachot,Dijon,172,EUR,Creative,2
+La Merise,Laubach,157,EUR,Modern Cuisine,2
+L'Auberge des Glazicks,Plomodiern,190,EUR,Creative,2
+ex Maison Jeunet/Hôtel de Paris,Arbois,155,EUR,Creative,2
+Bras,Laguiole,245,EUR,Creative,2
+La Voile - La Réserve Ramatuelle,Ramatuelle,210,EUR,Modern Cuisine,2
+La Table de Franck Putelat,Carcassonne,230,EUR,Modern Cuisine,2
+La Maison d'à Côté,Montlivault,218,EUR,"Modern Cuisine, Creative",2
+Mère Brazier,Lyon,300,EUR,Classic Cuisine,2
+La Grand'Vigne - Les Sources de Caudalie,Martillac,205,EUR,Modern Cuisine,2
+Maison Aribert,Uriage-les-Bains,195,EUR,Creative,2
+Flaveur,Nice,200,EUR,Creative,2
+Ma Langue Sourit,Oetrange,160,EUR,Modern Cuisine,2
+bon bon,Woluwe-Saint-Pierre,245,EUR,"Creative, Organic",2
+De Jonkman,Sint-Kruis,315,EUR,Creative,2
+d'Eugénie à Emilie,Baudour,170,EUR,"Classic French, Traditional Cuisine",2
+L'Eau Vive,Arbre,165,EUR,"Modern French, Modern Cuisine",2
+Hostellerie Le Fox,De Panne,180,EUR,Creative French,2
+Nuance,Duffel,215,EUR,Creative,2
+La Durée,Izegem,232,EUR,"Creative, Modern Cuisine",2
+L'Air du Temps,Liernu,210,EUR,"Creative, Modern Cuisine",2
+Le Chalet de la Forêt,Uccle,207,EUR,Creative,2
+Bartholomeus,Heist,210,EUR,Modern Cuisine,2
+Vrijmoed,Gent,203,EUR,"Creative, Modern Cuisine",2
+The Jane,Antwerpen,230,EUR,Creative,2
+Ralf Berendsen,Neerharen,245,EUR,Creative,2
+La Table de Maxime,Our,167,EUR,Modern Cuisine,2
+Comme chez Soi,Brussels,298,EUR,Classic Cuisine,2
+Boury,Roeselare,160,EUR,Creative French,2
+Slagmolen,Opglabbeek,185,EUR,Traditional Cuisine,2
+Hostellerie St-Nicolas,Elverdinge,195,EUR,Creative,2
+Castor,Beveren-Leie,161,EUR,Modern French,2
+Pastorale,Reet,195,EUR,Creative,2
+Château du Mylord,Ellezelles,270,EUR,Contemporary,2
+Cuchara,Lommel,215,EUR,"Creative, Modern Cuisine",2
+La Paix,Anderlecht,235,EUR,"Asian Influences, Creative",2
+D.O.M.,São Paulo,700,BRL,Creative,2
+Ryo Gastronomia,São Paulo,650,BRL,Japanese,2
+Oteque,Rio de Janeiro,440,BRL,Modern Cuisine,2
+Oro,Rio de Janeiro,555,BRL,Creative,2
+Speiseberg,Halle (saale),100,EUR,"Modern Cuisine, Creative",1
+Aska,Regensburg,120,EUR,"Japanese, Sushi",1
+PUR,Berchtesgaden,185,EUR,"Classic Cuisine, Modern Cuisine",1
+Mühle,Schluchsee,115,EUR,"Modern French, Creative",1
+Pietsch,Wernigerode,140,EUR,"Creative, Japanese",1
+Traube,Efringen-Kirchen,120,EUR,"Modern Cuisine, Regional Cuisine",1
+Iuma,Dortmund,153,EUR,"Fusion, Japanese",1
+Stadtpfeiffer,Leipzig,150,EUR,Modern French,1
+Schwingshackl ESSKULTUR Gourmet,Bad Tölz,125,EUR,"Classic French, Contemporary",1
+Roter Hahn,Regensburg,160,EUR,Modern Cuisine,1
+Coeur D'Artichaut,Münster,160,EUR,"Modern French, Regional Cuisine",1
+Hummels Gourmetstube,Duggendorf,85,EUR,"Market Cuisine, International",1
+VILLINO,Lindau,158,EUR,"Modern Cuisine, Asian Influences",1
+Kulmeck by Tom Wickboldt,Heringsdorf,150,EUR,"Modern Cuisine, Creative",1
+astrein,Cologne,129,EUR,"Classic Cuisine, Modern Cuisine",1
+Weinschänke Schloss Groenesteyn,Kiedrich,185,EUR,"Modern Cuisine, Market Cuisine",1
+Werneckhof Sigi Schelling,Munich,160,EUR,French Contemporary,1
+Balthazar,Timmendorfer Strand,159,EUR,"Innovative, Modern Cuisine",1
+Bricole,Berlin,79,EUR,"Modern French, Contemporary",1
+Votum,Hanover,194,EUR,"Creative, Modern Cuisine",1
+s'Äpfle,Bodman-Ludwigshafen,169,EUR,"Modern Cuisine, Creative",1
+Shiraz,Wuppertal,160,EUR,"Classic French, Market Cuisine",1
+Alte Liebe,Augsburg,110,EUR,"Modern Cuisine, Seasonal Cuisine",1
+Irma la Douce,Berlin,89,EUR,Modern French,1
+Troyka,Erkelenz,135,EUR,"Modern Cuisine, Russian",1
+OX,Darmstadt,190,EUR,Modern Cuisine,1
+Michael's Leitenberg,Frasdorf,149,EUR,"Creative, International",1
+L'étable,Bad Hersfeld,126,EUR,"Classic Cuisine, Seasonal Cuisine",1
+Petit Amour,Hamburg,190,EUR,"Creative French, Classic Cuisine",1
+"Gourmetrestaurant ""fine dining RS""",Salach,172,EUR,"French Contemporary, Modern Cuisine",1
+Gabelspiel,Munich,145,EUR,"Modern Cuisine, Market Cuisine",1
+Acquarello,Munich,185,EUR,"Italian, Mediterranean Cuisine",1
+Clostermanns Le Gourmet,Niederkassel,149,EUR,"Creative, Market Cuisine",1
+Camers Schlossrestaurant,Hohenkammer,150,EUR,"Asian Influences, Classic French",1
+Sartory,Augsburg,189,EUR,"Classic Cuisine, Modern Cuisine",1
+Gasthof Krone,Waldenbuch,108,EUR,Classic Cuisine,1
+Schwarz Gourmet,Kirchheim an der Weinstraße,159,EUR,"French, International",1
+Keidenzeller Hof,Langenzenn,120,EUR,"Modern Cuisine, International",1
+Zeik,Hamburg,99,EUR,"Modern Cuisine, Market Cuisine",1
+Carmelo Greco,Frankfurt on the Main,120,EUR,Italian,1
+5,Stuttgart,179,EUR,Modern Cuisine,1
+Français,Frankfurt on the Main,205,EUR,"Modern French, Classic Cuisine",1
+Genießer Stube,Friedland,150,EUR,Classic Cuisine,1
+Gourmetrestaurant Dirk Maus,Heidesheim am Rhein,140,EUR,"Classic French, Market Cuisine",1
+Schwarzer Hahn,Deidesheim,164,EUR,"Modern French, Seasonal Cuisine",1
+Bachofer,Waiblingen,158,EUR,Creative,1
+Zur Krone,Neupotz,132,EUR,"Market Cuisine, Classic Cuisine",1
+The O'ROOM,Heringsdorf,150,EUR,Creative,1
+"Christian & Friends, Tastekitchen",Fulda,95,EUR,"Modern Cuisine, Classic Cuisine",1
+Friedrich Franz,Bad Doberan,249,EUR,Modern Cuisine,1
+Nagaya,Düsseldorf,198,EUR,Japanese,1
+Richard,Berlin,98,EUR,Modern French,1
+Merkles Restaurant,Endingen am Kaiserstuhl,129,EUR,"Modern Cuisine, International",1
+Seestern,Ulm,169,EUR,Modern French,1
+Setzkasten,Düsseldorf,129,EUR,"Modern Cuisine, International",1
+Agata's,Düsseldorf,139,EUR,"Modern Cuisine, International",1
+Oettinger's Restaurant,Fellbach,127,EUR,"Modern French, Country cooking",1
+Cordo,Berlin,150,EUR,"Creative, Modern Cuisine",1
+Kucher's Gourmet,Darscheid,119,EUR,"Classic Cuisine, Modern Cuisine",1
+Hirsch,Sonnenbühl,125,EUR,"Classic Cuisine, Market Cuisine",1
+Philipp,Sommerhausen,155,EUR,"Modern French, Classic Cuisine",1
+maiBeck,Cologne,59,EUR,"Modern Cuisine, Country cooking",1
+Haubentaucher,Rottach-Egern,100,EUR,"International, Market Cuisine",1
+Da Vinci,Koblenz,158,EUR,"French, Creative",1
+Wielandshöhe,Stuttgart,150,EUR,"Classic French, Regional Cuisine",1
+Adler,Lahr,179,EUR,Modern French,1
+Haus Stemberg,Velbert,105,EUR,"Market Cuisine, Modern Cuisine",1
+1876 Daniel Dal-Ben,Düsseldorf,198,EUR,"Creative, Modern Cuisine",1
+Malathounis,Kernen im Remstal,98,EUR,"Mediterranean Cuisine, Greek",1
+Zur Post,Odenthal,145,EUR,Modern Cuisine,1
+Burg Nideggen - Brockel Schlimbach,Nideggen,140,EUR,"Modern Cuisine, Modern French",1
+einsunternull,Berlin,185,EUR,"Creative, Contemporary",1
+La Bécasse,Aachen,118,EUR,Classic French,1
+Das Grace,Flensburg,140,EUR,"Modern Cuisine, Market Cuisine",1
+Zeitwerk,Wernigerode,140,EUR,"Creative, Modern Cuisine",1
+PAVO im Burghotel Falkenstein,Pfronten,140,EUR,"Modern Cuisine, Classic Cuisine",1
+Alt Wyk,Wyk,110,EUR,Classic Cuisine,1
+Gasthof zum Bad,Langenau,136,EUR,"Classic Cuisine, Market Cuisine",1
+Buchner Welchenberg 1658,Niederwinkling,149,EUR,"Modern Cuisine, Classic Cuisine",1
+L.A. Jordan,Deidesheim,205,EUR,"Creative, Modern Cuisine",1
+mural,Munich,155,EUR,"Creative, Modern Cuisine",1
+Frieda,Leipzig,113,EUR,"Creative, Market Cuisine",1
+Goldener Anker,Dorsten,155,EUR,"Classic Cuisine, Modern Cuisine",1
+Atelier Sanssouci,Radebeul,139,EUR,"Classic Cuisine, Modern Cuisine",1
+Die Brasserie,Pirmasens,109,EUR,"Classic Cuisine, Contemporary",1
+Werners Restaurant,Gernsbach,120,EUR,Classic French,1
+Masa Japanese Cuisine,Frankfurt on the Main,140,EUR,"Japanese, Japanese Contemporary",1
+La Cuisine Rademacher,Cologne,115,EUR,Modern French,1
+maximilian lorenz,Cologne,152,EUR,"Modern Cuisine, Market Cuisine",1
+Marly,Mannheim,129,EUR,"Classic Cuisine, Mediterranean Cuisine",1
+Le Jardin de France,Baden-Baden,115,EUR,Classic French,1
+Wullenwever,Lübeck,125,EUR,"Classic Cuisine, Mediterranean Cuisine",1
+Schwitzer's am Park,Waldbronn,189,EUR,Classic Cuisine,1
+KUNO 1408,Würzburg,126,EUR,"Creative, Modern Cuisine",1
+taku,Cologne,130,EUR,"Asian, Fusion",1
+Gourmet Restaurant im Schlosshotel Münchhausen,Aerzen,190,EUR,"Classic French, Mediterranean Cuisine",1
+Restaurant 1797,Panker,119,EUR,"Creative French, Market Cuisine",1
+Le Gourmet,Heidelberg,160,EUR,"Classic French, Modern Cuisine",1
+Oben,Heidelberg,140,EUR,"Creative, Seasonal Cuisine",1
+Mühlenhelle,Gummersbach,139,EUR,Modern French,1
+Alte Schule - Klassenzimmer,Feldberger Seenlandschaft,160,EUR,"Modern Cuisine, Country cooking",1
+The Stage,Dortmund,125,EUR,"Contemporary, Modern French",1
+freustil,Ostseebad Binz,106,EUR,Creative,1
+Hannappel,Essen,118,EUR,"Modern Cuisine, Classic Cuisine",1
+tulus lotrek,Berlin,175,EUR,"Modern Cuisine, International",1
+Bembergs Häuschen,Euskirchen,187,EUR,Modern Cuisine,1
+Cheval Blanc,Illschwang,138,EUR,"Classic Cuisine, Modern French",1
+SIEDEPUNKT,Ulm,135,EUR,"Modern French, International",1
+Sterneck,Cuxhaven,195,EUR,Creative,1
+Gasthaus Jakob,Perasdorf,89,EUR,"Classic Cuisine, Modern Cuisine",1
+BODENDORF'S,Tinnum,218,EUR,"Modern French, International",1
+Kin Dee,Berlin,65,EUR,Thai,1
+Balthasar,Paderborn,155,EUR,"Modern French, Market Cuisine",1
+Maître im Landhaus Kuckuck,Cologne,159,EUR,"Classic French, Market Cuisine",1
+REISERS am Stein,Würzburg,125,EUR,"Creative, Classic Cuisine",1
+Délice,Stuttgart,135,EUR,"Creative, Mediterranean Cuisine",1
+Landhaus Feckl,Ehningen,112,EUR,"Classic French, Seasonal Cuisine",1
+Christian's Restaurant - Gasthof Grainer,Kirchdorf,125,EUR,Classic Cuisine,1
+GOLVET,Berlin,129,EUR,Creative,1
+La Société,Cologne,179,EUR,"Modern Cuisine, International",1
+Alfredo,Cologne,83,EUR,"Italian, Mediterranean Cuisine",1
+Schwarzer Adler,Vogtsburg im Kaiserstuhl,125,EUR,Classic French,1
+Genuss-Apotheke,Bad Säckingen,181,EUR,"Creative, Modern Cuisine",1
+Gutshaus Stolpe,Stolpe,170,EUR,Creative,1
+Elements,Dresden,85,EUR,"Modern Cuisine, International",1
+NeoBiota,Cologne,155,EUR,"Modern Cuisine, Creative",1
+SoulFood,Auerbach in der Oberpfalz,79,EUR,"Creative, Market Cuisine",1
+Alte Pfarrey,Neuleiningen,137,EUR,"Modern French, Classic Cuisine",1
+Ente,Wiesbaden,180,EUR,"Classic French, Seasonal Cuisine",1
+Landhaus Scherrer,Hamburg,135,EUR,"Classic Cuisine, Regional Cuisine",1
+La Vallée Verte,Herleshausen,255,EUR,"Creative, French",1
+Ratsstuben,Haltern am See,148,EUR,Modern Cuisine,1
+ernst,Berlin,225,EUR,"Creative, Modern Cuisine",1
+Maerz - Das Restaurant,Bietigheim-Bissingen,135,EUR,"Creative French, Modern Cuisine",1
+Silberdistel,Ofterschwang,298,EUR,Classic Cuisine,1
+ESS ATELIER STRAUSS,Oberstdorf,180,EUR,"Classic Cuisine, Modern Cuisine",1
+Cookies Cream,Berlin,149,EUR,Vegetarian,1
+Sankt Benedikt,Aachen,155,EUR,"Creative, Modern French",1
+Laurentius,Weikersheim,136,EUR,"Country cooking, Classic Cuisine",1
+BECKER'S,Trier,125,EUR,"Creative, Classic Cuisine",1
+Maltes hidden kitchen,Baden-Baden,109,EUR,"Modern Cuisine, Creative",1
+Pottkind,Cologne,140,EUR,"Creative, Modern Cuisine",1
+Weinstock,Volkach,91,EUR,"Creative, Market Cuisine",1
+Gut Lärchenhof,Pulheim,199,EUR,"Modern French, Creative",1
+Mod by Sven Nöthel,Duisburg,115,EUR,"Modern Cuisine, Creative",1
+Schote,Essen,189,EUR,"Modern Cuisine, Market Cuisine",1
+Hämmerle's Restaurant - Barrique,Blieskastel,108,EUR,Modern French,1
+Restaurant Villa Merton,Frankfurt on the Main,145,EUR,"Classic Cuisine, Modern Cuisine",1
+SKYKITCHEN,Berlin,125,EUR,Modern Cuisine,1
+Schiller's Manufaktur,Koblenz,185,EUR,"Classic Cuisine, Mediterranean Cuisine",1
+Lamm Rosswag,Vaihingen an der Enz,145,EUR,"Modern Cuisine, Creative",1
+Schlossberg,Baiersbronn,172,EUR,"Creative, Classic Cuisine",1
+Wein- und Tafelhaus,Trittenheim,170,EUR,"Market Cuisine, Mediterranean Cuisine",1
+Yoshi by Nagaya,Düsseldorf,148,EUR,"Japanese, Sushi",1
+Der Zauberlehrling,Stuttgart,140,EUR,Creative,1
+Kunz,Sankt Wendel,125,EUR,Classic French,1
+Erno's Bistro,Frankfurt on the Main,165,EUR,"Classic French, Modern Cuisine",1
+Das Maximilians,Oberstdorf,147,EUR,Modern French,1
+Schloss Loersfeld,Kerpen,145,EUR,"Classic French, International",1
+Rüssel's Landhaus,Naurath/Wald,175,EUR,"Creative, Market Cuisine",1
+Leos by Stephan Brandl,Bad Kötzing,135,EUR,"Creative, Classic Cuisine",1
+Kaupers Restaurant im Kapellenhof,Selzen,125,EUR,"Modern Cuisine, Creative",1
+Nobelhart & Schmutzig,Berlin,145,EUR,"Creative, Regional Cuisine",1
+Le Flair,Düsseldorf,130,EUR,French,1
+Bandol sur mer,Berlin,139,EUR,Modern French,1
+prism,Berlin,165,EUR,"Israeli, Modern Cuisine",1
+Frühsammers Restaurant,Berlin,135,EUR,"Classic Cuisine, French Contemporary",1
+Ostseelounge,Dierhagen,148,EUR,Modern Cuisine,1
+Seven Swans,Frankfurt on the Main,129,EUR,"Vegan, Creative",1
+Jungborn,Bad Sobernheim,144,EUR,"Modern Cuisine, International",1
+Piment,Hamburg,155,EUR,"Creative, North African",1
+Schattbuch,Amtzell,115,EUR,"Creative, Modern Cuisine",1
+Ich weiß ein Haus am See,Krakow am See,110,EUR,Classic French,1
+Gourmet-Restaurant Der Butt,Rostock,189,EUR,"Modern Cuisine, Creative",1
+THE IZAKAYA,Wachenheim an der Weinstraße,115,EUR,"Modern Cuisine, Fusion",1
+360°,Limburg an der Lahn,160,EUR,"Modern Cuisine, International",1
+Hupperts,Stuttgart,119,EUR,Classic Cuisine,1
+Aubergine,Starnberg,124,EUR,Creative,1
+Lakeside,Hamburg,175,EUR,Modern Cuisine,1
+Schwabenstube,Asperg,115,EUR,Classic French,1
+PHOENIX,Düsseldorf,114,EUR,"International, Classic Cuisine",1
+Im Schiffchen,Düsseldorf,160,EUR,Mediterranean Cuisine,1
+DR.KOSCH,Düsseldorf,110,EUR,Modern Cuisine,1
+YOSO,Andernach,112,EUR,"Asian, Modern Cuisine",1
+Bieberbau,Berlin,84,EUR,"Modern Cuisine, International",1
+Erbprinz,Ettlingen,170,EUR,"Classic Cuisine, International",1
+Eckert,Grenzach-Wyhlen,125,EUR,"Creative, Modern Cuisine",1
+Storchen,Bad Krozingen,128,EUR,"Classic Cuisine, Market Cuisine",1
+Friedrich,Osnabrück,139,EUR,"Modern French, Creative",1
+Reuter,Rheda-Wiedenbrück,169,EUR,"Modern French, Creative",1
+Waidwerk,Nuremberg,190,EUR,Modern Cuisine,1
+Doblers,Mannheim,108,EUR,Classic Cuisine,1
+Alte Überfahrt,Werder,100,EUR,"Modern Cuisine, Creative",1
+kochZIMMER in der Gaststätte zur Ratswaage,Potsdam,175,EUR,"Modern Cuisine, Market Cuisine",1
+TIAN,Munich,125,EUR,Vegetarian,1
+sein,Karlsruhe,130,EUR,Modern Cuisine,1
+Veles,Nuremberg,105,EUR,"Modern Cuisine, Market Cuisine",1
+JUWEL,Schirgiswalde-Kirschau,194,EUR,"Modern French, Creative",1
+Les Deux,Munich,185,EUR,Modern French,1
+Gourmetrestaurant Dichter,Rottach-Egern,218,EUR,"French Contemporary, Creative French",1
+Oswald's Gourmetstube,Teisnach,155,EUR,"Modern French, Contemporary",1
+Tantris DNA,Munich,178,EUR,Classic French,1
+Gotthardt's,Koblenz,149,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Stein's Traube,Mainz,120,EUR,"Market Cuisine, Classic Cuisine",1
+[KOOK] 36,Moos bei Deggendorf,114,EUR,"Creative, Modern Cuisine",1
+Johanns,Waldkirchen,82,EUR,"Modern Cuisine, Country cooking",1
+Ahlmanns,Kiel,139,EUR,Creative,1
+faelt,Berlin,89,EUR,"Regional Cuisine, Modern Cuisine",1
+Genuss-Atelier,Dresden,95,EUR,"Modern Cuisine, Creative",1
+Yunico,Bonn,170,EUR,"Japanese, Modern Cuisine",1
+Grammons Restaurant,Dortmund,129,EUR,"Contemporary, Classic French",1
+Ritzi Gourmet,Stuttgart,149,EUR,"Creative French, Modern Cuisine",1
+Zur Tant,Cologne,98,EUR,"Classic Cuisine, Market Cuisine",1
+Schwarzreiter,Munich,185,EUR,"Modern Cuisine, Country cooking",1
+halbedel's Gasthaus,Bonn,150,EUR,Modern French,1
+Sparkling Bistro,Munich,155,EUR,"Modern Cuisine, Market Cuisine",1
+Koch und Kellner,Nuremberg,170,EUR,"Modern Cuisine, International",1
+Apicius,Bad Zwischenahn,165,EUR,Modern French,1
+Jellyfish,Hamburg,179,EUR,"Seafood, Modern Cuisine",1
+Hofstube,Schmallenberg,144,EUR,Modern Cuisine,1
+TAWA YAMA FINE,Karlsruhe,119,EUR,"Modern Cuisine, International",1
+Le temple,Neuhütten,165,EUR,Modern French,1
+Admiral,Weisenheim am Berg,140,EUR,"Contemporary, Classic Cuisine",1
+ZweiSinn Meiers | Fine Dining,Nuremberg,150,EUR,"Creative, Modern Cuisine",1
+ferment,Münster,139,EUR,"Creative, Modern Cuisine",1
+Gregor's Fine Dining,Rötz,148,EUR,"Classic Cuisine, Creative",1
+Berens am Kai,Düsseldorf,107,EUR,Modern Cuisine,1
+SEO Küchenhandwerk,Langenargen,198,EUR,"Modern Cuisine, Creative",1
+Anthony's Kitchen,Meerbusch,185,EUR,"Innovative, International",1
+der Schneider,Dortmund,155,EUR,"Modern Cuisine, Creative",1
+Storstad,Regensburg,150,EUR,Creative,1
+Jean,Eltville am Rhein,125,EUR,"Classic French, Mediterranean Cuisine",1
+Handwerk,Hanover,95,EUR,"Modern Cuisine, Creative",1
+Gasthaus zum Raben,Horben,122,EUR,"Classic French, International",1
+San Martino - Gourmet,Constance,182,EUR,Creative French,1
+MAIN TOWER Restaurant & Lounge,Frankfurt on the Main,159,EUR,"Modern Cuisine, International",1
+BjörnsOX,Dermbach,129,EUR,"Creative, Market Cuisine",1
+Mountain Hub Gourmet,Munich,165,EUR,"Modern Cuisine, Creative",1
+Casala,Meersburg,145,EUR,"Modern Cuisine, Market Cuisine",1
+Entenstuben,Nuremberg,135,EUR,Modern Cuisine,1
+Showroom,Munich,160,EUR,Creative,1
+noVa,Herrenberg,132,EUR,"Creative, Modern Cuisine",1
+Alte Baiz,Neuhausen,152,EUR,"Modern Cuisine, Creative",1
+Schloss Filseck,Uhingen,160,EUR,"Mediterranean Cuisine, Market Cuisine",1
+Anima,Tuttlingen,135,EUR,"Creative, Modern Cuisine",1
+Rebers Pflug,Schwäbisch Hall,120,EUR,Market Cuisine,1
+Kesselhaus,Osnabrück,128,EUR,"Creative, Modern Cuisine",1
+Eisenbahn,Schwäbisch Hall,148,EUR,Modern French,1
+FAVORITE restaurant,Mainz,150,EUR,"Modern French, Creative",1
+Das Marktrestaurant,Mittenwald,110,EUR,Country cooking,1
+Weinsinn,Frankfurt on the Main,125,EUR,"Modern Cuisine, Creative",1
+Ursprung,Königsbronn,145,EUR,"Creative, Country cooking",1
+zeit|geist,Weingarten,99,EUR,"Creative, Fusion",1
+Landwerk,Wallerfangen,145,EUR,"Modern Cuisine, French",1
+Restaurant Urgestein,Neustadt an der Weinstraße,140,EUR,"Modern Cuisine, International",1
+Landhaus Köpp,Xanten,84,EUR,"Classic French, Classic Cuisine",1
+DiVa,Scharbeutz,129,EUR,"Modern French, International",1
+Philipp Soldan,Frankenberg,125,EUR,"Creative, Modern Cuisine",1
+KAI3,Hörnum,148,EUR,"Creative, Modern Cuisine",1
+Jan´s Restaurant,Detmold,99,EUR,"Seasonal Cuisine, Modern Cuisine",1
+temporaire - Köhlerstube,Baiersbronn,160,EUR,"Modern Cuisine, Asian Influences",1
+Laudensacks Gourmet Restaurant,Bad Kissingen,138,EUR,"Classic Cuisine, International",1
+Hugos,Berlin,180,EUR,"Modern Cuisine, Modern French",1
+Wirtshaus Meyers Keller,Nördlingen,168,EUR,"Market Cuisine, Country cooking",1
+Gourmetrestaurant Berlins Krone,Bad Teinach-Zavelstein,155,EUR,Modern French,1
+le Corange,Mannheim,149,EUR,"Modern French, Classic Cuisine",1
+Gourmetrestaurant Nico Burkhardt,Schorndorf,158,EUR,"Modern French, Market Cuisine",1
+Orangerie,Timmendorfer Strand,135,EUR,Classic French,1
+Seesteg,Norderney,98,EUR,"Modern Cuisine, International",1
+Huberwirt,Pleiskirchen,125,EUR,"Modern Cuisine, Country cooking",1
+Bahia,Balzan,100,EUR,Creative,1
+ION - The Harbour,Valletta,175,EUR,Mediterranean Cuisine,1
+Noni,Valletta,95,EUR,Modern Cuisine,1
+De Mondion,Mdina,96,EUR,Modern Cuisine,1
+Under Grain,Valletta,105,EUR,Modern Cuisine,1
+Chestnut,Ballydehob,100,EUR,Modern Cuisine,1
+House,Ardmore,130,EUR,Modern Cuisine,1
+dede,Baltimore,95,EUR,Modern Cuisine,1
+The Oak Room,Adare,160,EUR,Modern Cuisine,1
+Campagne,Kilkenny,70,EUR,Modern Cuisine,1
+Ichigo Ichie,Cork,135,EUR,Japanese,1
+Lady Helen,Thomastown,135,EUR,Modern Cuisine,1
+Bastion,Kinsale,100,EUR,Modern Cuisine,1
+Aniar,Galway,110,EUR,"Modern Cuisine, Irish",1
+Loam,Galway,105,EUR,"Creative, Regional Cuisine",1
+Glovers Alley,Dublin City,115,EUR,Modern Cuisine,1
+Bastible,Dublin City,70,EUR,Modern Cuisine,1
+Variety Jones,Dublin City,75,EUR,Modern Cuisine,1
+Wild Honey Inn,Lisdoonvarna,85,EUR,Classic Cuisine,1
+The Neptune,Hunstanton,85,GBP,Modern Cuisine,1
+The Cellar,Anstruther,85,GBP,"Modern Cuisine, Scottish",1
+Sosban & The Old Butchers,Menai Bridge,145,GBP,Modern Cuisine,1
+Lympstone Manor,Lympstone,160,GBP,Modern Cuisine,1
+The Whitebrook,Whitebrook,110,GBP,Creative British,1
+Interlude,Lower Beeding,145,GBP,Creative,1
+Clock House,Ripley,110,GBP,Modern Cuisine,1
+Restaurant Tristan,Horsham,105,GBP,Modern British,1
+Tony Parkin at The Tudor Room,Egham,120,GBP,Modern Cuisine,1
+Hjem,Wall,120,GBP,Scandinavian,1
+Meadowsweet,Holt,95,GBP,Modern British,1
+Bridge Arms,Bridge,55,GBP,Modern British,1
+Sorrel,Dorking,105,GBP,Modern British,1
+The Sportsman,Seasalter,65,GBP,Modern British,1
+Morston Hall,Morston,115,GBP,Modern British,1
+White Swan,Fence,60,GBP,Modern British,1
+Bybrook,Castle Combe,110,GBP,Modern British,1
+Nut Tree Inn,Murcott,80,GBP,Modern British,1
+Fraiche,Birkenhead,115,GBP,Creative,1
+The Royal Oak,Whatcote,80,GBP,Modern British,1
+Pipe and Glass,South Dalton,64,GBP,Modern British,1
+John's House,Mountsorrel,85,GBP,Modern Cuisine,1
+Hambleton Hall,Hambleton,89,GBP,Classic Cuisine,1
+Thomas Carr 1873,Ilfracombe,95,GBP,Seafood,1
+Rogan & Co,Cartmel,60,GBP,Creative British,1
+The Dining Room,Malmesbury,175,GBP,Creative,1
+Allium at Askham Hall,Askham,95,GBP,Modern British,1
+The Peat Inn,Peat Inn,65,GBP,Classic Cuisine,1
+Restaurant Hywel Jones by Lucknam Park,Colerne,110,GBP,Modern British,1
+Dog and Gun Inn,Skelton,55,GBP,British Contemporary,1
+Latymer,Bagshot,130,GBP,Modern Cuisine,1
+SY23,Aberystwyth,95,GBP,Modern Cuisine,1
+Black Swan,Oldstead,150,GBP,Creative British,1
+The Angel,Hetton,98,GBP,Modern Cuisine,1
+Pensons,Tenbury Wells,75,GBP,Modern Cuisine,1
+Fordwich Arms,Fordwich,190,GBP,Modern Cuisine,1
+hide and fox,Saltwood,85,GBP,Modern British,1
+Pea Porridge,Bury St Edmunds,75,GBP,Mediterranean Cuisine,1
+Salt,Stratford-on-Avon,90,GBP,Modern British,1
+Winteringham Fields,Winteringham,110,GBP,Modern Cuisine,1
+Shaun Rankin at Grantley Hall,Ripon,130,GBP,"Modern British, Regional Cuisine",1
+Cottage in the Wood,Braithwaite,95,GBP,Modern British,1
+Northcote,Langho,95,GBP,Modern British,1
+Pine,East Wallhouses,90,GBP,Modern Cuisine,1
+Elephant,Torquay,85,GBP,Modern British,1
+Bohemia,St Helier,99,GBP,Modern Cuisine,1
+Stark,Broadstairs,75,GBP,Modern British,1
+HRiSHi,Bowness-on-Windermere,95,GBP,Modern Cuisine,1
+Masons Arms,Knowstone,60,GBP,Classic French,1
+Outlaw's Fish Kitchen,Port Isaac,80,GBP,Seafood,1
+Outlaw's New Road,Port Isaac,80,GBP,Seafood,1
+Star Inn at Harome,Harome,95,GBP,"Modern British, Regional Cuisine",1
+Walnut Tree,Llanddewi Skirrid,60,GBP,Modern British,1
+Forest Side,Grasmere,95,GBP,"Modern British, Regional Cuisine",1
+alchemilla,Nottingham,110,GBP,Modern British,1
+Home,Penarth,90,GBP,Modern Cuisine,1
+Loch Bay,Isle of Skye,120,GBP,Modern Cuisine,1
+The Woodspeen,Newbury,67,GBP,Modern Cuisine,1
+Peel's,Hampton in Arden,110,GBP,Creative British,1
+The Barn,Aughton,62,GBP,Modern British,1
+Upstairs by Tom Shepherd,Lichfield,77,GBP,Modern Cuisine,1
+Artichoke,Amersham,95,GBP,Modern British,1
+Gravetye Manor,East Grinstead,95,GBP,Modern British,1
+Kitchin,Leith,170,GBP,Modern Cuisine,1
+Martin Wishart,Leith,110,GBP,Modern Cuisine,1
+Beach House,Oxwich,95,GBP,Modern Cuisine,1
+Olive Tree,Bath,120,GBP,Modern Cuisine,1
+Coworth Park,Ascot,98,GBP,Modern Cuisine,1
+mana,Manchester,155,GBP,"Creative British, Modern Cuisine",1
+Roots,York,110,GBP,Modern Cuisine,1
+Paul Ainsworth at No.6,Padstow,110,GBP,Modern Cuisine,1
+Opheem,Birmingham,115,GBP,Indian,1
+Purnell's,Birmingham,99,GBP,Modern Cuisine,1
+Adam's,Birmingham,125,GBP,Modern Cuisine,1
+Carters of Moseley,Birmingham,130,GBP,"Modern British, Creative",1
+Simpsons,Birmingham,115,GBP,Modern Cuisine,1
+House of Tides,Newcastle Upon Tyne,110,GBP,Modern Cuisine,1
+Old Stamp House,Ambleside,85,GBP,"Modern Cuisine, Regional Cuisine",1
+The Man Behind The Curtain,Leeds,145,GBP,Creative,1
+The Muddlers Club,Belfast,70,GBP,Modern Cuisine,1
+Eipic,Belfast,85,GBP,Modern Cuisine,1
+OX,Belfast,65,GBP,Modern British,1
+Unalome by Graeme Cheevers,Glasgow City,90,GBP,Modern British,1
+Cail Bruich,Glasgow City,115,GBP,Modern Cuisine,1
+Hinds Head,Bray,86,GBP,Traditional British,1
+Condita,Edinburgh,110,GBP,Modern Cuisine,1
+The Coach,Marlow,61,GBP,Modern British,1
+The Glenturret Lalique,Crieff,125,GBP,Modern Cuisine,1
+Le Champignon Sauvage,Cheltenham,78,GBP,Modern Cuisine,1
+Paco Tapas,City of Bristol,60,GBP,Spanish,1
+Bulrush,City of Bristol,70,GBP,Modern British,1
+Casamia,City of Bristol,180,GBP,Creative,1
+Osip,Bruton,110,GBP,Modern British,1
+Brat,London,80,GBP,Traditional British,1
+Seven Park Place,London,125,GBP,Modern Cuisine,1
+Muse,London,140,GBP,"Creative, Contemporary",1
+The Ninth,London,70,GBP,Mediterranean Cuisine,1
+Chez Bruce,London,70,GBP,French,1
+Trivet,London,105,GBP,Modern Cuisine,1
+Club Gascon,London,150,GBP,French,1
+Harwood Arms,London,55,GBP,Modern British,1
+Kitchen W8,London,85,GBP,Modern Cuisine,1
+Mãos,London,170,GBP,Innovative,1
+Benares,London,110,GBP,Indian,1
+Gymkhana,London,100,GBP,Indian,1
+Wild Honey St James,London,71,GBP,Modern British,1
+Kol,London,105,GBP,Mexican,1
+Angler,London,120,GBP,Seafood,1
+La Trompette,London,70,GBP,Modern British,1
+Locanda Locatelli,London,100,GBP,Italian,1
+Sollip,London,97,GBP,Creative,1
+River Café,London,85,GBP,Italian,1
+Evelyn's Table,London,75,GBP,Modern Cuisine,1
+Endo at The Rotunda,London,195,GBP,Japanese,1
+Dysart Petersham,London,95,GBP,Modern Cuisine,1
+Hakkasan Mayfair,London,160,GBP,Chinese,1
+Casa Fofō,London,49,GBP,Modern Cuisine,1
+Amaya,London,90,GBP,Indian,1
+Dining Room at The Goring,London,78,GBP,Traditional British,1
+Galvin La Chapelle,London,110,GBP,French,1
+Ritz Restaurant,London,150,GBP,Modern British,1
+Behind,London,78,GBP,Modern British,1
+Veeraswamy,London,85,GBP,Indian,1
+City Social,London,88,GBP,Modern Cuisine,1
+Quilon,London,98,GBP,Indian,1
+Umu,London,300,GBP,Japanese,1
+Murano,London,105,GBP,Italian,1
+Pied à Terre,London,113,GBP,Creative,1
+Leroy,London,52,GBP,Modern British,1
+Pollen Street Social,London,145,GBP,Modern Cuisine,1
+Kai,London,120,GBP,Chinese,1
+St John,London,50,GBP,Traditional British,1
+Portland,London,85,GBP,Modern Cuisine,1
+Pétrus by Gordon Ramsay,London,150,GBP,French,1
+Hakkasan Hanway Place,London,160,GBP,Chinese,1
+Frog by Adam Handling,London,150,GBP,Modern Cuisine,1
+Trishna,London,75,GBP,Indian,1
+Trinity,London,80,GBP,Modern Cuisine,1
+Five Fields,London,130,GBP,Modern Cuisine,1
+Sabor,London,70,GBP,Spanish,1
+HIDE,London,140,GBP,Modern British,1
+Marcus,London,140,GBP,Modern Cuisine,1
+Cornerstone,London,75,GBP,Seafood,1
+The Glasshouse,London,70,GBP,Modern Cuisine,1
+Lyle's,London,79,GBP,Modern British,1
+SO|LA,London,139,GBP,"Californian, Modern Cuisine",1
+Barrafina,London,68,GBP,Spanish,1
+Jamavar,London,90,GBP,Indian,1
+Elystan Street,London,105,GBP,Modern British,1
+The Cross at Kenilworth,Kenilworth,95,GBP,"British Contemporary, Classic Cuisine",1
+Esszimmer,Salzburg,128,EUR,"Creative, Classic Cuisine",1
+The Glass Garden,Salzburg,163,EUR,Modern Cuisine,1
+Pfefferschiff,Salzburg,189,EUR,Classic Cuisine,1
+APRON,Vienna,135,EUR,"Creative, Seasonal Cuisine",1
+Walter Bauer,Vienna,79,EUR,Classic Cuisine,1
+TIAN,Vienna,140,EUR,Vegetarian,1
+SHIKI,Vienna,145,EUR,Japanese,1
+Edvard,Vienna,138,EUR,"Creative, Modern Cuisine",1
+[aend],Vienna,177,EUR,Modern Cuisine,1
+Pramerl & the Wolf,Vienna,130,EUR,Creative,1
+Ling Long,Beijing,"1,300",CNY,Innovative,1
+Opera Bombana,Beijing,"1,888",CNY,Italian,1
+Da Dong (Dongsi 10th Alley),Beijing,500,CNY,Chinese Contemporary,1
+Seventh Son,Beijing,"1,000",CNY,Cantonese,1
+Furong,Beijing,"1,000",CNY,Hunanese,1
+Sheng Yong Xing (Chaoyang),Beijing,"1,288",CNY,Beijing Cuisine,1
+Zijin Mansion,Beijing,888,CNY,Cantonese,1
+Family Li Imperial Cuisine (Xicheng),Beijing,"2,868",CNY,Beijing Cuisine,1
+Zhiguan Courtyard,Beijing,"1,000",CNY,Dongbei,1
+Cai Yi Xuan,Beijing,"1,388",CNY,Cantonese,1
+Cui Hua Lou (Chongwenmenwai Street),Beijing,500,CNY,Shandong,1
+Jing,Beijing,"1,088",CNY,French Contemporary,1
+Xin Rong Ji (Jinrong Street),Beijing,"1,000",CNY,Taizhou,1
+The Georg,Beijing,"1,888",CNY,European Contemporary,1
+Vege Wonder,Beijing,"1,280",CNY,Vegetarian,1
+Poetry‧Wine (Dongsanhuan Middle Road),Beijing,500,CNY,Beijing Cuisine,1
+Il Ristorante - Niko Romito,Beijing,"1,900",CNY,Italian,1
+Mio,Beijing,"1,688",CNY,Italian,1
+Lu Style (Anding Road),Beijing,"1,000",CNY,Shandong,1
+Jing Yaa Tang,Beijing,600,CNY,Beijing Cuisine,1
+Xin Rong Ji (Jianguomenwai Street),Beijing,600,CNY,Taizhou,1
+Country Kitchen,Beijing,700,CNY,Beijing Cuisine,1
+The Tasty House,Beijing,"1,000",CNY,Jiangzhe,1
+Huaiyang Fu,Beijing,300,CNY,Huaiyang,1
+Lei Garden (Jinbao Tower),Beijing,600,CNY,Cantonese,1
+Fu Chun Ju,Beijing,"1,000",CNY,Cantonese,1
+In Love (Gongti East Road),Beijing,600,CNY,Hunanese,1
+The Beijing Kitchen,Beijing,500,CNY,Cantonese,1
+Lao Ji Tang (Gongrentiyuchang South Road),Beijing,250,CNY,Shanghainese,1
+8 1/2 Otto e Mezzo - Bombana,Macau,"2,280",MOP,Italian,1
+Zi Yat Heen,Macau,"2,000",MOP,Cantonese,1
+Wing Lei Palace,Macau,"1,680",MOP,Cantonese,1
+Lai Heen,Macau,"2,688",MOP,Cantonese,1
+The Kitchen,Macau,"1,800",MOP,Steakhouse,1
+Pearl Dragon,Macau,"1,388",MOP,Cantonese,1
+Ying,Macau,"2,000",MOP,Cantonese,1
+Liu Yuan Pavilion,Hong Kong,750,HKD,Shanghainese,1
+Vea,Hong Kong,"2,280",HKD,Innovative,1
+Whey,Hong Kong,"1,290",HKD,European Contemporary,1
+Épure,Hong Kong,"1,888",HKD,French Contemporary,1
+Pang's Kitchen,Hong Kong,500,HKD,Cantonese,1
+New Punjab Club,Hong Kong,800,HKD,Indian,1
+Man Wah,Hong Kong,"3,288",HKD,Cantonese,1
+Rùn,Hong Kong,"1,400",HKD,Cantonese,1
+Ming Court (Mong Kok),Hong Kong,"1,400",HKD,Cantonese,1
+Shang Palace,Hong Kong,"1,388",HKD,Cantonese,1
+Summer Palace,Hong Kong,"1,500",HKD,Cantonese,1
+Ryota Kappou Modern,Hong Kong,"2,480",HKD,Japanese,1
+Imperial Treasure Fine Chinese Cuisine (Tsim Sha Tsui),Hong Kong,"1,000",HKD,Cantonese,1
+Andō,Hong Kong,"1,888",HKD,Innovative,1
+Man Ho (Admiralty),Hong Kong,"1,580",HKD,Cantonese,1
+Louise,Hong Kong,"1,588",HKD,French Contemporary,1
+I M Teppanyaki & Wine,Hong Kong,"2,280",HKD,Teppanyaki,1
+Spring Moon,Hong Kong,"2,200",HKD,Cantonese,1
+Yardbird,Hong Kong,500,HKD,Yakitori,1
+Arcane,Hong Kong,"1,200",HKD,European Contemporary,1
+Petrus,Hong Kong,"2,188",HKD,French,1
+Seventh Son,Hong Kong,"1,000",HKD,Cantonese,1
+Mandarin Grill + Bar,Hong Kong,"1,988",HKD,European Contemporary,1
+Xin Rong Ji,Hong Kong,"1,500",HKD,Taizhou,1
+Loaf On,Hong Kong,500,HKD,Seafood,1
+Sushi Saito,Hong Kong,"3,280",HKD,Sushi,1
+Roganic,Hong Kong,"1,080",HKD,European Contemporary,1
+Kam's Roast Goose,Hong Kong,200,HKD,Cantonese Roast Meats,1
+Fook Lam Moon (Wan Chai),Hong Kong,"2,000",HKD,Cantonese,1
+Yat Lok,Hong Kong,360,HKD,Cantonese Roast Meats,1
+Takumi by Daisuke Mori,Hong Kong,"2,080",HKD,Innovative,1
+Beefbar,Hong Kong,"1,500",HKD,Steakhouse,1
+The Chairman,Hong Kong,"1,200",HKD,Cantonese,1
+Jardin de Jade (Wan Chai),Hong Kong,400,HKD,Shanghainese,1
+Tosca di Angelo,Hong Kong,"1,888",HKD,Italian,1
+Yè Shanghai (Tsim Sha Tsui),Hong Kong,800,HKD,Shanghainese,1
+Sushi Wadatsumi,Hong Kong,"1,880",HKD,Sushi,1
+Chaat,Hong Kong,800,HKD,Indian,1
+Zest by Konishi,Hong Kong,"1,880",HKD,French Contemporary,1
+Mono,Hong Kong,"1,880",HKD,Latin American,1
+Zhejiang Heen,Hong Kong,800,HKD,Zhejiang,1
+Yong Fu,Hong Kong,"2,500",HKD,Ningbo,1
+Ho Hung Kee (Causeway Bay),Hong Kong,200,HKD,Noodles and Congee,1
+Belon,Hong Kong,"2,500",HKD,French,1
+Fu Ho,Hong Kong,"1,500",HKD,Cantonese,1
+Aaharn,Hong Kong,800,HKD,Thai,1
+Gaddi's,Hong Kong,"2,088",HKD,French,1
+Hansik Goo,Hong Kong,"1,280",HKD,Korean,1
+The Araki,Hong Kong,"4,000",HKD,Sushi,1
+Yat Tung Heen,Hong Kong,"1,200",HKD,Cantonese,1
+Zuicho,Hong Kong,"2,500",HKD,Japanese,1
+Duddell's,Hong Kong,"1,500",HKD,Cantonese,1
+Mi Xun Teahouse,Chengdu,300,CNY,Vegetarian,1
+Chaimen Hui,Chengdu,"1,500",CNY,Sichuan,1
+Silver Pot,Chengdu,"1,000",CNY,Sichuan,1
+Chengdu Restaurant,Chengdu,"1,500",CNY,Cantonese,1
+Ma's Kitchen,Chengdu,400,CNY,Sichuan,1
+Fang Xiang Jing,Chengdu,"1,298",CNY,Sichuan,1
+Song Yun Ze,Chengdu,"2,000",CNY,Sichuan,1
+Xu's Cuisine,Chengdu,800,CNY,Sichuan,1
+Suan Thip,Nonthaburi,"1,500",THB,Thai,1
+Methavalai Sorndaeng,Bangkok,"1,250",THB,Thai,1
+Saawaan,Bangkok,"1,980",THB,Thai contemporary,1
+Blue by Alain Ducasse,Bangkok,"7,350",THB,French Contemporary,1
+Ginza Sushi Ichi,Bangkok,"7,000",THB,Sushi,1
+Paste,Bangkok,"3,500",THB,Thai,1
+Nahm,Bangkok,"3,500",THB,Thai,1
+Sra Bua by Kiin Kiin,Bangkok,"3,200",THB,Thai contemporary,1
+Saneh Jaan,Bangkok,"3,200",THB,Thai,1
+J'AIME by Jean-Michel Lorain,Bangkok,"3,200",THB,French Contemporary,1
+Khao (Ekkamai),Bangkok,"9,900",THB,Thai,1
+Cadence by Dan Bark,Bangkok,"4,800",THB,Innovative,1
+Yu Ting Yuan,Bangkok,"5,400",THB,Chinese,1
+Le Du,Bangkok,"3,590",THB,Thai contemporary,1
+Canvas,Bangkok,"4,500",THB,Innovative,1
+Chim by Siam Wisdom,Bangkok,"2,900",THB,Thai,1
+Gaa,Bangkok,"5,100",THB,Innovative,1
+80/20,Bangkok,"2,500",THB,Innovative,1
+Aksorn,Bangkok,"2,800",THB,Thai,1
+Jay Fai,Bangkok,"1,500",THB,Street Food,1
+Elements,Bangkok,"5,200",THB,French Contemporary,1
+IGNIV,Bangkok,"8,000",THB,European Contemporary,1
+Côte by Mauro Colagreco,Bangkok,"6,100",THB,French Contemporary,1
+Savelberg,Bangkok,"6,200",THB,French Contemporary,1
+Sushi Masato,Bangkok,"8,000",THB,Sushi,1
+PRU,Phuket,"5,500",THB,Innovative,1
+Ibaya,Soldeu,145,EUR,"Creative, Modern Cuisine",1
+Mesa de Lemos,Passos de Silgueiros,115,EUR,Creative,1
+Largo do Paço,Amarante,145,EUR,Modern Cuisine,1
+Bon Bon,Lagoa,140,EUR,Modern Cuisine,1
+Vista,Portimao,165,EUR,Modern Cuisine,1
+Vistas Rui Silvestre,Vila Nova de Cacela,175,EUR,Modern Cuisine,1
+G Pousada,Bragança,125,EUR,Regional Cuisine,1
+Fortaleza do Guincho,Praia do Guincho,160,EUR,Portuguese,1
+Esporão,Reguengos de Monsaraz,65,EUR,Modern Cuisine,1
+A Cozinha,Guimaraes,100,EUR,Modern Cuisine,1
+Midori,Sintra,145,EUR,Japanese,1
+Lab by Sergi Arola,Sintra,145,EUR,Creative,1
+Vila Foz,Porto,120,EUR,Contemporary,1
+Antiqvvm,Porto,160,EUR,Creative,1
+Gusto,Almancil,150,EUR,Mediterranean Cuisine,1
+William,Funchal,170,EUR,Classic Cuisine,1
+Al Sud,Lagos,110,EUR,Creative,1
+A Ver Tavira,Tavira,125,EUR,Modern Cuisine,1
+Pedro Lemos,Porto,140,EUR,Modern Cuisine,1
+EPUR,Lisbon,125,EUR,Creative,1
+100 Maneiras,Lisbon,140,EUR,Creative,1
+Eneko Lisboa,Lisbon,125,EUR,Basque,1
+Feitoria,Lisbon,140,EUR,Modern Cuisine,1
+Loco,Lisbon,125,EUR,Modern Cuisine,1
+Eleven,Lisbon,119,EUR,Creative,1
+Fifty Seconds,Lisbon,190,EUR,Creative,1
+CURA,Lisbon,130,EUR,Modern Cuisine,1
+Estany Clar,Cercs,80,EUR,Modern Cuisine,1
+La Fonda Xesc,Gombrèn,100,EUR,Modern Cuisine,1
+L'Aliança 1919 d'Anglès,Anglès,110,EUR,"Modern Cuisine, Catalan",1
+Solla,San Salvador de Poio,140,EUR,Creative,1
+Tresmacarrons,El Masnou,125,EUR,Modern Cuisine,1
+Andra Mari,Galdakao,77,EUR,"Traditional Cuisine, Contemporary",1
+El Ermitaño,Benavente,80,EUR,"Traditional Cuisine, Modern Cuisine",1
+Retiro da Costiña,Santa Comba,110,EUR,Modern Cuisine,1
+Espacio N,Esquedas,85,EUR,"Creative, Traditional Cuisine",1
+El Corral del Indianu,Arriondas,99,EUR,Creative,1
+Mu•na,Ponferrada,86,EUR,"Traditional Cuisine, Modern Cuisine",1
+Taller,Quintanilla de Onésimo,120,EUR,"Creative, Modern Cuisine",1
+El Bohío,Illescas,180,EUR,Modern Cuisine,1
+Hospedería El Batán,Tramacastilla,80,EUR,"Modern Cuisine, Creative",1
+Maca de Castro,Port d'Alcúdia,132,EUR,Creative,1
+La Salita,Valencia,125,EUR,"Creative, Modern Cuisine",1
+La Aquarela,Arguineguín,98,EUR,Creative,1
+El Xato,la Nucía,85,EUR,"Creative, Mediterranean Cuisine",1
+Quatre Molins,Cornudella de Montsant,190,EUR,Creative,1
+Arrels,Sagunt,65,EUR,Contemporary,1
+Etxebarri,Axpe,242,EUR,Traditional Cuisine,1
+La Boscana,Bellvís,140,EUR,Creative,1
+Les Moles,Ulldecona,120,EUR,"Modern Cuisine, Creative",1
+L'Antic Molí,Ulldecona,110,EUR,"Modern Cuisine, Traditional Cuisine",1
+La Bicicleta,Hoznayo,120,EUR,Modern Cuisine,1
+Callizo,Ainsa,95,EUR,"Creative, Innovative",1
+Real Balneario,Salinas,180,EUR,Traditional Cuisine,1
+Casa Pepa,Ondara,97,EUR,Creative,1
+La Cuina de Can Simón,Tossa de Mar,98,EUR,Creative,1
+L'Ó,Sant Fruitós de Bages,95,EUR,Modern Cuisine,1
+Alevante,Novo Sancti Petri,145,EUR,Creative,1
+Lluerna,Santa Coloma de Gramenet,88,EUR,Modern Cuisine,1
+Deliranto,Salou,150,EUR,"Creative, Contemporary",1
+Marqués de Riscal,Elciego,150,EUR,Modern Cuisine,1
+Zaranda,Palma de Mallorca,165,EUR,Creative,1
+Les Magnòlies,Arbúcies,92,EUR,Modern Cuisine,1
+Venta Moncalvillo,Daroca de Rioja,120,EUR,Modern Cuisine,1
+Miguel González,Pereiro de Aguiar,95,EUR,Contemporary,1
+Boroa,Amorebieta - Etxano,130,EUR,Traditional Cuisine,1
+Atalaya,Alcossebre,65,EUR,"Modern Cuisine, Creative",1
+Ca l'Enric,La Vall de Bianya,120,EUR,Creative,1
+Elkano,Getaria,150,EUR,Seafood,1
+Béns d'Avall,Sóller,87,EUR,Regional Cuisine,1
+Castell Peralada,Peralada,130,EUR,Modern Cuisine,1
+El Molino de Alcuneza,Sigüenza,98,EUR,Modern Cuisine,1
+El Doncel,Sigüenza,118,EUR,Modern Cuisine,1
+Chirón,Valdemoro,99,EUR,Modern Cuisine,1
+Lillas Pastia,Huesca,75,EUR,"Modern Cuisine, Market Cuisine",1
+Tatau,Huesca,95,EUR,"Creative, Traditional Cuisine",1
+Cal Paradís,Vall d'Alba,125,EUR,Creative,1
+Emporium,Castelló d'Empúries,109,EUR,Modern Cuisine,1
+As Garzas,Barizo,95,EUR,Galician,1
+Andreu Genestra,Capdepera,130,EUR,Creative,1
+Els Casals,Sagàs,78,EUR,"Catalan, Contemporary",1
+La Finca,Elche,119,EUR,Creative,1
+Refectorio,Sardón de Duero,175,EUR,Creative,1
+Baluarte,Soria,78,EUR,Modern Cuisine,1
+Magoga,Cartagena,95,EUR,"Regional Cuisine, Contemporary",1
+Zuberoa,Oiartzun,165,EUR,Classic Cuisine,1
+Abama Kabuki,Guía de Isora,165,EUR,Japanese,1
+Garena,Dima,80,EUR,Contemporary,1
+Raúl Resino,Benicarló,120,EUR,Creative,1
+Ambivium,Peñafiel,150,EUR,Modern Cuisine,1
+Malena,Gimenells,95,EUR,"Modern Cuisine, Market Cuisine",1
+El Nuevo Molino,Puente Arce,90,EUR,Modern Cuisine,1
+Versátil,Zarza de Granadilla,52,EUR,Contemporary,1
+Tula,Xàbia,70,EUR,"Mediterranean Cuisine, Modern Cuisine",1
+Víctor Gutiérrez,Salamanca,110,EUR,"Creative, Fusion",1
+En la Parra,Salamanca,65,EUR,Modern Cuisine,1
+Ment by Óscar Calleja,Salamanca,105,EUR,"Creative, Fusion",1
+Es Tragón,Sant Antoni de Portmany,140,EUR,Creative,1
+Lera,Castroverde de Campos,120,EUR,"Regional Cuisine, Modern Cuisine",1
+Solana,Ampuero,90,EUR,Modern Cuisine,1
+Alameda,Hondarribia,122,EUR,Modern Cuisine,1
+Retama,Torrenueva,90,EUR,Modern Cuisine,1
+El Retiro,Llanes,95,EUR,Modern Cuisine,1
+Eneko,Larrabetzu,77,EUR,Creative,1
+Raíces-Carlos Maldonado,Talavera de la Reina,85,EUR,Creative,1
+La Lobita,Navaleno,81,EUR,Creative,1
+Audrey's,Calp,125,EUR,"Creative, Regional Cuisine",1
+Beat,Calp,125,EUR,"Mediterranean Cuisine, French Contemporary",1
+Can Jubany,Calldetenes,145,EUR,Modern Cuisine,1
+La Costa,El Ejido,98,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Villa Retiro,Xerta,125,EUR,"Creative, Traditional Cuisine",1
+José Carlos García,Malaga,140,EUR,"Creative, Andalusian",1
+Trivio,Cuenca,70,EUR,Modern Cuisine,1
+Eirado,Pontevedra,72,EUR,Modern Cuisine,1
+Sala,Olost,90,EUR,Traditional Cuisine,1
+Alejandro Serrano,Miranda de Ebro,72,EUR,Modern Cuisine,1
+Massana,Girona,125,EUR,Modern Cuisine,1
+Arbidel,Ribadesella,90,EUR,Modern Cuisine,1
+Ayalga,Ribadesella,85,EUR,Modern Cuisine,1
+Nub,Adeje,155,EUR,Creative,1
+El Rincón de Juan Carlos,Adeje,130,EUR,Creative,1
+Ola Martín Berasategui,Bilbao,125,EUR,"Contemporary, Traditional Cuisine",1
+Zarate,Bilbao,105,EUR,"Seafood, Traditional Cuisine",1
+Mina,Bilbao,140,EUR,"Creative, Seasonal Cuisine",1
+Zortziko,Bilbao,115,EUR,Contemporary,1
+Nerua Guggenheim Bilbao,Bilbao,80,EUR,Creative,1
+Etxanobe Atelier,Bilbao,150,EUR,Creative,1
+Los Guayres,Puerto de Mogán,120,EUR,"Modern Cuisine, Spanish",1
+Peix & Brases,Dénia,74,EUR,"Mediterranean Cuisine, Modern Cuisine",1
+Pepe Vieira,Serpe,150,EUR,Creative,1
+La Botica,Matapozuelos,85,EUR,Modern Cuisine,1
+Els Tinars,Llagostera,90,EUR,"Traditional Cuisine, Seasonal Cuisine",1
+Cañabota,Seville,90,EUR,Seafood,1
+Abantal,Seville,100,EUR,Creative,1
+Casa Gerardo,Prendes,100,EUR,Modern Cuisine,1
+Casa Marcelo,Santiago de Compostela,75,EUR,Fusion,1
+Auga e Sal,Santiago de Compostela,85,EUR,Modern Cuisine,1
+A Tafona,Santiago de Compostela,115,EUR,Modern Cuisine,1
+Baeza & Rufete,Alacant,85,EUR,Modern Cuisine,1
+Dama Juana,Jaén,100,EUR,"Modern Cuisine, Traditional Cuisine",1
+Bagá,Jaén,85,EUR,Modern Cuisine,1
+La Biblioteca,Pamplona,150,EUR,"Creative, Modern Cuisine",1
+Europa,Pamplona,90,EUR,Contemporary,1
+Rodero,Pamplona,95,EUR,Modern Cuisine,1
+Sollo,Fuengirola,130,EUR,"Creative, Modern Cuisine",1
+La Gaia,Eivissa,215,EUR,Fusion,1
+Rincón de Diego,Cambrils,112,EUR,Traditional Cuisine,1
+Can Bosch,Cambrils,134,EUR,Traditional Cuisine,1
+Fogony,Sort,80,EUR,Modern Cuisine,1
+Ikaro,Logrono,75,EUR,Creative,1
+Kiro Sushi,Logrono,110,EUR,Japanese,1
+Coto de Quevedo,Torre de Juan Abad,50,EUR,Traditional Cuisine,1
+Odiseo Gastronómico,Murcia,145,EUR,Modern Cuisine,1
+Es Fum,Palmanova,150,EUR,Creative,1
+Marc Fosh,Palma,120,EUR,Modern Cuisine,1
+DINS Santi Taura,Palma,130,EUR,Modern Cuisine,1
+Adrián Quetglas,Palma,65,EUR,Modern Cuisine,1
+Trigo,Valladolid,55,EUR,Modern Cuisine,1
+La Prensa,Saragossa,105,EUR,Contemporary,1
+Cancook,Saragossa,120,EUR,Creative,1
+Poemas by Hermanos Padrón,Las Palmas de Gran Canaria,120,EUR,Creative,1
+Nova,Ourense,90,EUR,Modern Cuisine,1
+El Invernadero,Madrid,150,EUR,Modern Cuisine,1
+Kabuki,Madrid,95,EUR,Japanese,1
+La Tasquería,Madrid,75,EUR,Modern Cuisine,1
+Yugo,Madrid,182,EUR,Japanese,1
+Gaytán,Madrid,150,EUR,Modern Cuisine,1
+Clos Madrid,Madrid,95,EUR,Modern Cuisine,1
+Quimbaya,Madrid,65,EUR,Colombian,1
+Corral de la Morería Gastronómico,Madrid,75,EUR,Modern Cuisine,1
+A'Barra,Madrid,120,EUR,International,1
+Saddle,Madrid,120,EUR,Contemporary,1
+Ricardo Sanz Wellington,Madrid,130,EUR,Japanese,1
+Deessa,Madrid,195,EUR,Creative,1
+Cebo,Madrid,135,EUR,Creative,1
+Gofio,Madrid,125,EUR,Regional Cuisine,1
+Lúa,Madrid,78,EUR,Modern Cuisine,1
+Riff,Valencia,110,EUR,"Creative, Modern Cuisine",1
+Lienzo,Valencia,95,EUR,Mediterranean Cuisine,1
+Kaido Sushi Bar,Valencia,75,EUR,Japanese,1
+Fierro,Valencia,95,EUR,Modern Cuisine,1
+Yayo Daporta,Cambados,100,EUR,Creative,1
+Nublo,Haro,79,EUR,Modern Cuisine,1
+Auga,Gijón,90,EUR,Traditional Cuisine,1
+Casona del Judío,Santander,82,EUR,Modern Cuisine,1
+El Serbal,Santander,78,EUR,Modern Cuisine,1
+Choco,Córdoba,125,EUR,"Creative, Andalusian",1
+Cocinandos,Leon,63,EUR,Modern Cuisine,1
+Pablo,Leon,68,EUR,Modern Cuisine,1
+Maruja Limón,Vigo,98,EUR,Creative,1
+Silabario,Vigo,88,EUR,Modern Cuisine,1
+Mirador de Ulía,Donostia / San Sebastián,120,EUR,Creative,1
+eMe Be Garrote,Donostia / San Sebastián,150,EUR,Contemporary,1
+Kokotxa,Donostia / San Sebastián,125,EUR,Modern Cuisine,1
+Messina,Marbella,93,EUR,Creative,1
+Nintai,Marbella,130,EUR,Japanese,1
+El Lago,Marbella,90,EUR,Contemporary,1
+Mantúa,Jerez de la Frontera,105,EUR,Modern Cuisine,1
+LÚ Cocina y Alma,Jerez de la Frontera,155,EUR,Modern Cuisine,1
+Oria,Barcelona,115,EUR,Modern Cuisine,1
+Alkimia,Barcelona,168,EUR,Modern Cuisine,1
+Koy Shunka,Barcelona,147,EUR,Japanese,1
+Aürt,Barcelona,110,EUR,Modern Cuisine,1
+Caelis,Barcelona,135,EUR,Creative,1
+Via Veneto,Barcelona,150,EUR,Classic Cuisine,1
+Hisop,Barcelona,75,EUR,Creative,1
+Xerta,Barcelona,135,EUR,Creative,1
+Dos Palillos,Barcelona,120,EUR,Fusion,1
+Atempo,Barcelona,120,EUR,Modern Cuisine,1
+Hofmann,Barcelona,95,EUR,Modern Cuisine,1
+L'orgueil,Tokyo,"15,000",JPY,French,1
+Kaiseki Ohara,Tokyo,"19,000",JPY,Japanese,1
+Sushi Kuwano,Tokyo,"33,000",JPY,Sushi,1
+LUGDUNUM Bouchon Lyonnais,Tokyo,"13,000",JPY,French,1
+Tenoshima,Tokyo,"17,000",JPY,Japanese,1
+Sushidokoro Kiraku,Tokyo,"11,000",JPY,Sushi,1
+La Clairière,Tokyo,"28,000",JPY,French,1
+Sosakumenkobo NAKIRYU,Tokyo,"1,500",JPY,Ramen,1
+Tempura Maehira,Tokyo,"22,000",JPY,Tempura,1
+Sushi Hashimoto,Tokyo,"28,000",JPY,Sushi,1
+MAKIYAKI GINZA ONODERA,Tokyo,"37,000",JPY,French,1
+SANT PAU,Tokyo,"30,000",JPY,Spanish,1
+L'AFFINAGE,Tokyo,"22,000",JPY,French,1
+Nanakusa,Tokyo,"8,000",JPY,Japanese,1
+FUSHIKINO,Tokyo,"22,000",JPY,Japanese,1
+Jukuseizushi Yorozu,Tokyo,"28,000",JPY,Sushi,1
+Jyukou,Tokyo,"43,000",JPY,Japanese,1
+Series,Tokyo,"14,000",JPY,Chinese,1
+Sushi Kojima,Tokyo,"28,000",JPY,Sushi,1
+Kyobashi Tempura Fukamachi,Tokyo,"23,000",JPY,Tempura,1
+Sharikimon Onozawa,Tokyo,"20,000",JPY,Japanese,1
+Hato,Tokyo,"34,000",JPY,Sushi,1
+Aroma Fresca,Tokyo,"25,000",JPY,Italian,1
+ShinoiS,Tokyo,"37,000",JPY,Chinese,1
+Sushi Masashi,Tokyo,"26,000",JPY,Sushi,1
+Simplicité,Tokyo,"20,000",JPY,French,1
+LATURE,Tokyo,"18,000",JPY,French,1
+Azabu Rokkaku,Tokyo,"20,000",JPY,Izakaya,1
+Shimbashi Sasada,Tokyo,"22,000",JPY,Japanese,1
+Floraison,Tokyo,"13,000",JPY,French,1
+Sushiya Shota,Tokyo,"18,000",JPY,Sushi,1
+Ensui,Tokyo,"31,000",JPY,Japanese,1
+Dominique Bouchet,Tokyo,"23,000",JPY,French,1
+Ren Mishina,Tokyo,"30,000",JPY,Japanese,1
+Shokuzen Abe,Tokyo,"24,000",JPY,Japanese,1
+Sushi Matsuura,Tokyo,"17,000",JPY,Sushi,1
+Nogizaka Shin,Tokyo,"37,000",JPY,Japanese,1
+Waketokuyama,Tokyo,"19,000",JPY,Japanese,1
+Takagakino Sushi,Tokyo,"25,000",JPY,Sushi,1
+l'intemporel,Tokyo,"14,000",JPY,French,1
+ESTERRE,Tokyo,"34,000",JPY,French,1
+Oniku Karyu,Tokyo,"27,000",JPY,Beef Specialities,1
+Yuan Yamori,Tokyo,"10,000",JPY,Soba,1
+recte,Tokyo,"19,000",JPY,French,1
+Takumi,Tokyo,"16,000",JPY,French,1
+GINZA OKUDA,Tokyo,"30,000",JPY,Japanese,1
+La Paix,Tokyo,"16,000",JPY,French,1
+nôl,Tokyo,"15,000",JPY,Innovative,1
+CRAFTALE,Tokyo,"25,000",JPY,French,1
+Sushi Murayama,Tokyo,"31,000",JPY,Sushi,1
+Towa,Tokyo,"37,000",JPY,Japanese,1
+BVLGARI IL RISTORANTE LUCA FANTIN,Tokyo,"31,000",JPY,Italian,1
+Imafuku,Tokyo,"20,000",JPY,Sukiyaki,1
+Sushi Sugaya,Tokyo,"45,000",JPY,Sushi,1
+Ginza Adachi Naoto,Tokyo,"21,000",JPY,Japanese,1
+Nanachome,Tokyo,"8,500",JPY,Yakitori,1
+Ishibashi,Tokyo,"22,000",JPY,Unagi / Freshwater Eel,1
+FARO,Tokyo,"17,000",JPY,Italian,1
+Mimosa,Tokyo,"15,000",JPY,Chinese,1
+Nœud. TOKYO,Tokyo,"16,000",JPY,French,1
+Chugoku Hanten Fureika,Tokyo,"49,000",JPY,Chinese,1
+SÉZANNE,Tokyo,"31,000",JPY,"French, French Contemporary",1
+est,Tokyo,"25,000",JPY,"French, French Contemporary",1
+Seiju,Tokyo,"24,000",JPY,Tempura,1
+L'aube,Tokyo,"16,000",JPY,French,1
+Shichubo Yung,Tokyo,"9,500",JPY,Chinese,1
+Sorahana,Tokyo,"31,000",JPY,Japanese,1
+Sumibikappo SHIROSAKA,Tokyo,"19,000",JPY,Japanese,1
+Shunkeian Arakaki,Tokyo,"16,000",JPY,Tempura,1
+Nishiazabu Taku,Tokyo,"33,000",JPY,Sushi,1
+Akasaka Izumi,Tokyo,"36,000",JPY,Fugu / Pufferfish,1
+Ode,Tokyo,"20,000",JPY,French,1
+SOBAHOUSE KONJIKI HOTOTOGISU,Tokyo,"1,500",JPY,Ramen,1
+Sushi Ryujiro,Tokyo,"28,000",JPY,Sushi,1
+L'ARGENT,Tokyo,"22,000",JPY,French,1
+Oryori Katsushi,Tokyo,"17,000",JPY,Japanese,1
+Tamawarai,Tokyo,"10,000",JPY,Soba,1
+Ten Yokota,Tokyo,"16,000",JPY,Tempura,1
+Kasumicho Yamagami,Tokyo,"37,000",JPY,Japanese,1
+Hakuun,Tokyo,"31,000",JPY,Japanese,1
+Yakitori Omino,Tokyo,"9,000",JPY,Yakitori,1
+Les Saisons,Tokyo,"48,000",JPY,French,1
+SHIGEMATSU,Tokyo,"33,000",JPY,Japanese,1
+TOUR D'ARGENT,Tokyo,"37,000",JPY,French,1
+Asagaya BIRD LAND,Tokyo,"7,500",JPY,Yakitori,1
+Onarimon Haru,Tokyo,"22,000",JPY,Japanese,1
+Nodaiwa Azabu Iikura Honten,Tokyo,"18,000",JPY,Unagi / Freshwater Eel,1
+Tempura Shimomura,Tokyo,"17,000",JPY,Tempura,1
+Azabu Ichigo,Tokyo,"16,000",JPY,Oden,1
+Arakicho Tatsuya,Tokyo,"10,000",JPY,Japanese,1
+REQUINQUER,Tokyo,"20,000",JPY,French,1
+Nihombashi Sonoji,Tokyo,"21,000",JPY,Tempura,1
+Ichita,Tokyo,"37,000",JPY,Japanese,1
+Akasaka Momonoki,Tokyo,"37,000",JPY,Chinese,1
+Ginza Kitafuku,Tokyo,"70,000",JPY,Crab Specialities,1
+Principio,Tokyo,"13,000",JPY,Italian,1
+itsuka,Tokyo,"37,000",JPY,Chinese,1
+Genyadana Hamadaya,Tokyo,"66,000",JPY,Japanese,1
+Tapas Molecular Bar,Tokyo,"30,000",JPY,Innovative,1
+Les enfants gâtés,Tokyo,"19,000",JPY,French,1
+Ginza Toyoda,Tokyo,"31,000",JPY,Japanese,1
+Nishiazabu Otake,Tokyo,"16,500",JPY,Japanese,1
+Tagetsu,Tokyo,"25,000",JPY,Japanese,1
+Alchimiste,Tokyo,"28,000",JPY,French,1
+Azabujuban Fukuda,Tokyo,"37,000",JPY,Japanese,1
+TACUBO,Tokyo,"22,000",JPY,Italian,1
+Regalo,Tokyo,"11,000",JPY,Italian,1
+Ishibashi,Tokyo,"16,000",JPY,Sukiyaki,1
+BOTTEGA,Tokyo,"13,000",JPY,Italian,1
+Akebonobashi Marutomi,Tokyo,"19,000",JPY,Japanese,1
+abysse,Tokyo,"19,000",JPY,French,1
+BIRD LAND,Tokyo,"10,000",JPY,Yakitori,1
+Tempura Motoyoshi,Tokyo,"22,000",JPY,Tempura,1
+Nishiazabu Sushi Shin,Tokyo,"25,000",JPY,Sushi,1
+Le Coq,Tokyo,"13,000",JPY,French,1
+Edomae Shinsaku,Tokyo,"20,000",JPY,Tempura,1
+Jizozushi,Tokyo,"26,000",JPY,Sushi,1
+Seika Kobayashi,Tokyo,"39,000",JPY,Japanese,1
+Chugoku Hanten Kohakukyu (Amber Palace),Tokyo,"44,000",JPY,Chinese,1
+Tempura Yaguchi,Tokyo,"17,000",JPY,Tempura,1
+L'ALGORITHME,Tokyo,"15,000",JPY,French,1
+Akasaka Ogino,Tokyo,"33,000",JPY,Japanese,1
+le sputnik,Tokyo,"19,000",JPY,French,1
+Alter Ego,Tokyo,"19,000",JPY,Italian,1
+Tanimoto,Tokyo,"20,000",JPY,Japanese,1
+sio,Tokyo,"17,000",JPY,Innovative,1
+Le Mange-Tout,Tokyo,"22,000",JPY,French,1
+Shunso,Tokyo,"12,000",JPY,Japanese,1
+Chukasoba Ginza Hachigou,Tokyo,"2,000",JPY,Ramen,1
+au deco,Tokyo,"17,000",JPY,French,1
+Azabu Wakei,Tokyo,"25,000",JPY,Japanese,1
+Sushi Takamitsu,Tokyo,"33,000",JPY,Sushi,1
+Akanezaka Onuma,Tokyo,"19,000",JPY,Japanese,1
+Takumi Sushi Owana,Tokyo,"22,000",JPY,Sushi,1
+JO,Tokyo,"31,000",JPY,Beef Specialities,1
+Hananoren Kagura,Tokyo,"25,000",JPY,Japanese,1
+L'ASSE,Tokyo,"12,000",JPY,Italian,1
+Sincère,Tokyo,"17,000",JPY,French,1
+Sushi Keita,Tokyo,"20,000",JPY,Sushi,1
+TEN-MASA,Tokyo,"25,000",JPY,Japanese,1
+Okamoto,Tokyo,"55,000",JPY,Japanese,1
+Torishiki,Tokyo,"10,000",JPY,Yakitori,1
+Tempura Miyashiro,Tokyo,"22,000",JPY,Tempura,1
+Ginza Fujiyama,Tokyo,"61,000",JPY,Japanese,1
+DEN KUSHI FLORI,Tokyo,"12,000",JPY,Innovative,1
+Ginza Yamanobe Edo Chuka,Tokyo,"40,000",JPY,Chinese,1
+Akiyama,Tokyo,"21,000",JPY,Japanese,1
+Oryori Tsuji,Tokyo,"37,000",JPY,Japanese,1
+WASA,Tokyo,"31,000",JPY,Chinese,1
+Ristorante HONDA,Tokyo,"19,000",JPY,Italian,1
+HANE,SEOUL,"300,000",KRW,Sushi,1
+Zero Complex,SEOUL,"180,000",KRW,Innovative,1
+Table for Four,SEOUL,"120,000",KRW,Contemporary,1
+Muni,SEOUL,"250,000",KRW,Japanese,1
+Evett,SEOUL,"200,000",KRW,Innovative,1
+Myomi,SEOUL,"205,000",KRW,Contemporary,1
+Exquisine,SEOUL,"145,000",KRW,Contemporary,1
+Bicena,SEOUL,"210,000",KRW,Korean,1
+Onjium,SEOUL,"176,000",KRW,Korean,1
+Mitou,SEOUL,"230,000",KRW,Japanese,1
+L'Amitié,SEOUL,"190,000",KRW,French,1
+Soseoul Hannam,SEOUL,"150,000",KRW,Korean,1
+Soigné,SEOUL,"265,000",KRW,Innovative,1
+7th Door,SEOUL,"250,000",KRW,Contemporary,1
+Kojacha,SEOUL,"250,000",KRW,Asian,1
+Terreno,SEOUL,"150,000",KRW,Spanish,1
+Sushi Matsumoto,SEOUL,"250,000",KRW,Sushi,1
+Pierre Gagnaire,SEOUL,"340,000",KRW,French,1
+Muoki,SEOUL,"160,000",KRW,Contemporary,1
+L'Amant Secret,SEOUL,"245,000",KRW,Contemporary,1
+Sushi Sanghyeon,SEOUL,"330,000",KRW,Sushi,1
+Goryori Ken,SEOUL,"200,000",KRW,"Contemporary, Japanese Contemporary",1
+YUN,SEOUL,"90,000",KRW,Korean,1
+Righi,San Marino,100,EUR,Creative,1
+Caracol,Bacoli,130,EUR,Modern Cuisine,1
+Umberto De Martino,San Paolo d'Argon,105,EUR,Mediterranean Cuisine,1
+Gardenia,Caluso,110,EUR,Modern Cuisine,1
+Bianca sul Lago by Emanuele Petrosino,Oggiono,150,EUR,"Creative, Mediterranean Cuisine",1
+Virtuoso Gourmet - Tenuta Le Tre Virtù,San Piero a Sieve,150,EUR,"Tuscan, Regional Cuisine",1
+Colline Ciociare,Acuto,120,EUR,"Creative, Regional Cuisine",1
+Meo Modo,Chiusdino,195,EUR,Creative,1
+Claudio,Bergeggi,140,EUR,Seafood,1
+Da Gorini,San Piero in Bagno,110,EUR,"Modern Cuisine, Cuisine from Romagna",1
+D.One Restaurant,Montepagano,110,EUR,"Modern Cuisine, Contemporary",1
+La Favellina,Malo,100,EUR,"Modern Cuisine, Italian Contemporary",1
+Il Cantuccio,Albavilla,78,EUR,Modern Cuisine,1
+Oseleta,Cavaion Veronese,130,EUR,"Creative, Contemporary",1
+Schöneck,Molini,110,EUR,Regional Cuisine,1
+Danilo Ciavattini,Viterbo,84,EUR,"Creative, Regional Cuisine",1
+I Salotti,Chiusi,150,EUR,Creative,1
+Villa Naj,Stradella,80,EUR,"Modern Cuisine, Italian Contemporary",1
+Zash,Archi,160,EUR,Creative,1
+Nazionale,Vernante,75,EUR,Modern Cuisine,1
+Lazzaro 1915,Pontelongo,110,EUR,"Creative, Modern Cuisine",1
+Pashà,Conversano,150,EUR,"Modern Cuisine, Regional Cuisine",1
+Anna Stuben,Ortisei,140,EUR,Creative,1
+Due Camini,Savelletri,200,EUR,Modern Cuisine,1
+Silene,Seggiano,120,EUR,Tuscan,1
+Ca' Matilde,Rubbianino,115,EUR,"Modern Cuisine, Contemporary",1
+Damini Macelleria & Affini,Arzignano,135,EUR,"Italian, Modern Cuisine",1
+Spinechile,Schio,120,EUR,Creative,1
+Locanda le 4 Ciacole,Roverchiara,80,EUR,Creative,1
+Essenza,Terracina,120,EUR,"Italian Contemporary, Modern Cuisine",1
+Il Pellicano,Porto Ercole,150,EUR,Creative,1
+La Preséf,Mantello,125,EUR,Creative,1
+I Pupi,Bagheria,130,EUR,"Modern Cuisine, Seasonal Cuisine",1
+Contaminazioni Restaurant,Somma Vesuviana,120,EUR,"Italian Contemporary, Japanese",1
+Casin del Gamba,Altissimo,110,EUR,"Modern Cuisine, Contemporary",1
+Lido 84,Fasano del Garda,130,EUR,Creative,1
+Locanda Margon,Ravina,200,EUR,"Creative, Contemporary",1
+Osteria di Passignano,Passignano,100,EUR,Modern Cuisine,1
+Aqua Crua,Barbarano Vicentino,160,EUR,"Creative, Modern Cuisine",1
+Gambero Rosso,Marina di Gioiosa Ionica,130,EUR,Seafood,1
+Andrea Monesi - Locanda di Orta,Orta San Giulio,170,EUR,Modern Cuisine,1
+Kuppelrain,Castelbello,130,EUR,Modern Cuisine,1
+La Zanzara,Codigoro,110,EUR,Seafood,1
+La Capanna di Eraclio,Codigoro,103,EUR,Seafood,1
+Josè Restaurant - Tenuta Villa Guerra,Torre del Greco,90,EUR,"Modern Cuisine, Contemporary",1
+Il Patio,Pollone,95,EUR,"Modern Cuisine, Contemporary",1
+Locanda San Lorenzo,Puos d'Alpago,98,EUR,"Modern Cuisine, Seasonal Cuisine",1
+Qafiz,Santa Cristina d'Aspromonte,180,EUR,Modern Cuisine,1
+Gusto by Sadler,San Teodoro,150,EUR,Modern Cuisine,1
+La Tavola,Laveno,130,EUR,Modern Cuisine,1
+Al Metrò,San Salvo Marina,100,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Il Falconiere,San Martino,130,EUR,Tuscan,1
+Mistral,Bellagio,250,EUR,Modern Cuisine,1
+1908,Soprabolzano,125,EUR,"Creative, Modern Cuisine",1
+All'Enoteca,Canale,130,EUR,Modern Cuisine,1
+Taverna del Capitano,Marina del Cantone,150,EUR,Creative,1
+Piazzetta Milù,Castellammare di Stabia,130,EUR,Creative,1
+Iacobucci,Castel Maggiore,110,EUR,Italian Contemporary,1
+Gellius,Oderzo,110,EUR,Modern Cuisine,1
+Il Bavaglino,Terrasini,95,EUR,"Creative, Contemporary",1
+Oasis - Sapori Antichi,Vallesaccarda,85,EUR,"Campanian, Regional Cuisine",1
+Franco Mare,Marina di Pietrasanta,140,EUR,Seafood,1
+LoRo,Trescore Balneario,125,EUR,Creative,1
+Peter Brunel Ristorante Gourmet,Arco,140,EUR,"Modern Cuisine, Italian Contemporary",1
+Osteria Altran,Ruda,96,EUR,Modern Cuisine,1
+Nido del Picchio,Carpaneto Piacentino,110,EUR,Modern Cuisine,1
+L'Arcade,Porto San Giorgio,85,EUR,"Contemporary, Seafood",1
+Retroscena,Porto San Giorgio,90,EUR,"Creative, Contemporary",1
+Il Refettorio,Conca dei Marini,125,EUR,Mediterranean Cuisine,1
+Vecchia Malcesine,Malcesine,140,EUR,Modern Cuisine,1
+La Locanda del Borgo,Telese,120,EUR,"Creative, Modern Cuisine",1
+Antonello Colonna Labico,Labico,120,EUR,Modern Cuisine,1
+Stube Hermitage,Madonna di Campiglio,150,EUR,"Creative, Regional Cuisine",1
+Dolomieu,Madonna di Campiglio,136,EUR,"Modern Cuisine, Contemporary",1
+Il Gallo Cedrone,Madonna di Campiglio,129,EUR,"Creative, Contemporary",1
+Gabbiano 3.0,Marina di Grosseto,180,EUR,Creative,1
+Ca' Vittoria,Tigliole,115,EUR,"Piedmontese, Creative",1
+Osteria degli Assonica,Sorisole,82,EUR,"Italian Contemporary, Creative",1
+Esplanade,Desenzano del Garda,130,EUR,"Modern Cuisine, Italian",1
+Trattoria da Amerigo,Savigno,65,EUR,Regional Cuisine,1
+Pascucci al Porticciolo,Fiumicino,130,EUR,Seafood,1
+Il Tino,Fiumicino,130,EUR,Creative,1
+Linfa,San Gimignano,125,EUR,Creative,1
+Lanterna Verde,Villa di Chiavenna,120,EUR,"Modern Cuisine, Regional Cuisine",1
+Prezioso,Merano,130,EUR,"Modern Cuisine, Creative",1
+Sissi,Merano,95,EUR,Modern Cuisine,1
+La Ciau del Tornavento,Treiso,115,EUR,Modern Cuisine,1
+Signum,Salina,160,EUR,"Contemporary, Sicilian",1
+La Veranda del Color,Bardolino,150,EUR,Mediterranean Cuisine,1
+Johannesstube,Nova Levante,175,EUR,"Modern Cuisine, Regional Cuisine",1
+Guido,Serralunga d'Alba,120,EUR,Piedmontese,1
+Locanda Don Serafino,Ragusa,165,EUR,Modern Cuisine,1
+Leon d'Oro,Pralboino,120,EUR,"Modern Cuisine, Regional Cuisine",1
+Octavin,Arezzo,80,EUR,Creative,1
+Il Pievano,Gaiole in Chianti,160,EUR,Modern Cuisine,1
+Tilia,Toblach,110,EUR,Modern Cuisine,1
+Da Candida,Campione d'Italia,110,EUR,French,1
+La Speranzina Restaurant & Relais,Sirmione,135,EUR,"Creative, Contemporary",1
+La Rucola 2.0,Sirmione,110,EUR,"Creative, Contemporary",1
+Il Papavero,Eboli,62,EUR,Regional Cuisine,1
+La Pineta,Marina di Bibbona,85,EUR,Seafood,1
+Atelier,Domodossola,90,EUR,Modern Cuisine,1
+La Parolina,Trevinano,120,EUR,"Country cooking, Regional Cuisine",1
+La Credenza,San Maurizio Canavese,170,EUR,Creative,1
+Dolce Stil Novo alla Reggia,Venaria Reale,145,EUR,Modern Cuisine,1
+Re Santi e Leoni,Nola,110,EUR,Contemporary,1
+Rear Restaurant,Nola,120,EUR,Modern Cuisine,1
+Due Colombe,Borgonato,110,EUR,Modern Cuisine,1
+Pietramare Natural Food,Isola di Capo Rizzuto,120,EUR,Creative,1
+Luigi Lepore,Lamezia Terme,75,EUR,Modern Cuisine,1
+"Locanda Vecchia Pavia ""Al Mulino""",Torre del Mangano,90,EUR,Classic Cuisine,1
+Il Cappero,Isola Vulcano,160,EUR,"Mediterranean Cuisine, Modern Cuisine",1
+Frosio,Almè,85,EUR,Modern Cuisine,1
+Il Faro di Capo d'Orso,Maiori,155,EUR,Creative,1
+Andreina,Loreto,130,EUR,Regional Cuisine,1
+Senso Alfio Ghezzi Mart,Rovereto,100,EUR,"Creative, Italian Contemporary",1
+I Castagni,Vigevano,90,EUR,"Classic Cuisine, Modern Cuisine",1
+Il Centro,Priocca,90,EUR,Piedmontese,1
+Somu,Baia Sardinia,80,EUR,"Modern Cuisine, Creative",1
+Locanda Sant'Uffizio Enrico Bartolini,Cioccaro,140,EUR,"Modern Cuisine, Piedmontese",1
+Fradis Minoris,Pula,80,EUR,"Modern Cuisine, Sardinian",1
+Zum Löwen,Tisens,100,EUR,Creative,1
+Sedicesimo Secolo,Pudiano,92,EUR,"Creative, Contemporary",1
+L'Acciuga,Perugia,62,EUR,Modern Cuisine,1
+Malga Panna,Moena,105,EUR,"Seasonal Cuisine, Regional Cuisine",1
+Gagini Restaurant,Palermo,110,EUR,"Creative, Contemporary",1
+Feva,Castelfranco Veneto,110,EUR,Creative,1
+Matteo Grandi,Vicenza,130,EUR,"Creative, Contemporary",1
+21.9,Piobesi d'Alba,150,EUR,Creative,1
+La Fermata,Spinetta Marengo,85,EUR,Modern Cuisine,1
+Villa Maiella,Guardiagrele,105,EUR,"Cuisine from Abruzzo, Regional Cuisine",1
+Trattoria al Cacciatore - La Subida,Cormons,100,EUR,"Regional Cuisine, Traditional Cuisine",1
+Angelo Sabatelli,Putignano,180,EUR,Modern Cuisine,1
+Materia,Cernobbio,135,EUR,Creative,1
+Impronta d'Acqua,Cavi di Lavagna,120,EUR,"Creative, Italian Contemporary",1
+St. George by Heinz Beck,Taormina,170,EUR,"Creative, Contemporary",1
+La Capinera,Taormina,105,EUR,"Creative, Sicilian",1
+Otto Geleng,Taormina,150,EUR,"Mediterranean Cuisine, Sicilian",1
+Petit Royal,Courmayeur,180,EUR,"Modern Cuisine, Contemporary",1
+Castello di Fighine,San Casciano dei Bagni,120,EUR,Contemporary,1
+Il Cantinone e Sport Hotel Alpina,Madesimo,119,EUR,Modern Cuisine,1
+San Martino,Treviglio,115,EUR,Seafood,1
+Osteria del Povero Diavolo,Torriana,78,EUR,Modern Cuisine,1
+Casa Iozzìa,Vitorchiano,115,EUR,"Modern Cuisine, Sicilian",1
+Nove,Alassio,118,EUR,Modern Cuisine,1
+Coria,Caltagirone,110,EUR,Modern Cuisine,1
+Shalai,Linguaglossa,130,EUR,"Modern Cuisine, Sicilian",1
+La Tortuga,Gargnano,120,EUR,"Classic Cuisine, Italian Contemporary",1
+Al Gambero,Calvisano,105,EUR,"Regional Cuisine, Classic Cuisine",1
+Paolo e Barbara,San Remo,110,EUR,"Modern Cuisine, Italian Contemporary",1
+Capriccio,Manerba del Garda,140,EUR,"Modern Cuisine, Seafood",1
+Damiano Nigro,La Morra,92,EUR,Contemporary,1
+Osteria Arborina,La Morra,95,EUR,Modern Cuisine,1
+Massimo Camia,La Morra,90,EUR,Modern Cuisine,1
+L'Erba del Re,Modena,110,EUR,Creative,1
+Zur Rose,San Michele,115,EUR,"Classic Cuisine, Contemporary",1
+Osteria Acquarol,San Michele,120,EUR,"Modern Cuisine, Alpine",1
+Porta di Basso,Peschici,120,EUR,"Seafood, Contemporary",1
+Storie d'Amore,Borgoricco,100,EUR,Modern Cuisine,1
+Sarri,Imperia,116,EUR,Seafood,1
+Laite,Sappada,130,EUR,"Regional Cuisine, Traditional Cuisine",1
+Al Sorriso,Soriso,150,EUR,"Classic Cuisine, Modern Cuisine",1
+Sala dei Grappoli,Poggio alle Mura,160,EUR,Modern Cuisine,1
+Lorelei,Sorrento,150,EUR,Mediterranean Cuisine,1
+Il Buco,Sorrento,120,EUR,Mediterranean Cuisine,1
+Terrazza Bosquet,Sorrento,160,EUR,Creative,1
+Orto by Jorg Giubbani,Moneglia,85,EUR,"Modern Cuisine, Ligurian",1
+Glicine,Amalfi,170,EUR,"Mediterranean Cuisine, Italian Contemporary",1
+La Caravella dal 1959,Amalfi,180,EUR,"Campanian, Mediterranean Cuisine",1
+Dattilo,Strongoli,120,EUR,Creative,1
+Astra,Collepietra,125,EUR,Creative,1
+Pierino Penati,Vigano,130,EUR,Classic Cuisine,1
+Il Cascinalenuovo,Isola d'Asti,80,EUR,"Modern Cuisine, Piedmontese",1
+La Bandiera,Civitella Casanova,87,EUR,Cuisine from Abruzzo,1
+Osteria della Brughiera,Villa d'Almè,140,EUR,Creative,1
+Ma.Ri.Na.,Olgiate Olona,180,EUR,Seafood,1
+La Trattoria Enrico Bartolini,Badiola,200,EUR,Mediterranean Cuisine,1
+Cielo,Ostuni,160,EUR,"Creative, Contemporary",1
+Sud,Quarto,110,EUR,"Modern Cuisine, Seafood",1
+Inkiostro,Parma,135,EUR,Creative,1
+Parizzi,Parma,85,EUR,Creative,1
+La Torre,Tavarnelle Val di Pesa,180,EUR,"Creative, Contemporary",1
+Rossellinis,Ravello,180,EUR,Modern Cuisine,1
+Il Flauto di Pan,Ravello,190,EUR,Creative,1
+Apostelstube,Brixen,115,EUR,"Modern Cuisine, Contemporary",1
+Lux Lucis,Forte dei Marmi,150,EUR,Creative,1
+Il Parco di Villa Grey,Forte dei Marmi,150,EUR,Modern Cuisine,1
+La Magnolia,Forte dei Marmi,130,EUR,Modern Cuisine,1
+Lorenzo,Forte dei Marmi,140,EUR,Seafood,1
+Bistrot,Forte dei Marmi,140,EUR,Seafood,1
+'L Chimpl,Tamion,95,EUR,"Creative, Contemporary",1
+Don Geppi,Sant' Agnello,140,EUR,"Modern Cuisine, Creative",1
+ConFusion,Porto Cervo,190,EUR,"Creative, Contemporary",1
+Il Piastrino,Pennabilli,95,EUR,Modern Cuisine,1
+Amistà,San Pietro in Cariano,140,EUR,"Modern Cuisine, Italian Contemporary",1
+Arnaldo - Clinica Gastronomica,Rubiera,75,EUR,Emilian,1
+Venissa,Mazzorbo,170,EUR,Modern Cuisine,1
+Bros',Lecce,200,EUR,"Creative, Contemporary",1
+Primo Restaurant,Lecce,170,EUR,"Mediterranean Cuisine, Contemporary",1
+I Caffi,Acqui Terme,95,EUR,Classic Cuisine,1
+Poggio Rosso,Castelnuovo Berardenga,190,EUR,Creative,1
+L'Asinello,Castelnuovo Berardenga,85,EUR,Modern Cuisine,1
+La Bottega del 30,Castelnuovo Berardenga,120,EUR,Tuscan,1
+Il Saraceno,Cavernago,120,EUR,Modern Cuisine,1
+Abbruzzino,Catanzaro,120,EUR,Modern Cuisine,1
+Kitchen,Como,125,EUR,"Contemporary, Modern Cuisine",1
+I Tigli in Theoria,Como,147,EUR,Modern Cuisine,1
+Aminta Resort,Genazzano,130,EUR,Creative,1
+Atman a Villa Rospigliosi,Lamporecchio,145,EUR,Creative,1
+Zappatori,Pinerolo,90,EUR,Modern Cuisine,1
+La Cru,Romagnano,120,EUR,"Italian Contemporary, Contemporary",1
+Indaco,Lacco Ameno,145,EUR,"Creative, Seafood",1
+La Buca,Cesenatico,98,EUR,Seafood,1
+Vecchio Ristoro,Aosta,135,EUR,"Modern Cuisine, Regional Cuisine",1
+Cannavacciuolo Countryside,Ticciano,100,EUR,"Mediterranean Cuisine, Regional Cuisine",1
+Vespasia,Norcia,150,EUR,Modern Cuisine,1
+Antica Corte Pallavicina,Polesine Parmense,180,EUR,Country cooking,1
+Quintessenza,Trani,120,EUR,"Contemporary, Apulian",1
+Casa Sgarra,Trani,85,EUR,"Creative, Modern Cuisine",1
+Lunasia,Viareggio,150,EUR,Modern Cuisine,1
+Romano,Viareggio,135,EUR,Seafood,1
+Le Monzù,Capri,200,EUR,Modern Cuisine,1
+Mammà,Capri,150,EUR,Creative,1
+Relais Blu,Massa Lubrense,92,EUR,Mediterranean Cuisine,1
+La Serra,Positano,180,EUR,Modern Cuisine,1
+Zass,Positano,160,EUR,Modern Cuisine,1
+Li Galli,Positano,200,EUR,Modern Cuisine,1
+San Martino,Scorzè,125,EUR,Modern Cuisine,1
+La Primula,San Quirino,90,EUR,"Modern Cuisine, Contemporary",1
+Impronte,Bergamo,130,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Casual,Bergamo,145,EUR,Creative,1
+Cannavacciuolo Cafè & Bistrot,Novara,140,EUR,Modern Cuisine,1
+Tantris,Novara,98,EUR,Creative,1
+L'Argine a Vencò,Dolegna del Collio,120,EUR,Creative,1
+La Palta,Borgonovo Val Tidone,85,EUR,Creative,1
+Mater1apr1ma,Pontinia,80,EUR,"Italian Contemporary, Modern Cuisine",1
+Hyle,San Giovanni in Fiore,110,EUR,Modern Cuisine,1
+San Giorgio,Genoa,95,EUR,"Seafood, Ligurian",1
+The Cook,Genoa,110,EUR,"Modern Cuisine, Contemporary",1
+In Viaggio - Claudio Melis,Bolzano,130,EUR,"Creative, Contemporary",1
+SanBrite,Cortina d'Ampezzo,140,EUR,"Alpine, Modern Cuisine",1
+Tivoli,Cortina d'Ampezzo,140,EUR,"Modern Cuisine, Italian",1
+Abocar Due Cucine,Rimini,95,EUR,Modern Cuisine,1
+Osteria Perillà,Castiglione d'Orcia,130,EUR,Modern Cuisine,1
+Dolada,Pieve d'Alpago,110,EUR,"Modern Cuisine, Regional Cuisine",1
+Casa Vissani,Baschi,250,EUR,Creative,1
+Acquerello,Fagnano Olona,180,EUR,Creative,1
+Guido,Rimini,100,EUR,"Seafood, Modern Cuisine",1
+Dal Corsaro,Cagliari,145,EUR,Modern Cuisine,1
+Le Trabe,Paestum,110,EUR,Modern Cuisine,1
+Osteria Arbustico,Paestum,95,EUR,Modern Cuisine,1
+Maxi,Vico Equense,150,EUR,Creative,1
+Antica Osteria Nonna Rosa,Vico Equense,120,EUR,Modern Cuisine,1
+Già Sotto l'Arco,Carovigno,140,EUR,Creative,1
+Contraste,Milan,160,EUR,"Modern Cuisine, Innovative",1
+Joia,Milan,125,EUR,"Vegetarian, Seasonal Cuisine",1
+L’Alchimia,Milan,95,EUR,"Modern Cuisine, Innovative",1
+Sadler,Milan,160,EUR,Creative,1
+Innocenti Evasioni,Milan,98,EUR,Creative,1
+Viva Viviana Varese,Milan,170,EUR,"Creative, Innovative",1
+Tano Passami l'Olio,Milan,145,EUR,"Creative, Modern Cuisine",1
+AALTO,Milan,150,EUR,"Asian Contemporary, Modern Cuisine",1
+Iyo,Milan,130,EUR,"Japanese, Asian Contemporary",1
+Felix Lo Basso home & restaurant,Milan,170,EUR,"Innovative, Creative",1
+Berton,Milan,150,EUR,"Creative, Modern Cuisine",1
+Cracco,Milan,235,EUR,"Modern Cuisine, Contemporary",1
+Don Alfonso 1890 San Barbato,Lavello,100,EUR,"Modern Cuisine, Creative",1
+President,Pompei,110,EUR,Mediterranean Cuisine,1
+Casamatta,Manduria,120,EUR,Modern Cuisine,1
+Veritas,Naples,100,EUR,Modern Cuisine,1
+Il Comandante,Naples,175,EUR,"Creative, Mediterranean Cuisine",1
+George Restaurant,Naples,150,EUR,Contemporary,1
+ARIA,Naples,120,EUR,"Contemporary, Modern Cuisine",1
+Palazzo Petrucci,Naples,150,EUR,Creative,1
+Vitantonio Lombardo,Matera,160,EUR,Creative,1
+Il Ristorante di Guido da Costigliole,Santo Stefano Belbo,155,EUR,Piedmontese,1
+I Portici,Bologna,150,EUR,Creative,1
+Il Palagio,Florence,140,EUR,Modern Cuisine,1
+Gucci Osteria da Massimo Bottura,Florence,150,EUR,Modern Cuisine,1
+Borgo San Jacopo,Florence,157,EUR,"Modern Cuisine, Contemporary",1
+La Leggenda dei Frati,Florence,170,EUR,Creative,1
+Locanda del Pilone,Alba,140,EUR,Creative,1
+Borgo Sant'Anna,Monforte d'Alba,70,EUR,"Contemporary, Modern Cuisine",1
+Fre,Monforte d'Alba,150,EUR,Creative,1
+Acqua Pazza,Ponza,110,EUR,Seafood,1
+Il Vescovado,Noli,160,EUR,Modern Cuisine,1
+Moma,Rome,110,EUR,"Creative, Innovative",1
+Zia,Rome,90,EUR,"Modern Cuisine, Contemporary",1
+All'Oro,Rome,150,EUR,"Creative, Italian Contemporary",1
+Idylio by Apreda,Rome,140,EUR,"Italian Contemporary, Contemporary",1
+Acquolina,Rome,170,EUR,"Seafood, Creative",1
+Il Convivio Troiani,Rome,140,EUR,"Modern Cuisine, Contemporary",1
+Aroma,Rome,170,EUR,"Creative, Innovative",1
+Pipero Roma,Rome,210,EUR,"Creative, Contemporary",1
+Glass Hostaria,Rome,110,EUR,"Creative, Innovative",1
+La Terrazza,Rome,215,EUR,"Modern Cuisine, Innovative",1
+Enoteca La Torre,Rome,140,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Imàgo,Rome,170,EUR,"Modern Cuisine, Italian Contemporary",1
+Marco Martini Restaurant,Rome,150,EUR,"Creative, Contemporary",1
+Per Me Giulio Terrinoni,Rome,150,EUR,"Creative, Innovative",1
+Vintage 1997,Turin,130,EUR,Modern Cuisine,1
+Casa Vicina,Turin,140,EUR,"Italian Contemporary, Piedmontese",1
+Cannavacciuolo Bistrot,Turin,110,EUR,Creative,1
+Spazio7,Turin,100,EUR,Modern Cuisine,1
+Del Cambio,Turin,215,EUR,"Piedmontese, Modern Cuisine",1
+Magorabin,Turin,160,EUR,"Creative, Contemporary",1
+Condividere,Turin,105,EUR,"Modern Cuisine, Creative",1
+Piano 35,Turin,120,EUR,"Modern Cuisine, Regional Cuisine",1
+Carignano,Turin,95,EUR,Creative,1
+Unforgettable,Turin,90,EUR,"Innovative, Italian Contemporary",1
+Accursio,Modica,160,EUR,Creative,1
+Alpenroyal Gourmet,Selva di Val Gardena,150,EUR,Creative,1
+Nostrano,Pesaro,115,EUR,"Creative, Contemporary",1
+Zanze XVI,Venice,100,EUR,"Creative, Modern Cuisine",1
+Wistèria,Venice,160,EUR,"Contemporary, Venetian",1
+Local,Venice,150,EUR,Contemporary,1
+Quadri,Venice,215,EUR,Modern Cuisine,1
+Oro Restaurant,Venice,250,EUR,Modern Cuisine,1
+Re Maurì,Salerno,120,EUR,Creative,1
+Butterfly,Marlia,120,EUR,Modern Cuisine,1
+Giglio,Lucca,100,EUR,Modern Cuisine,1
+12 Apostoli,Verona,160,EUR,"Modern Cuisine, Contemporary",1
+Il Desco,Verona,155,EUR,Italian Contemporary,1
+La Tana Gourmet,Asiago,180,EUR,"Creative, Contemporary",1
+Stube Gourmet,Asiago,116,EUR,"Creative, Contemporary",1
+El Molin,Cavalese,160,EUR,"Creative, Alpine",1
+Sapio,Catania,120,EUR,Modern Cuisine,1
+Varoulko Seaside,Athens,60,EUR,Seafood,1
+CTC,Athens,85,EUR,Modern Cuisine,1
+Botrini's,Athens,120,EUR,Mediterranean Cuisine,1
+Pelagos,Athens,155,EUR,Seafood,1
+Hytra,Athens,90,EUR,Modern Cuisine,1
+Field,Prague,"3,200",CZK,Modern Cuisine,1
+La Degustation Bohême Bourgeoise,Prague,"2,100",CZK,Modern Cuisine,1
+Maison Lameloise,Shanghai,"2,388",CNY,French Contemporary,1
+Fu 1015,Shanghai,"1,500",CNY,Shanghainese,1
+T'ang Court,Shanghai,"3,188",CNY,Cantonese,1
+Shang-High Cuisine,Shanghai,"1,000",CNY,Shanghainese,1
+Lao Zheng Xing (Huangpu),Shanghai,300,CNY,Shanghainese,1
+Oriental Sense & Palate,Shanghai,"1,600",CNY,Chao Zhou,1
+Moose (Changning),Shanghai,800,CNY,Huaiyang,1
+Yi Long Court,Shanghai,"1,980",CNY,Cantonese,1
+Jin Xuan,Shanghai,"1,200",CNY,Cantonese,1
+Yu Zhi Lan,Shanghai,"1,888",CNY,Sichuan,1
+Obscura,Shanghai,"2,000",CNY,Innovative,1
+Seventh Son,Shanghai,"1,000",CNY,Cantonese,1
+Tea Culture (East Beijing Road),Shanghai,800,CNY,Huaiyang,1
+Moose (Pudong),Shanghai,800,CNY,Huaiyang,1
+Sir Elly's,Shanghai,"1,950",CNY,European Contemporary,1
+Meet the Bund,Shanghai,500,CNY,Fujian,1
+Ming Court,Shanghai,800,CNY,Cantonese,1
+Phénix,Shanghai,988,CNY,French,1
+Fu He Hui,Shanghai,"1,160",CNY,Vegetarian,1
+Ren He Guan (Zhaojiabang Road),Shanghai,300,CNY,Shanghainese,1
+Sheng Yong Xing,Shanghai,"1,288",CNY,Beijing Cuisine,1
+Yong Yi Ting,Shanghai,"1,200",CNY,Shanghainese,1
+YongFoo Élite,Shanghai,"1,000",CNY,Shanghainese,1
+Cheng Long Hang (Huangpu),Shanghai,988,CNY,Shanghainese,1
+Da Dong (Xuhui),Shanghai,600,CNY,Chinese Contemporary,1
+Canton Table,Shanghai,"1,000",CNY,Cantonese,1
+Il Ristorante - Niko Romito,Shanghai,"2,100",CNY,Italian,1
+Jean Georges,Shanghai,"1,498",CNY,French,1
+Lei Garden (Xuhui),Shanghai,500,CNY,Cantonese,1
+Le Comptoir de Pierre Gagnaire,Shanghai,"1,488",CNY,French,1
+Amazing Chinese Cuisine (Changning),Shanghai,"1,200",CNY,Chao Zhou,1
+Fu 1088,Shanghai,800,CNY,Shanghainese,1
+Lei Garden (Pudong),Shanghai,550,CNY,Cantonese,1
+Da Dong (Jingan),Shanghai,"1,000",CNY,Chinese Contemporary,1
+Yong Fu,Shanghai,"1,000",CNY,Ningbo,1
+Le Patio & La Famille (Huangpu),Shanghai,400,CNY,Hang Zhou,1
+Xin Rong Ji (West Nanjing Road),Shanghai,"1,000",CNY,Taizhou,1
+Shoroku,Osaka,"18,000",JPY,Japanese,1
+Point,Osaka,"22,000",JPY,French,1
+Oryori Yamada,Osaka,"20,000",JPY,Japanese,1
+Yoshiko,Osaka,"37,000",JPY,Fugu / Pufferfish,1
+Kyomachiryori Mitsuya,Osaka,"17,000",JPY,Japanese,1
+Ñ,Osaka,"17,000",JPY,Spanish,1
+Nishishinsaibashi Yuno,Osaka,"25,000",JPY,Japanese,1
+Enomoto,Osaka,"22,000",JPY,Japanese,1
+il Centrino,Osaka,"15,000",JPY,Italian,1
+Kitashinchi Fukutatei,Osaka,"25,000",JPY,Steakhouse,1
+IDÉAL bistro,Osaka,"15,000",JPY,French,1
+Shinchi Yamamoto,Osaka,"29,000",JPY,Japanese,1
+Ono,Osaka,"28,000",JPY,Japanese,1
+Choraku,Osaka,"16,000",JPY,Oden,1
+Sui,Osaka,"18,000",JPY,Japanese,1
+Hiraishi,Osaka,"19,000",JPY,Tempura,1
+Sosakuwasho Nakashima,Osaka,"14,000",JPY,Japanese,1
+Konoha,Osaka,"18,000",JPY,Japanese,1
+Oimatsu Kitagawa,Osaka,"27,000",JPY,Japanese,1
+Ichiju Nisai Ueno Minoten,Osaka,"34,000",JPY,Japanese,1
+LE PONT DE CIEL,Osaka,"30,000",JPY,French,1
+agnel d'or,Osaka,"16,000",JPY,French,1
+Oimatsu Hisano,Osaka,"15,000",JPY,Japanese,1
+Torisho Ishii,Osaka,"10,000",JPY,Yakitori,1
+Utsubohommachi Gaku,Osaka,"24,000",JPY,Japanese,1
+Iwaki,Osaka,"20,000",JPY,Japanese,1
+Iroha,Osaka,"20,000",JPY,Japanese,1
+Shintaro,Osaka,"12,000",JPY,Tempura,1
+Différence,Osaka,"15,000",JPY,French,1
+Rakushin,Osaka,"33,000",JPY,Japanese,1
+a canto,Osaka,"11,000",JPY,Italian,1
+Pierre,Osaka,"21,000",JPY,French,1
+Higashichaya Nakamura,Osaka,"27,000",JPY,Japanese,1
+Man-u,Osaka,"20,000",JPY,Oden,1
+Kaishoku Shimizu,Osaka,"16,500",JPY,Japanese,1
+Sushi Murakami Jiro,Osaka,"27,000",JPY,Sushi,1
+Sushidokoro Amano,Osaka,"16,000",JPY,Sushi,1
+Ayamuya,Osaka,"7,000",JPY,Yakitori,1
+Nishino,Osaka,"20,000",JPY,Japanese,1
+La Lucciola,Osaka,"14,000",JPY,Italian,1
+Zeshin,Osaka,"16,000",JPY,Japanese,1
+La casa TOM Curiosa,Osaka,"17,000",JPY,Italian,1
+P greco,Osaka,"28,000",JPY,Italian,1
+Temmabashi Fujikawa,Osaka,"17,000",JPY,Japanese,1
+TEMPURA HANAGATAMI,Osaka,"26,000",JPY,Tempura,1
+Ajikitcho Horieten,Osaka,"46,000",JPY,Japanese,1
+capi,Osaka,"24,000",JPY,Innovative,1
+Sushi Minazuki,Osaka,"27,000",JPY,Sushi,1
+La Bécasse,Osaka,"30,000",JPY,French,1
+Oryori Horikawa,Osaka,"16,000",JPY,Japanese,1
+Teruya,Osaka,"20,000",JPY,Japanese,1
+Yakitori Ichimatsu,Osaka,"9,500",JPY,Yakitori,1
+Terada,Osaka,"20,000",JPY,Japanese,1
+La Baie,Osaka,"37,000",JPY,French,1
+Sushi Yuden,Osaka,"25,000",JPY,Sushi,1
+Kawahara,Osaka,"17,000",JPY,Japanese,1
+Ayamedo,Osaka,"4,000",JPY,Soba,1
+Chugokusai S.Sawada,Osaka,"17,000",JPY,Chinese,1
+Kagaman,Osaka,"43,000",JPY,Japanese,1
+Ajikitcho Bumbuan,Osaka,"25,000",JPY,Japanese,1
+Sumibi Kappo Ishii,Osaka,"33,000",JPY,Japanese,1
+Nishitemma Nakamura,Osaka,"15,000",JPY,Japanese,1
+Masuda,Osaka,"18,000",JPY,Japanese,1
+Yoshino,Osaka,"14,000",JPY,Japanese,1
+YUNiCO,Osaka,"15,000",JPY,"Italian, Italian Contemporary",1
+Yonemasu,Osaka,"22,000",JPY,Japanese,1
+Sushidokoro Hirokawa,Osaka,"17,000",JPY,Sushi,1
+Naniwaryori Yu,Osaka,"15,000",JPY,Japanese,1
+LIAISON,Osaka,"16,000",JPY,French,1
+ad hoc,Osaka,"16,000",JPY,French,1
+Kappo Hashimoto,Osaka,"13,000",JPY,Japanese,1
+Yunagibashi Takoyasu,Osaka,"34,000",JPY,Fugu / Pufferfish,1
+Yugen,Osaka,"21,000",JPY,Japanese,1
+Sushiroku,Osaka,"16,500",JPY,Sushi,1
+Alarde,Osaka,"14,000",JPY,Spanish,1
+Sushi Ohata,Osaka,"24,000",JPY,Sushi,1
+Shunsenwaraku Sanai,Osaka,"14,000",JPY,Japanese,1
+Maison Tateru Yoshino,Osaka,"25,000",JPY,French,1
+Unkaku,Osaka,"37,000",JPY,Japanese,1
+Chi-Fu,Osaka,"22,000",JPY,Chinese,1
+Sushi Hoshiyama,Osaka,"24,000",JPY,Sushi,1
+Kamigamo Akiyama,Kyoto,"15,000",JPY,Japanese,1
+Kyoryori Fujimoto,Kyoto,"15,000",JPY,Japanese,1
+Kyoboshi,Kyoto,"14,000",JPY,Tempura,1
+Muromachi Wakuden,Kyoto,"44,000",JPY,Japanese,1
+MOTOÏ,Kyoto,"39,000",JPY,French,1
+Vena,Kyoto,"20,000",JPY,Italian,1
+Shun-ai Sasaki,Kyoto,"16,000",JPY,Japanese,1
+Uozuya,Kyoto,"27,000",JPY,Japanese,1
+Kyo Seika,Kyoto,"37,000",JPY,Chinese,1
+Godan Miyazawa,Kyoto,"22,000",JPY,Japanese,1
+Nijojo Furuta,Kyoto,"36,000",JPY,Japanese,1
+Hiramatsu Kodaiji,Kyoto,"31,000",JPY,French,1
+Akai,Kyoto,"37,000",JPY,Japanese,1
+Gion Mamma,Kyoto,"17,000",JPY,Japanese,1
+Kentan Horibe,Kyoto,"22,000",JPY,Japanese,1
+Ayanokoji Karatsu,Kyoto,"33,000",JPY,Japanese,1
+Sushi Kappo Nakaichi,Kyoto,"30,000",JPY,Japanese,1
+Nishijin Fujiyoshi,Kyoto,"11,000",JPY,Japanese,1
+Droit,Kyoto,"19,000",JPY,French,1
+Oryori Hiwatashi,Kyoto,"25,000",JPY,Japanese,1
+Gion Okada,Kyoto,"19,000",JPY,Japanese,1
+Gosho Iwasaki,Kyoto,"18,000",JPY,Japanese,1
+Tozentei,Kyoto,"33,000",JPY,Japanese,1
+Sushi Rakumi,Kyoto,"28,000",JPY,Sushi,1
+Oshikoji Okada,Kyoto,"11,000",JPY,Japanese,1
+CAINOYA,Kyoto,"40,000",JPY,Innovative,1
+Naruya,Kyoto,"40,000",JPY,Japanese,1
+Reine des prés,Kyoto,"24,000",JPY,French,1
+La Biographie···,Kyoto,"43,000",JPY,French,1
+MUNI LA TERRASSE,Kyoto,"13,000",JPY,"French, French Contemporary",1
+Gion Nishimura,Kyoto,"26,000",JPY,Japanese,1
+Kako Okamoto,Kyoto,"14,000",JPY,Japanese,1
+Kodaiji Jugyuan,Kyoto,"64,000",JPY,Japanese,1
+Gion Fukushi,Kyoto,"37,000",JPY,Japanese,1
+NAKATSUKA,Kyoto,"15,000",JPY,French,1
+Kokyu,Kyoto,"26,000",JPY,Japanese,1
+Kappo Hassun,Kyoto,"22,000",JPY,Japanese,1
+Shuhaku,Kyoto,"18,000",JPY,Japanese,1
+Shimogamo Saryo,Kyoto,"31,000",JPY,Japanese,1
+Kanamean Nishitomiya,Kyoto,"25,000",JPY,Japanese,1
+TAKAYAMA,Kyoto,"22,000",JPY,Italian,1
+Sokkon Fujimoto,Kyoto,"22,000",JPY,Japanese,1
+Ryoriya Maekawa,Kyoto,"17,000",JPY,Japanese,1
+Okina,Kyoto,"15,000",JPY,Japanese,1
+Sanso Kyoyamato,Kyoto,"57,000",JPY,Japanese,1
+Mirei,Kyoto,"17,000",JPY,Japanese,1
+Aoike,Kyoto,"22,000",JPY,French,1
+cenci,Kyoto,"16,000",JPY,Italian,1
+Tominokoji Yamagishi,Kyoto,"44,000",JPY,Japanese,1
+Gokomachi Tagawa,Kyoto,"22,000",JPY,Japanese,1
+Oryori Mashita,Kyoto,"25,000",JPY,Japanese,1
+MUNI ALAIN DUCASSE,Kyoto,"39,000",JPY,French,1
+Torisaki,Kyoto,"8,500",JPY,Yakitori,1
+Honke Tankuma Honten,Kyoto,"64,000",JPY,Japanese,1
+Tempura Mizuki,Kyoto,"25,000",JPY,Tempura,1
+Jiki Miyazawa,Kyoto,"20,000",JPY,Japanese,1
+Gion Kajisho,Kyoto,"17,000",JPY,Japanese,1
+Nakazen,Kyoto,"14,000",JPY,Japanese,1
+Gion Kida,Kyoto,"30,000",JPY,Japanese,1
+Gion Iwasaki,Kyoto,"25,000",JPY,Japanese,1
+VELROSIER,Kyoto,"22,000",JPY,Chinese,1
+Ogawa,Kyoto,"22,000",JPY,Japanese,1
+Funaokayama Shimizu,Kyoto,"19,000",JPY,Japanese,1
+Ichijoji Norihide,Kyoto,"33,000",JPY,Japanese,1
+Sushi Hayashi,Kyoto,"22,000",JPY,Sushi,1
+Kiyama,Kyoto,"25,000",JPY,Japanese,1
+KOKE,Kyoto,"22,000",JPY,Innovative,1
+Noguchi Tsunagu,Kyoto,"17,000",JPY,Japanese,1
+Kinobu,Kyoto,"32,000",JPY,Japanese,1
+HANA-Kitcho,Kyoto,"31,000",JPY,Japanese,1
+LURRA˚,Kyoto,"31,000",JPY,Innovative,1
+SEN,Kyoto,"25,000",JPY,Japanese,1
+Gion Sushi Tadayasu,Kyoto,"28,000",JPY,Sushi,1
+Yuyu,Kyoto,"17,000",JPY,Japanese,1
+Bini,Kyoto,"19,000",JPY,Italian,1
+Aji Fukushima,Kyoto,"16,000",JPY,Japanese,1
+Higashiyama Yoshihisa,Kyoto,"22,000",JPY,Japanese,1
+muroi,Kyoto,"18,000",JPY,Japanese,1
+Mokube,Kyoto,"22,000",JPY,Japanese,1
+Kamanza Nagashima,Kyoto,"17,000",JPY,Japanese,1
+Nikunotakumi Miyoshi,Kyoto,"48,000",JPY,Beef Specialities,1
+Ten-you,Kyoto,"17,000",JPY,Tempura,1
+Sushi Matsumoto,Kyoto,"21,000",JPY,Sushi,1
+Selby's,Atherton,85,USD,"American, Classic Cuisine",1
+Plumed Horse,Saratoga,195,USD,"Contemporary, American Contemporary",1
+Rasa,Burlingame,88,USD,"Indian, Contemporary",1
+The Village Pub,Woodside,89,USD,"Contemporary, American Contemporary",1
+Pasta | Bar,Encino,165,USD,"Contemporary, American",1
+Shin Sushi,Encino,160,USD,"Japanese, Sushi",1
+Adega,San Jose,199,USD,"Portuguese, Californian",1
+Kenzo,Napa,210,USD,Japanese,1
+La Toque,Napa,225,USD,Contemporary,1
+Auberge du Soleil,Rutherford,145,USD,Californian,1
+Sushi Shin,Redwood City,200,USD,"Japanese, Sushi",1
+Chez TJ,Mountain View,225,USD,"Contemporary, American",1
+Barndiva,Healdsburg,90,USD,Californian,1
+Bell's,Los Alamos,50,USD,"French, Californian",1
+Kali,Hollywood,190,USD,"Californian, Market Cuisine",1
+Six Test Kitchen,Paso Robles,185,USD,Contemporary,1
+Madcap,San Anselmo,110,USD,"Contemporary, Japanese Contemporary",1
+Sushi I-NABA,Manhattan Beach,220,USD,"Japanese, Sushi",1
+Bistro Na’s,Temple City,300,USD,"Chinese, Beijing Cuisine",1
+Jeune et Jolie,Carlsbad,90,USD,"French, Contemporary",1
+Sushi Yoshizumi,San Mateo,285,USD,"Japanese, Sushi",1
+Wakuriya,San Mateo,148,USD,"Japanese, Contemporary",1
+Soichi,San Diego,135,USD,"Japanese, Sushi",1
+Sushi Tadokoro,San Diego,120,USD,"Japanese, Sushi",1
+Sushi | Bar Montecito,Santa Barbara,145,USD,"Japanese, Sushi",1
+Maude,Beverly Hills,150,USD,"Contemporary, European Contemporary",1
+CUT,Beverly Hills,250,USD,"Steakhouse, American",1
+Nozawa Bar,Beverly Hills,195,USD,"Japanese, Sushi",1
+Gucci Osteria da Massimo Bottura,Beverly Hills,195,USD,"Italian, Contemporary",1
+Pasjoli,Santa Monica,200,USD,"French, Contemporary",1
+Rustic Canyon,Santa Monica,97,USD,Californian,1
+Aubergine,Carmel-by-the-Sea,205,USD,"Contemporary, Californian",1
+Madera,Menlo Park,129,USD,Contemporary,1
+Orsa & Winston,Los Angeles,125,USD,"Contemporary, Asian",1
+Q Sushi,Los Angeles,300,USD,"Japanese, Sushi",1
+Osteria Mozza,Los Angeles,115,USD,Italian,1
+Phenakite,Los Angeles,158,USD,"Asian, Contemporary",1
+Shibumi,Los Angeles,195,USD,"Japanese, Traditional Cuisine",1
+Morihiro,Los Angeles,300,USD,"Japanese, Sushi",1
+Mori Sushi,Los Angeles,150,USD,"Japanese, Sushi",1
+Le Comptoir,Los Angeles,175,USD,"Californian, Vegetarian",1
+State Bird Provisions,San Francisco,90,USD,Californian,1
+The Progress,San Francisco,78,USD,Californian,1
+Sons & Daughters,San Francisco,225,USD,Contemporary,1
+Wako,San Francisco,135,USD,"Japanese, Sushi",1
+jū-ni,San Francisco,165,USD,"Japanese, Sushi",1
+Mister Jiu’s,San Francisco,75,USD,"Chinese, Contemporary",1
+Al's Place,San Francisco,88,USD,"Californian, Contemporary",1
+Sorrel,San Francisco,148,USD,"Italian, Californian",1
+Omakase,San Francisco,150,USD,"Japanese, Sushi",1
+Niku Steakhouse,San Francisco,402,USD,Steakhouse,1
+O' by Claude Le Tohic,San Francisco,250,USD,"French, Contemporary",1
+Mourad,San Francisco,155,USD,"Moroccan, Contemporary",1
+Angler SF,San Francisco,600,USD,"Contemporary, Seafood",1
+Kin Khao,San Francisco,70,USD,"Thai, Californian",1
+Gary Danko,San Francisco,139,USD,Contemporary,1
+SPQR,San Francisco,120,USD,"Italian, Contemporary",1
+Avery,San Francisco,189,USD,"Contemporary, Creative",1
+Bar Crenn,San Francisco,165,USD,"French, Classic French",1
+The Shota,San Francisco,175,USD,"Japanese, Sushi",1
+Spruce,San Francisco,75,USD,"Californian, Contemporary",1
+Marlena,San Francisco,110,USD,"Californian, Contemporary",1
+The Kitchen,Sacramento,155,USD,"Contemporary, Californian",1
+Taco María,Costa Mesa,89,USD,"Mexican, Contemporary",1
+Knife Pleat,Costa Mesa,135,USD,"Contemporary, Modern French",1
+Hana re,Costa Mesa,300,USD,"Japanese, Sushi",1
+Protégé,Palo Alto,210,USD,"Contemporary, Californian",1
+Hiša Denk,Zgornja Kungota,85,EUR,"Creative, Modern Cuisine",1
+Dam,Nova Gorica,120,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Gostilna Pri Lojzetu,Vipava,95,EUR,"Modern Cuisine, Contemporary",1
+Grič,Horjul,110,EUR,Market Cuisine,1
+Restavracija Atelje,Ljubljana,120,EUR,Creative,1
+Lai Heen,Guangzhou,"1,200",CNY,Cantonese,1
+BingSheng Mansion,Guangzhou,800,CNY,Cantonese,1
+Suyab Courtyard・Pickmoon Gourmet,Guangzhou,"3,000",CNY,Chao Zhou,1
+Lei Garden (Yuexiu),Guangzhou,400,CNY,Cantonese,1
+Jade River,Guangzhou,"1,000",CNY,Cantonese,1
+BingSheng Private Kitchen,Guangzhou,"1,000",CNY,Cantonese,1
+Wisca (Haizhu),Guangzhou,500,CNY,Cantonese,1
+Hongtu Hall,Guangzhou,300,CNY,Dim Sum,1
+Lingnan House,Guangzhou,800,CNY,Cantonese,1
+Song,Guangzhou,300,CNY,Sichuan,1
+Yu Yue Heen,Guangzhou,"1,288",CNY,Cantonese,1
+Famous Cuisine (Tianhe),Guangzhou,200,CNY,Cantonese,1
+Rêver,Guangzhou,"1,680",CNY,French Contemporary,1
+Imperial Treasure Fine Teochew Cuisine,Guangzhou,800,CNY,Chao Zhou,1
+PM & Vänner,Växjö,"1,695",SEK,Creative,1
+Hotell Borgholm,Borgholm,"1,250",SEK,Modern Cuisine,1
+ÄNG,Tvååker,"1,300",SEK,"Modern Cuisine, Swedish",1
+Agrikultur,Stockholm,825,SEK,Modern Cuisine,1
+Sushi Sho,Stockholm,"1,495",SEK,Japanese,1
+Ekstedt,Stockholm,"1,800",SEK,Modern Cuisine,1
+Operakällaren,Stockholm,"1,900",SEK,"Classic Cuisine, French",1
+Aira,Stockholm,"2,750",SEK,"Modern Cuisine, Swedish",1
+Etoile,Stockholm,"1,900",SEK,"Creative, International",1
+bhoga,Gothenburg,900,SEK,Creative,1
+28+,Gothenburg,"1,195",SEK,Modern Cuisine,1
+Project,Gothenburg,895,SEK,Modern Cuisine,1
+Koka,Gothenburg,995,SEK,Modern Cuisine,1
+SK Mat & Människor,Gothenburg,825,SEK,Modern Cuisine,1
+Under,Lindesnes,"2,450",NOK,Creative,1
+Sabi Omakase,Stavanger,"1,950",NOK,Sushi,1
+FAGN,Trondheim,"3,200",NOK,"Modern Cuisine, Creative",1
+Speilsalen,Trondheim,"2,250",NOK,Contemporary,1
+Credo,Trondheim,"1,800",NOK,"Creative, Scandinavian",1
+Bare,Bergen,"1,850",NOK,Innovative,1
+Kontrast,Oslo,"1,950",NOK,Scandinavian,1
+Omakase by Vladimir Pak,Oslo,"1,850",NOK,Sushi,1
+Statholdergaarden,Oslo,"1,995",NOK,Classic Cuisine,1
+DILL,Reykjavík,"15,900",ISK,Creative,1
+Inari,Helsinki,150,EUR,Creative,1
+Olo,Helsinki,159,EUR,Modern Cuisine,1
+Palace,Helsinki,200,EUR,Modern Cuisine,1
+Grön,Helsinki,124,EUR,Modern Cuisine,1
+Ora,Helsinki,94,EUR,Modern Cuisine,1
+Demo,Helsinki,105,EUR,Modern Cuisine,1
+Finnjävel Salonki,Helsinki,104,EUR,"Finnish, Modern Cuisine",1
+Ti Trin Ned,Fredericia,"1,200",DKK,Modern Cuisine,1
+Dragsholm Slot Gourmet,Hørve,"1,600",DKK,Creative,1
+Me|Mu,Vejle,"3,300",DKK,Modern Cuisine,1
+LYST,Vejle,"2,300",DKK,Creative,1
+Frederiksminde,Præstø,"1,500",DKK,Creative,1
+Syttende,Sønderborg,"1,795",DKK,"Modern Cuisine, Danish",1
+Gastromé,Aarhus,"1,800",DKK,Modern Cuisine,1
+Frederikshøj,Aarhus,"2,000",DKK,Creative,1
+Domestic,Aarhus,"1,500",DKK,Modern Cuisine,1
+Substans,Aarhus,"1,500",DKK,Creative,1
+Søllerød Kro,Copenhagen,"1,795",DKK,Modern Cuisine,1
+formel B,Copenhagen,995,DKK,Modern Cuisine,1
+Alouette,Copenhagen,995,DKK,Modern Cuisine,1
+Marchal,Copenhagen,"3,145",DKK,"Modern Cuisine, French Contemporary",1
+Kokkeriet,Copenhagen,"1,200",DKK,Modern Cuisine,1
+Kiin Kiin,Copenhagen,"1,350",DKK,"Thai, Contemporary",1
+The Samuel,Copenhagen,"1,800",DKK,"Creative, Modern Cuisine",1
+Boškinac,Novalja,890,HRK,Creative,1
+Draga di Lovrana,Lovran,590,HRK,Modern Cuisine,1
+Nebo,Rijeka,"1,250",HRK,"Modern Cuisine, Creative",1
+Monte,Rovinj,"1,044",HRK,Creative,1
+Pelegrini,Sibenik,955,HRK,Modern Cuisine,1
+Noel,Zagreb,950,HRK,Modern Cuisine,1
+Agli Amici Rovinj,Rovinj,"1,050",HRK,"Italian Contemporary, Modern Cuisine",1
+Alfred Keller,Mali Lošinj,780,HRK,"Modern Cuisine, Creative",1
+LD Restaurant,Korcula,970,HRK,"Mediterranean Cuisine, Modern Cuisine",1
+Restaurant 360,Dubrovnik,980,HRK,Modern Cuisine,1
+Stand,Budapest,"34,500",HUF,Modern Cuisine,1
+essência,Budapest,"41,900",HUF,"Hungarian, Portuguese",1
+Borkonyha Winekitchen,Budapest,"23,000",HUF,Modern Cuisine,1
+Babel,Budapest,"29,900",HUF,Modern Cuisine,1
+Salt,Budapest,"29,500",HUF,Hungarian,1
+Costes,Budapest,"41,500",HUF,Modern Cuisine,1
+Costes Downtown,Budapest,"31,500",HUF,Modern Cuisine,1
+Braci,Singapore,228,SGD,Italian Contemporary,1
+Burnt Ends,Singapore,250,SGD,Barbecue,1
+Summer Palace,Singapore,250,SGD,Cantonese,1
+Sommer,Singapore,228,SGD,European Contemporary,1
+Cure,Singapore,228,SGD,European Contemporary,1
+Iggy's,Singapore,285,SGD,European Contemporary,1
+Cut,Singapore,350,SGD,Steakhouse,1
+Sushi Kimura,Singapore,400,SGD,Sushi,1
+Cloudstreet,Singapore,318,SGD,Innovative,1
+Hill Street Tai Hwa Pork Noodle,Singapore,10,SGD,Street Food,1
+Lerouy,Singapore,178,SGD,French Contemporary,1
+Whitegrass,Singapore,268,SGD,French Contemporary,1
+Putien (Kitchener Road),Singapore,100,SGD,Fujian,1
+Alma,Singapore,258,SGD,European Contemporary,1
+Chef Kang's,Singapore,120,SGD,Cantonese,1
+Oshino,Singapore,500,SGD,Sushi,1
+Esora,Singapore,338,SGD,Innovative,1
+Buona Terra,Singapore,178,SGD,Italian Contemporary,1
+28 Wilkie,Singapore,228,SGD,Innovative,1
+Labyrinth,Singapore,218,SGD,"Innovative, Singaporean",1
+Lei Garden,Singapore,188,SGD,Cantonese,1
+Shang Palace,Singapore,328,SGD,Cantonese,1
+Meta,Singapore,288,SGD,Innovative,1
+Ma Cuisine,Singapore,388,SGD,French,1
+Art,Singapore,208,SGD,Italian,1
+Imperial Treasure Fine Teochew Cuisine (Orchard),Singapore,128,SGD,Teochew,1
+Garibaldi,Singapore,218,SGD,Italian,1
+Béni,Singapore,268,SGD,French Contemporary,1
+Shinji (Tanglin Road),Singapore,550,SGD,Sushi,1
+Basque Kitchen by Aitor,Singapore,248,SGD,Basque,1
+Table65,Singapore,178,SGD,Creative,1
+Thevar,Singapore,198,SGD,Innovative,1
+Jag,Singapore,298,SGD,French Contemporary,1
+Rhubarb,Singapore,168,SGD,French Contemporary,1
+Nouri,Singapore,220,SGD,Innovative,1
+Corner House,Singapore,248,SGD,Innovative,1
+Candlenut,Singapore,98,SGD,Peranakan,1
+Sushi Ichi,Singapore,430,SGD,Sushi,1
+Shinji (Bras Basah Road),Singapore,650,SGD,Sushi,1
+Summer Pavilion,Singapore,200,SGD,Cantonese,1
+Terra,Singapore,408,SGD,Italian Contemporary,1
+Molino de Urdániz,Taipei,"3,980",TWD,Spanish Contemporary,1
+T+T,Taipei,"2,600",TWD,Innovative,1
+A Cut,Taipei,"7,600",TWD,Steakhouse,1
+Tien Hsiang Lo,Taipei,"8,800",TWD,Hang Zhou,1
+Danny's Steakhouse,Taipei,"6,000",TWD,Steakhouse,1
+Longtail,Taipei,"2,980",TWD,Innovative,1
+Sushi Akira,Taipei,"5,500",TWD,Sushi,1
+Impromptu by Paul Lee,Taipei,"3,200",TWD,Innovative,1
+Sushi Nomura,Taipei,"10,000",TWD,Sushi,1
+Forchetta,Taichung,"3,800",TWD,European Contemporary,1
+Sur-,Taichung,"2,500",TWD,European Contemporary,1
+Mudan,Taipei,"6,500",TWD,Tempura,1
+Fujin Tree Taiwanese Cuisine & Champagne (Songshan),Taipei,"2,000",TWD,Taiwanese,1
+Oretachi No Nikuya,Taichung,"4,000",TWD,Barbecue,1
+Ken Anhe,Taipei,"7,200",TWD,Japanese,1
+Fleur de Sel,Taichung,"5,880",TWD,French Contemporary,1
+De Nuit,Taipei,"4,200",TWD,French Contemporary,1
+Golden Formosa,Taipei,"2,500",TWD,Taiwanese,1
+Sushi Ryu,Taipei,"7,000",TWD,Sushi,1
+Ming Fu,Taipei,"2,000",TWD,Taiwanese,1
+Mountain and Sea House,Taipei,"5,000",TWD,Taiwanese,1
+Mipon,Taipei,"3,800",TWD,Taiwanese,1
+Da-Wan,Taipei,"5,000",TWD,Barbecue,1
+Ya Ge,Taipei,"8,800",TWD,Cantonese,1
+Kitcho,Taipei,"7,000",TWD,Sushi,1
+The Four Horsemen,New York,85,USD,"American, Californian",1
+Hirohisa,New York,160,USD,"Japanese, Classic Cuisine",1
+Estela,New York,100,USD,"Contemporary, American",1
+Tuome,New York,75,USD,Fusion,1
+Sushi Amane,New York,250,USD,"Japanese, Sushi",1
+Claro,New York,50,USD,Mexican,1
+Tsukimi,New York,195,USD,"Japanese, Seasonal Cuisine",1
+Vestry,New York,103,USD,"Contemporary, Modern Cuisine",1
+Peter Luger,New York,150,USD,"Steakhouse, American",1
+Wallsé,New York,150,USD,"Austrian, Contemporary",1
+Francie,New York,90,USD,"Contemporary, Italian",1
+Casa Mono,New York,75,USD,"Spanish, Contemporary",1
+Le Jardinier,New York,115,USD,"French, Contemporary",1
+Sushi Ginza Onodera,New York,445,USD,"Japanese, Sushi",1
+Noda,New York,315,USD,"Japanese, Sushi",1
+Kochi,New York,75,USD,"Korean, Contemporary",1
+Crown Shy,New York,90,USD,"Contemporary, American",1
+Sushi Noz,New York,325,USD,"Japanese, Sushi",1
+Blue Hill,New York,108,USD,American,1
+Kajitsu,New York,120,USD,"Japanese, Vegan",1
+The Musket Room,New York,98,USD,"Contemporary, American Contemporary",1
+ZZ’s Clam Bar,New York,150,USD,Seafood,1
+Oxalis,New York,105,USD,"Contemporary, American Contemporary",1
+Oxomoco,New York,75,USD,"Mexican, Contemporary",1
+Jua,New York,130,USD,"Korean, Korean Contemporary",1
+Meadowsweet,New York,75,USD,"Mediterranean Cuisine, American Contemporary",1
+The River Café,New York,175,USD,Contemporary,1
+Marea,New York,150,USD,"Seafood, Italian",1
+odo,New York,200,USD,"Japanese, Sushi",1
+Le Coucou,New York,185,USD,"French, Classic French",1
+Kanoyama,New York,75,USD,"Japanese, Sushi",1
+Cote,New York,180,USD,"Korean, Steakhouse",1
+Ai Fiori,New York,150,USD,Italian,1
+Rezdôra,New York,90,USD,"Italian, Emilian",1
+Bâtard,New York,94,USD,Contemporary,1
+Caviar Russe,New York,150,USD,"Contemporary, Seafood",1
+Contra,New York,89,USD,Contemporary,1
+L’Appart,New York,185,USD,"French, Contemporary",1
+Sushi Yasuda,New York,400,USD,"Japanese, Sushi",1
+Tempura Matsui,New York,230,USD,"Japanese, Tempura",1
+Gramercy Tavern,New York,189,USD,"Contemporary, American",1
+Casa Enrique,New York,60,USD,"Mexican, Regional Cuisine",1
+Sushi Nakazawa,New York,150,USD,"Japanese, Sushi",1
+Jeju Noodle Bar,New York,50,USD,Korean,1
+Don Angie,New York,75,USD,"Italian, American",1
+The Clocktower,New York,100,USD,"Contemporary, English",1
+Kosaka,New York,155,USD,"Japanese, Sushi",1
+Carbone,New York,150,USD,"Italian, Italian-American",1
+Next,Chicago,255,USD,"Contemporary, Innovative",1
+Porto,Chicago,175,USD,"Portuguese, Seafood",1
+Boka,Chicago,165,USD,"Contemporary, American",1
+Parachute,Chicago,75,USD,"Korean, Contemporary",1
+Omakase Yume,Chicago,150,USD,"Japanese, Sushi",1
+Elizabeth,Chicago,150,USD,"Contemporary, American",1
+Goosefoot,Chicago,165,USD,"Contemporary, French Contemporary",1
+Elske,Chicago,115,USD,"Contemporary, American Contemporary",1
+Topolobampo,Chicago,140,USD,"Mexican, Regional Cuisine",1
+Mako,Chicago,175,USD,"Japanese, Sushi",1
+Sepia,Chicago,85,USD,"American, American Contemporary",1
+EL Ideas,Chicago,150,USD,"Contemporary, Creative",1
+Schwa,Chicago,160,USD,"Contemporary, Innovative",1
+North Pond,Chicago,95,USD,"Contemporary, American",1
+Temporis,Chicago,175,USD,"Contemporary, Modern Cuisine",1
+Métier,Washington,255,USD,"Contemporary, Modern French",1
+Sushi Taro,Washington,300,USD,"Japanese, Seasonal Cuisine",1
+Sushi Nakazawa,Washington,150,USD,"Japanese, Sushi",1
+The Dabney,Washington,50,USD,American,1
+Tail Up Goat,Washington,50,USD,Contemporary,1
+Fiola,Washington,225,USD,"Italian, Contemporary",1
+Little Pearl,Washington,85,USD,Contemporary,1
+Plume,Washington,120,USD,"European, French",1
+Komi,Washington,165,USD,Mediterranean Cuisine,1
+Masseria,Washington,350,USD,"Italian, Regional Cuisine",1
+Maydān,Washington,75,USD,"Middle Eastern, Grills",1
+Rooster & Owl,Washington,65,USD,"Contemporary, Fusion",1
+Elcielo D.C.,Washington,228,USD,"Colombian, Contemporary",1
+Bresca,Washington,130,USD,"Contemporary, American",1
+Cranes,Washington,100,USD,"Spanish, Contemporary",1
+Rose’s Luxury,Washington,85,USD,Contemporary,1
+Xiquet,Washington,130,USD,Spanish,1
+Gravitas,Washington,150,USD,"Contemporary, American",1
+Kinship,Washington,145,USD,"Contemporary, French Contemporary",1
+Herberg Onder de Linden,Aduard,120,EUR,Asian Influences,1
+Zarzo,Eindhoven,150,EUR,Creative,1
+Katseveer,Wilhelminadorp,111,EUR,Modern Cuisine,1
+Valuas,Venlo,90,EUR,Modern French,1
+RIJKS®,Amsterdam,120,EUR,"Creative, Modern French",1
+The Millèn,Rotterdam,105,EUR,Modern Cuisine,1
+Brienen aan de Maas,Well,128,EUR,Regional Cuisine,1
+Olivijn,Haarlem,130,EUR,Creative,1
+MOS,Amsterdam,105,EUR,Creative French,1
+Posthoorn,Monnickendam,105,EUR,Modern Cuisine,1
+'t Raedthuys,Duiven,120,EUR,Modern French,1
+De Gieser Wildeman,Noordeloos,122,EUR,Creative,1
+Basiliek,Harderwijk,125,EUR,Modern Cuisine,1
+ONE,Roermond,130,EUR,Creative,1
+Wollerich,Sint-Oedenrode,100,EUR,Creative French,1
+Kaatje bij de Sluis,Blokzijl,105,EUR,"Organic, Creative French",1
+Beluga Loves You,Maastricht,180,EUR,Creative,1
+Daalder,Amsterdam,135,EUR,Creative,1
+The White Room by Jacob Jan Boerma,Amsterdam,129,EUR,Modern Cuisine,1
+Le Restaurant,Amsterdam,110,EUR,Market Cuisine,1
+Wolfslaar,Breda,110,EUR,Creative,1
+Amarone,Rotterdam,150,EUR,Modern French,1
+De Moerbei,Warmond,100,EUR,"Market Cuisine, Modern French",1
+De Nieuwe Winkel,Nijmegen,95,EUR,"Organic, Vegetarian",1
+Derozario,Helmond,161,EUR,"Creative, Asian Contemporary",1
+Pieters Restaurant,Bergambacht,110,EUR,Modern French,1
+De Swarte Ruijter,Holten,130,EUR,"Modern Cuisine, Modern French",1
+De Kromme Dissel,Heelsum,152,EUR,"Creative, Modern French",1
+Lastage,Amsterdam,99,EUR,Creative,1
+ML,Haarlem,98,EUR,Creative,1
+De Heeren van Harinxma,Beetsterzwaag,93,EUR,"Creative, Modern Cuisine",1
+Vinkeles,Amsterdam,195,EUR,Creative,1
+Het Roode Koper,Leuvenum,100,EUR,Modern Cuisine,1
+Graphite by Peter Gast,Amsterdam,150,EUR,Creative,1
+Voltaire,Leersum,120,EUR,Creative,1
+Mijn Keuken,Wouw,140,EUR,Modern French,1
+Sinne,Amsterdam,98,EUR,Modern Cuisine,1
+The Duchess,Amsterdam,150,EUR,"Mediterranean Cuisine, French",1
+Perceel,Capelle aan den IJssel,135,EUR,Creative,1
+Merlet,Schoorl,139,EUR,Modern Cuisine,1
+Monarh,Tilburg,127,EUR,Creative,1
+Het Koetshuis,Bennekom,125,EUR,Modern Cuisine,1
+Calla's,The Hague,130,EUR,Creative French,1
+De Nederlanden,Vreeland,150,EUR,Modern Cuisine,1
+Spetters,Breskens,130,EUR,"Market Cuisine, Modern Cuisine",1
+Da Vinci,Maasbracht,117,EUR,Creative French,1
+Kasteel Heemstede,Houten,135,EUR,Modern Cuisine,1
+'t Lansink,Hengelo,119,EUR,"Modern Cuisine, Modern French",1
+Ratatouille Food & Wine,Haarlem,250,EUR,Modern Cuisine,1
+Rantrée,Maastricht,115,EUR,Modern French,1
+Vista,Willemstad,150,EUR,Modern French,1
+De Burgemeester,Linschoten,135,EUR,Modern Cuisine,1
+De Vlindertuin,Zuidlaren,100,EUR,Modern French,1
+Fitzgerald,Rotterdam,190,EUR,Modern French,1
+Bougainville,Amsterdam,224,EUR,Modern Cuisine,1
+'t Vlasbloemeken,Koewacht,121,EUR,Modern Cuisine,1
+'t Amsterdammertje,Loenen aan de Vecht,115,EUR,Creative,1
+FG Food Labs,Rotterdam,129,EUR,"Creative, International",1
+Wiesen,Eindhoven,99,EUR,French,1
+La Provence,Driebergen-Rijsenburg,105,EUR,Creative French,1
+Cheval Blanc,Heemstede,125,EUR,Modern Cuisine,1
+De Bloemenbeek,De Lutte,125,EUR,Modern French,1
+Rijnzicht,Doornenburg,120,EUR,Modern Cuisine,1
+Zout & Citroen,Oosterhout,99,EUR,Creative,1
+De Leuf,Ubachsberg,145,EUR,Creative,1
+RON Gastrobar,Amsterdam,190,EUR,Creative French,1
+Tout à Fait,Maastricht,145,EUR,Modern French,1
+Apicius,Castricum,85,EUR,Modern Cuisine,1
+AIRrepublic,Cadzand,135,EUR,"Seafood, Modern Cuisine",1
+Tilia,Etten-Leur,88,EUR,Modern Cuisine,1
+Meliefste,Wolphaartsdijk,140,EUR,Creative,1
+Soigné,Bussum,88,EUR,"Market Cuisine, Modern Cuisine",1
+Tante Koosje,Loenen aan de Vecht,125,EUR,Modern French,1
+Vermeer,Amsterdam,100,EUR,Creative,1
+Eden,Valkenswaard,105,EUR,"Modern Cuisine, Modern French",1
+Versaen,Ravenstein,90,EUR,Creative,1
+Noble Kitchen,Cromvoirt,90,EUR,"Modern Cuisine, Sushi",1
+Bolenius,Amsterdam,140,EUR,Creative,1
+Wils,Amsterdam,90,EUR,World Cuisine,1
+OONIVOO,Uden,100,EUR,Modern French,1
+O&O,Sint Willebrord,185,EUR,"Asian, Asian Influences",1
+Joelia,Rotterdam,175,EUR,Modern French,1
+Yamazato,Amsterdam,195,EUR,Japanese,1
+Zeezout,Rotterdam,79,EUR,"Seafood, French",1
+Marrees,Weert,140,EUR,Modern Cuisine,1
+Bij Jef,Den Hoorn,155,EUR,Classic Cuisine,1
+Latour,Noordwijk aan Zee,113,EUR,Modern Cuisine,1
+Aan de Zweth,Schipluiden,125,EUR,Modern French,1
+Flicka,Kerkdriel,115,EUR,Modern Cuisine,1
+Kilian Stuba,Hirschegg,140,EUR,Creative,1
+Torkel,Vaduz,138,CHF,"Modern Cuisine, Market Cuisine",1
+Locanda Barbarossa,Ascona,210,CHF,Mediterranean Cuisine,1
+La Miranda Gourmet Stübli,Samnaun,155,CHF,Modern Cuisine,1
+PRISMA AT FOCUS,Vitznau,175,CHF,Modern Cuisine,1
+Les Saisons,Vevey,175,CHF,Classic French,1
+Le Murenberg,Bubendorf,125,CHF,"Classic Cuisine, Modern Cuisine",1
+Seerestaurant Belvédère,Hergiswil,189,CHF,"Modern Cuisine, International",1
+Damien Germanier,Sion,220,CHF,Creative,1
+Tsé Fung,Bellevue,188,CHF,Chinese,1
+Sommet,Gstaad,204,CHF,Modern Cuisine,1
+Alpenblick,Wilderswil,195,CHF,"Creative, Country cooking",1
+Auberge de la Croix Blanche,Villarepos,135,CHF,Modern Cuisine,1
+Talvo by Dalsass,Saint Moritz,215,CHF,Mediterranean Cuisine,1
+Les Ateliers,Vevey,178,CHF,"Classic French, French",1
+Bayview by Michel Roth,Geneva,263,CHF,"Modern French, Mediterranean Cuisine",1
+Alpenblick - Stuba,Adelboden,135,CHF,"Modern Cuisine, Fusion",1
+Galleria Arté al Lago,Lugano,135,CHF,Modern Cuisine,1
+Le Berceau des Sens,Lausanne,125,CHF,"Modern French, Classic Cuisine",1
+Sihlhalde,Gattikon,156,CHF,Classic Cuisine,1
+Locanda Orico,Bellinzona,135,CHF,Mediterranean Cuisine,1
+Attisholz - le feu,Riedholz,145,CHF,French,1
+La Brezza,Ascona,180,CHF,Mediterranean Cuisine,1
+Rössli - Jägerstübli,Escholzmatt,195,CHF,Creative,1
+Wirtshaus Zur Säge,Flüh,120,CHF,"Classic French, Market Cuisine",1
+Café Berra,Monthey,190,CHF,Classic French,1
+roots,Basel,189,CHF,Modern Cuisine,1
+Die Rose,Rüschlikon,190,CHF,Modern French,1
+Regina Montium,Rigi Kaltbad,165,CHF,"Creative, Swiss",1
+L'Aparté,Geneva,138,CHF,Modern French,1
+Neue Blumenau,Lömmenschwil,175,CHF,"Country cooking, Classic Cuisine",1
+the K by mauro colagreco,Saint Moritz,450,CHF,French,1
+Le Chat-Botté,Geneva,220,CHF,"Modern French, Classic Cuisine",1
+Truube,Gais,145,CHF,"Country cooking, International",1
+Principe Leopoldo,Lugano,144,CHF,"Mediterranean Cuisine, Classic Cuisine",1
+Jägerhof,Sankt Gallen,170,CHF,"Modern Cuisine, International",1
+Traube,Trimbach,180,CHF,Classic French,1
+La Rôtisserie,Zurich,160,CHF,"Modern Cuisine, International",1
+L'Etoile - Nova,Charmey,189,CHF,Modern French,1
+1904 Designed by Lagonda,Zurich,250,CHF,"Modern Cuisine, Creative",1
+Panorama - Cayenne,Steffisburg,133,CHF,Modern French,1
+La Riva,Lenzerheide,210,CHF,"Modern French, Classic Cuisine",1
+Tosca,Geneva,200,CHF,Tuscan,1
+Table de Mary,Cheseaux-Noréaz,135,CHF,Classic French,1
+Sternen - Badstube,Wangen bei Dübendorf,142,CHF,Classic Cuisine,1
+La Table du Lausanne Palace,Lausanne,198,CHF,Modern French,1
+L'OURS,Crans Montana,205,CHF,Modern Cuisine,1
+Du Cerf,Sonceboz,185,CHF,Classic French,1
+EquiTable,Zurich,180,CHF,Modern Cuisine,1
+Le Flacon,Carouge,125,CHF,Modern Cuisine,1
+Mammertsberg,Freidorf,180,CHF,Classic French,1
+Le Pérolles,Fribourg,188,CHF,"Classic French, Contemporary",1
+Neue Taverne,Zurich,130,CHF,"Vegetarian, Modern Cuisine",1
+Steinhalle,Berne,147,CHF,Creative,1
+Osteria TRE,Bubendorf,176,CHF,"Italian, Modern Cuisine",1
+Le 42,Champéry,140,CHF,Modern French,1
+La Table d'Adrien,Verbier,205,CHF,"Contemporary, Mediterranean Cuisine",1
+Gasthaus Zum Gupf,Rehetobel,164,CHF,"Classic French, Traditional Cuisine",1
+Chesa Stüva Colani,Madulain,180,CHF,"Italian, Innovative",1
+Sonne,Wengi bei Büren,174,CHF,"French, International",1
+Schlüssel,Oberwil,160,CHF,"Mediterranean Cuisine, Classic Cuisine",1
+Verve by Sven,Bad Ragaz,140,CHF,"Modern Cuisine, Market Cuisine",1
+La Chaumière by Serge Labrosse,Troinex,165,CHF,Modern French,1
+After Seven,Zermatt,199,CHF,Creative,1
+Le Café Suisse,Bex,170,CHF,Modern Cuisine,1
+Le Cigalon,Thônex,165,CHF,Seafood,1
+Vivanda,Brail,250,CHF,"Creative, Alpine",1
+Ornellaia,Zurich,190,CHF,Italian,1
+Zum Äusseren Stand,Berne,145,CHF,"Contemporary, International",1
+The Japanese Restaurant,Andermatt,220,CHF,"Japanese Contemporary, Fusion",1
+The Japanese by The Chedi,Andermatt,140,CHF,"Japanese Contemporary, Fusion",1
+Zur Gedult,Burgdorf,140,CHF,International,1
+Guarda Val,Lenzerheide,185,CHF,"Regional Cuisine, Modern Cuisine",1
+Il Lago,Geneva,169,CHF,"Italian, Mediterranean Cuisine",1
+Maison Manesse,Zurich,160,CHF,Creative,1
+Löwen - Apriori,Bubikon,198,CHF,"Mediterranean Cuisine, Seasonal Cuisine",1
+I Due Sud,Lugano,198,CHF,Mediterranean Cuisine,1
+Alpine Gourmet Prato Borni,Zermatt,170,CHF,"Creative, Country cooking",1
+IGNIV Zürich by Andreas Caminada,Zurich,248,CHF,"Sharing, Modern Cuisine",1
+dasRestaurant,Thun,145,CHF,"Modern Cuisine, International",1
+Sushi Shin,Zurich,299,CHF,Japanese Contemporary,1
+META,Lugano,122,CHF,"Mediterranean Cuisine, Italian",1
+UniQuisine Atelier,Stansstad,180,CHF,"Modern Cuisine, Classic Cuisine",1
+Denis Martin,Vevey,360,CHF,Creative,1
+L'Ermitage,Vufflens-le-Château,285,CHF,Classic Cuisine,1
+Gasthaus zum Kreuz,Dallenwil,148,CHF,"Classic Cuisine, Traditional Cuisine",1
+Segreto,Wittenbach,150,CHF,"Creative, Mediterranean Cuisine",1
+Le MontBlanc,Crans-Montana,189,CHF,Modern French,1
+GÜTSCH by Markus Neff,Andermatt,165,CHF,"Classic French, Market Cuisine",1
+Schlüssel - Nidbergstube,Mels,190,CHF,"Classic Cuisine, Modern Cuisine",1
+Bel Etage,Basel,175,CHF,"Classic French, International",1
+La Table d'Antonio Salvatore au Rampoldi,Monaco,220,EUR,"Italian, Creative",1
+Yannick Alléno à l’Hôtel Hermitage Monte-Carlo,Monaco,235,EUR,"Modern Cuisine, Creative",1
+Le Blue Bay,Monaco,180,EUR,Creative,1
+Yoshi,Monaco,240,EUR,Japanese,1
+Le Grill,Monaco,210,EUR,Classic Cuisine,1
+Le Georges,Chartres,124,EUR,Modern Cuisine,1
+Pages,Paris,220,EUR,Creative,1
+L'Arcane,Paris,165,EUR,Modern Cuisine,1
+Hostellerie de Levernois,Levernois,149,EUR,Modern Cuisine,1
+Trente-Trois,Paris,118,EUR,Modern Cuisine,1
+L'Auberge de Bagatelle,Le Mans,105,EUR,Modern Cuisine,1
+Mavrommatis,Paris,135,EUR,Greek,1
+Reflet d'Obione,Montpellier,95,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Côté Jardin,Gien,90,EUR,"Creative, Modern Cuisine",1
+L'Ardoise du Marché,Boulleret,75,EUR,"Modern Cuisine, Creative",1
+Le Duèze - Château de Mercuès,Mercuès,185,EUR,Modern Cuisine,1
+Cyril Attrazic,Aumont-Aubrac,120,EUR,Modern Cuisine,1
+Le Saint-Estève,Le Tholonet,185,EUR,Modern Cuisine,1
+Abri,Paris,70,EUR,Modern Cuisine,1
+Le Cénacle,Toulouse,115,EUR,Modern Cuisine,1
+Le Vieux Logis,Trémolat,140,EUR,Modern Cuisine,1
+L'Amaryllis,Saint-Rémy,130,EUR,Creative,1
+Yoshinori,Paris,150,EUR,Modern Cuisine,1
+À Contre Sens,Caen,72,EUR,Modern Cuisine,1
+Intuition,Saint-Lô,84,EUR,Modern Cuisine,1
+Le Restaurant du Cerisier,Lille,110,EUR,Modern Cuisine,1
+The Marcel,Sète,102,EUR,"Mediterranean Cuisine, Modern Cuisine",1
+Têtedoie,Lyon,140,EUR,Creative,1
+Au Vieux Couvent,Rhinau,144,EUR,Creative,1
+Holen,Rennes,105,EUR,Market Cuisine,1
+Dan B. - La Table de Ventabren,Ventabren,135,EUR,Modern Cuisine,1
+La Chaumière,Dole,120,EUR,Creative,1
+La Mirande,Avignon,190,EUR,Modern Cuisine,1
+Restaurant De Lauzun,Pézenas,115,EUR,Modern Cuisine,1
+L'Épuisette,Marseille,155,EUR,Seafood,1
+Jacques Faussat,Paris,114,EUR,Traditional Cuisine,1
+Auberge de la Tour,Marcolès,109,EUR,Modern Cuisine,1
+Shabour,Paris,96,EUR,Creative,1
+NESO,Paris,180,EUR,Creative,1
+Le Chantecler,Nice,190,EUR,Modern Cuisine,1
+Le Quincangrogne,Dampmart,95,EUR,Modern Cuisine,1
+Château de la Treyne,Lacave,170,EUR,Classic Cuisine,1
+Auberge St-Jean,Saint-Jean-de-Blaignac,88,EUR,Creative,1
+Umami,Strasbourg,75,EUR,Creative,1
+G.a. au Manoir de Rétival,Caudebec-en-Caux,250,EUR,"Modern Cuisine, Creative",1
+Brikéténia,Guéthary,108,EUR,Modern Cuisine,1
+Jean-Claude Leclerc,Clermont-Ferrand,120,EUR,Modern Cuisine,1
+Villa Salone,Salon-de-Provence,98,EUR,Modern Cuisine,1
+La Meynardie,Salignac-Eyvigues,93,EUR,Modern Cuisine,1
+Aigue Marine,Tréguier,120,EUR,Creative,1
+Le Bec au Cauchois,Valmont,104,EUR,Creative,1
+L'Éveil des Sens,Mayenne,82,EUR,Modern Cuisine,1
+La Table de Chaintré,Chaintré,69,EUR,Modern Cuisine,1
+L'Innocence,Paris,95,EUR,"Modern Cuisine, Creative",1
+Äponem - Auberge du Presbytère,Vailhan,125,EUR,Modern Cuisine,1
+Auberge du Cellier,Montner,85,EUR,Modern Cuisine,1
+L'Escarbille,Meudon,83,EUR,Modern Cuisine,1
+L'Atelier Yssoirien,Issoire,110,EUR,Modern Cuisine,1
+La Table des Frères Ibarboure,Bidart,130,EUR,Modern Cuisine,1
+Tomy & Co,Paris,85,EUR,"Modern Cuisine, Creative",1
+Tour d'Argent,Paris,380,EUR,Modern Cuisine,1
+Jean-Marc Pérochon,Bretignolles-sur-Mer,116,EUR,Modern Cuisine,1
+Restaurant H,Paris,95,EUR,Creative,1
+Le Mas Bottero,Saint-Cannat,90,EUR,Modern Cuisine,1
+L'Oiseau Bleu,Bordeaux,110,EUR,Modern Cuisine,1
+Kasbür,Monswiller,115,EUR,Modern Cuisine,1
+Pastis,Montpellier,57,EUR,Modern Cuisine,1
+Pierre,Mâcon,108,EUR,Classic Cuisine,1
+Aida,Paris,280,EUR,Japanese,1
+L'Aspérule,Dijon,120,EUR,Modern Cuisine,1
+Le Patio,Arcachon,130,EUR,Modern Cuisine,1
+Entre Vigne et Garrigue,Pujaut,135,EUR,Modern Cuisine,1
+Le Panoramique - Domaine de la Corniche,Rolleboise,98,EUR,Modern Cuisine,1
+U Santa Marina,Porto-Vecchio,165,EUR,Modern Cuisine,1
+Quinsou,Paris,122,EUR,Creative,1
+L'Orchidée,Altkirch,95,EUR,"Thai, Asian Contemporary",1
+L'Arbre au Soleil,Le Lavandou,109,EUR,Modern Cuisine,1
+L'Aromate,Nice,120,EUR,Modern Cuisine,1
+L'Auberge de Montmin,Talloires-Montmin,110,EUR,Traditional Cuisine,1
+Le Moulin de l'Abbaye,Brantôme,120,EUR,Modern Cuisine,1
+Les Plaisirs Gourmands,Schiltigheim,92,EUR,Modern Cuisine,1
+L'Impertinent,Biarritz,112,EUR,Creative,1
+Domaine d'Auriac,Carcassonne,140,EUR,Classic Cuisine,1
+Le Violon d'Ingres,Paris,140,EUR,"Traditional Cuisine, Classic Cuisine",1
+La Chapelle - Château Saint-Jean,Montluçon,195,EUR,Modern Cuisine,1
+Thierry Schwartz - Le Restaurant,Obernai,155,EUR,Creative,1
+Stéphane Tournié,Toulouse,110,EUR,Modern Cuisine,1
+Le Pavillon des Boulevards,Bordeaux,140,EUR,Creative,1
+Les Trois Dômes,Lyon,170,EUR,Modern Cuisine,1
+Castel Marie-Louise,La Baule,125,EUR,Modern Cuisine,1
+L'Atelier du Peintre,Colmar,110,EUR,"Creative, Modern Cuisine",1
+La Grange de Belle-Église,Belle-Église,167,EUR,Classic Cuisine,1
+La Marande,Montbellet,105,EUR,Modern Cuisine,1
+L'Or Q'idée,Pontoise,83,EUR,Modern Cuisine,1
+L'Essentiel,Périgueux,130,EUR,Modern Cuisine,1
+Apicius,Paris,330,EUR,Modern Cuisine,1
+Côté Cuisine,Carnac,70,EUR,Modern Cuisine,1
+La Table du Boisniard,Chambretaud,90,EUR,Creative,1
+L'Écrin,Paris,735,EUR,Creative,1
+Alain Llorca,La Colle-sur-Loup,185,EUR,Provençal,1
+La Table de l'Ours,Val-d'Isère,165,EUR,Modern Cuisine,1
+Saisons,Marseille,95,EUR,Modern Cuisine,1
+La Bastide de Moustiers,Moustiers-Sainte-Marie,98,EUR,Provençal,1
+La Vieille Fontaine,Avignon,180,EUR,Modern Cuisine,1
+Baieta,Paris,105,EUR,Mediterranean Cuisine,1
+Hostellerie Les Gorges de Pennafort,Callas,170,EUR,Traditional Cuisine,1
+Le Prieuré,Villeneuve-lès-Avignon,117,EUR,Modern Cuisine,1
+L'Amphitryon,Lorient,180,EUR,Creative,1
+L'Opidom,Fondettes,79,EUR,"Creative, Modern Cuisine",1
+Le Bon Accueil,Malbuisson,97,EUR,Modern Cuisine,1
+Le Faham by Kelly Rangama,Paris,97,EUR,Modern Cuisine,1
+La Gouesnière - Maison Tirel-Guérin,La Gouesnière,125,EUR,Modern Cuisine,1
+Les Sources de Fontbelle,Angoulême,92,EUR,Creative,1
+Pertinence,Paris,190,EUR,Modern Cuisine,1
+Hedone,Toulouse,110,EUR,Creative,1
+La Robe,Montaigu,80,EUR,Modern Cuisine,1
+Château de Mazan,Mazan,95,EUR,Modern Cuisine,1
+Leclere,Montpellier,60,EUR,Modern Cuisine,1
+Les Voiles d'Or,Dieppe,85,EUR,"Modern Cuisine, Seafood",1
+L'Étang du Moulin,Bonnétage,150,EUR,Modern Cuisine,1
+Louis,Paris,110,EUR,Modern Cuisine,1
+Chez Michèle,Languimberg,150,EUR,Modern Cuisine,1
+Restaurant de Tourrel,Saint-Rémy-de-Provence,150,EUR,Modern Cuisine,1
+La Renaissance,Argentan,105,EUR,Modern Cuisine,1
+La Sommelière,Lyon,82,EUR,Modern Cuisine,1
+Les Trois Rochers,Combrit,115,EUR,Modern Cuisine,1
+Hostellerie de la Pointe St-Mathieu,Plougonvelin,105,EUR,Modern Cuisine,1
+Le P'tit Polyte,Les Deux-Alpes,115,EUR,Modern Cuisine,1
+Sola,Paris,120,EUR,Modern Cuisine,1
+Elsa,Monaco,158,EUR,Mediterranean Cuisine,1
+Aux Terrasses,Tournus,110,EUR,Modern Cuisine,1
+La Scène Thélème,Paris,132,EUR,Modern Cuisine,1
+L'Arnsbourg,Baerenthal,139,EUR,Modern Cuisine,1
+Les Pêcheurs,Antibes,155,EUR,Mediterranean Cuisine,1
+Auberge St-Walfrid,Sarreguemines,136,EUR,Traditional Cuisine,1
+Le Champ des Lunes,Lauris,145,EUR,Modern Cuisine,1
+Le Foch,Reims,125,EUR,Modern Cuisine,1
+Auberge du Cep,Fleurie,84,EUR,Modern Cuisine,1
+Les Terraillers,Biot,168,EUR,Creative,1
+Le Sérac,Saint-Gervais-les-Bains,68,EUR,Modern Cuisine,1
+Les Bories,Gordes,96,EUR,Modern Cuisine,1
+La Réserve Rimbaud,Montpellier,110,EUR,Modern Cuisine,1
+Girardin - Gastronomique,Colmar,155,EUR,"Modern Cuisine, Creative",1
+Le Raisin,Pont-de-Vaux,95,EUR,Modern Cuisine,1
+Alcyone,Marseille,139,EUR,Mediterranean Cuisine,1
+Oxte,Paris,95,EUR,Mexican,1
+La Mare aux Oiseaux,Saint-Joachim,120,EUR,Creative,1
+Maison Chabran - La Grande Table,Pont-de-l'Isère,149,EUR,Classic Cuisine,1
+Vieux Pont,Belcastel,98,EUR,Modern Cuisine,1
+Accents Table Bourse,Paris,125,EUR,Modern Cuisine,1
+Lasserre,Paris,272,EUR,Classic Cuisine,1
+La Rotonde des Trésoms,Annecy,139,EUR,Modern Cuisine,1
+La Flibuste,Villeneuve-Loubet,165,EUR,Modern Cuisine,1
+Prairial,Lyon,98,EUR,Modern Cuisine,1
+Sushi B,Paris,190,EUR,Japanese,1
+La Table de La Butte,Plouider,165,EUR,Modern Cuisine,1
+Le Moulin de la Gorce,La Roche-l'Abeille,115,EUR,Classic Cuisine,1
+Auberge du Pont,Pont-du-Château,160,EUR,Modern Cuisine,1
+Septime,Paris,110,EUR,Modern Cuisine,1
+Le Chiberta,Paris,220,EUR,Modern Cuisine,1
+Les Berceaux,Epernay,98,EUR,Classic Cuisine,1
+Anne,Paris,150,EUR,Contemporary,1
+L'Atlantide 1874 - Maison Guého,Nantes,130,EUR,Modern Cuisine,1
+Jérôme Nutile,Nîmes,190,EUR,Modern Cuisine,1
+Le Bénaton,Beaune,141,EUR,Creative,1
+Le Jardin Secret,La Wantzenau,80,EUR,Modern Cuisine,1
+La Ville Blanche,Lannion,98,EUR,Modern Cuisine,1
+Qui Plume la Lune,Paris,120,EUR,Modern Cuisine,1
+Maison Tiegezh,Guer,93,EUR,Modern Cuisine,1
+MoSuke,Paris,110,EUR,Modern Cuisine,1
+Les Loges,Lyon,135,EUR,Modern Cuisine,1
+Le Mascaret,Blainville-sur-Mer,106,EUR,Modern Cuisine,1
+L'Odas,Rouen,130,EUR,Creative,1
+Moulin de la Tardoire,Montbron,69,EUR,Modern Cuisine,1
+Le Fanal,Banyuls-sur-Mer,110,EUR,Modern Cuisine,1
+Les Fresques - Château des Vigiers,Monestier,120,EUR,Modern Cuisine,1
+Comice,Paris,110,EUR,Modern Cuisine,1
+La Petite Maison de Cucuron,Cucuron,95,EUR,Classic Cuisine,1
+Assa,Blois,116,EUR,"Creative, Modern Cuisine",1
+L'Or Bleu,Théoule-sur-Mer,149,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Au 14 Février,Lyon,98,EUR,Creative,1
+Likoké,Les Vans,155,EUR,Creative,1
+LuluRouget,Nantes,105,EUR,Modern Cuisine,1
+Auberge des Templiers,Boismorand,160,EUR,"Modern Cuisine, Creative",1
+Les Ducs de Lorraine,Epinal,190,EUR,Modern Cuisine,1
+Étude,Paris,150,EUR,Modern Cuisine,1
+Le Refuge des Gourmets,Machilly,110,EUR,Modern Cuisine,1
+Le Grand Cerf,Montchenot,160,EUR,Classic Cuisine,1
+Le Rigmarole,Paris,79,EUR,"Modern Cuisine, Asian Contemporary",1
+Mickaël Féval,Aix-en-Provence,110,EUR,Modern Cuisine,1
+Auberge La Fenière,Cadenet,160,EUR,Creative,1
+Le Figuier de Saint-Esprit,Antibes,200,EUR,Provençal,1
+Baumanière 1850,Courchevel,245,EUR,Modern Cuisine,1
+Aux Pesked,Saint-Brieuc,105,EUR,"Seafood, Modern Cuisine",1
+Le Cerf,Marlenheim,119,EUR,Modern Cuisine,1
+Grand Hôtel du Lion d'Or,Romorantin-Lanthenay,170,EUR,Modern Cuisine,1
+Allium,Quimper,118,EUR,Creative,1
+Les Funambules,Strasbourg,75,EUR,Modern Cuisine,1
+Jin,Paris,500,EUR,Japanese,1
+Les Apothicaires,Lyon,96,EUR,Creative,1
+Au 14 Février,Saint-Valentin,98,EUR,Modern Cuisine,1
+Le M,Brest,120,EUR,Modern Cuisine,1
+L'Ostal,Clermont-Ferrand,98,EUR,Modern Cuisine,1
+L'Almandin,Saint-Cyprien,125,EUR,Modern Cuisine,1
+La Marine,Barneville-Carteret,130,EUR,Modern Cuisine,1
+Pont de l'Ouysse,Lacave,136,EUR,"Modern Cuisine, Classic Cuisine",1
+Au Gourmet,Drusenheim,82,EUR,Modern Cuisine,1
+1912 - Les Cures Marines,Trouville-sur-Mer,145,EUR,Modern Cuisine,1
+Marcore,Paris,120,EUR,Modern Cuisine,1
+Château de Courban,Courban,129,EUR,Modern Cuisine,1
+Benoit,Paris,114,EUR,Classic Cuisine,1
+L'Arôme,Paris,185,EUR,Modern Cuisine,1
+L'Esquisse,Annecy,90,EUR,Modern Cuisine,1
+Le Pavé d'Auge,Beuvron-en-Auge,84,EUR,Classic Cuisine,1
+La Magdeleine - Mathias Dandine,Gémenos,170,EUR,Mediterranean Cuisine,1
+Shang Palace,Paris,150,EUR,Chinese,1
+Val d'Auge,Bondues,114,EUR,Modern Cuisine,1
+Le Petit Hôtel du Grand Large,St-Pierre-Quiberon,100,EUR,Seafood,1
+L'Atelier de Joël Robuchon - Étoile,Paris,230,EUR,Creative,1
+Le Kaïku,Saint-Jean-de-Luz,90,EUR,Modern Cuisine,1
+La Dune du Château de Sable,Porspoder,169,EUR,Modern Cuisine,1
+Le Verbois,Chantilly,160,EUR,Modern Cuisine,1
+Pavyllon,Paris,235,EUR,Modern Cuisine,1
+La Table des Blot - Auberge du Château,Dampierre-en-Yvelines,85,EUR,Modern Cuisine,1
+Gaya par Pierre Gagnaire,Paris,110,EUR,"Modern Cuisine, Seafood",1
+L'Atelier de Joël Robuchon - St-Germain,Paris,175,EUR,"Creative, Modern Cuisine",1
+Pilgrim,Paris,150,EUR,Modern Cuisine,1
+Azimut,Courchevel,108,EUR,"Modern Cuisine, Traditional Cuisine",1
+La Table de la Bergerie,Le Champ-sur-Layon,80,EUR,Modern Cuisine,1
+Julien Binz,Ammerschwihr,105,EUR,Modern Cuisine,1
+Le Royal,Champillon,280,EUR,Modern Cuisine,1
+Agapé,Paris,195,EUR,Modern Cuisine,1
+L'Émulsion,Saint-Alban-de-Roche,90,EUR,Modern Cuisine,1
+Le Saint-James,Bouliac,170,EUR,Modern Cuisine,1
+Miraflores,Lyon,150,EUR,Peruvian,1
+Skab,Nîmes,148,EUR,Modern Cuisine,1
+Ithurria,Ainhoa,94,EUR,"Modern Cuisine, Classic Cuisine",1
+Auberge St-Laurent,Sierentz,95,EUR,"Modern Cuisine, Traditional Cuisine",1
+L'Archeste,Paris,190,EUR,Creative,1
+Signature,Marseille,110,EUR,Modern Cuisine,1
+"114, Faubourg",Paris,150,EUR,Modern Cuisine,1
+Auberge de l'Abbaye,Ambronay,105,EUR,Modern Cuisine,1
+Le Vivier,L'Isle-sur-la-Sorgue,120,EUR,Modern Cuisine,1
+La Table de Nans,La Ciotat,120,EUR,Mediterranean Cuisine,1
+L'Oiseau Blanc,Paris,225,EUR,Modern Cuisine,1
+Le Hittau,Saint-Vincent-de-Tyrosse,92,EUR,Modern Cuisine,1
+La Tour des Vents,Monbazillac,97,EUR,Modern Cuisine,1
+Le Prieuré,Ambierle,99,EUR,Modern Cuisine,1
+La Table d'Hôtes - Le Quatrième Mur,Bordeaux,170,EUR,Creative,1
+La Table d'Olivier,Brive-la-Gaillarde,93,EUR,Modern Cuisine,1
+Pantagruel,Paris,85,EUR,Modern Cuisine,1
+Ed.Em,Chassagne-Montrachet,90,EUR,Modern Cuisine,1
+Ochre,Rueil-Malmaison,115,EUR,Modern Cuisine,1
+La Table de Xavier Mathieu,Joucas,230,EUR,Creative,1
+Les Climats,Paris,140,EUR,Modern Cuisine,1
+Auberge de la Charme,Prenois,96,EUR,Creative,1
+JAN,Nice,145,EUR,Creative,1
+Les Oliviers,Bandol,149,EUR,Modern Cuisine,1
+Le Village,Marly-le-Roi,255,EUR,Modern Cuisine,1
+Le Pavillon - Hôtel Westminster,Le Touquet-Paris-Plage,130,EUR,Creative,1
+Alan Geaam,Paris,128,EUR,Creative,1
+Nicolas Carro - Hôtel de Carantec,Carantec,120,EUR,Modern Cuisine,1
+Divellec,Paris,170,EUR,Seafood,1
+Maison Decoret,Vichy,140,EUR,Creative,1
+Château du Mont Joly,Sampans,115,EUR,Modern Cuisine,1
+1741,Strasbourg,155,EUR,"Modern Cuisine, Creative",1
+Au Déjeuner de Sousceyrac,Sousceyrac-en-Quercy,100,EUR,Classic Cuisine,1
+La Table Breizh Café,Cancale,95,EUR,Modern Cuisine,1
+Toya,Faulquemont,120,EUR,Creative,1
+Fontevraud Le Restaurant,Fontevraud-l'Abbaye,75,EUR,Creative,1
+Loiseau des Ducs,Dijon,128,EUR,Modern Cuisine,1
+Rustique,Lyon,80,EUR,Creative,1
+Ô Saveurs,Rouffiac-Tolosan,98,EUR,Modern Cuisine,1
+Racines,Rennes,80,EUR,Modern Cuisine,1
+Les Agitateurs,Nice,119,EUR,Creative,1
+Hostellerie de l'Abbaye de la Celle,La Celle,112,EUR,Mediterranean Cuisine,1
+Au Souper Fin,Frichemesnil,95,EUR,Modern Cuisine,1
+Clovis,Tourrettes-sur-Loup,120,EUR,Modern Cuisine,1
+Atmosphères,Le Bourget-du-Lac,160,EUR,Creative,1
+Tentazioni,Bordeaux,95,EUR,Italian,1
+Armani Ristorante,Paris,200,EUR,Italian,1
+A Casa di Ma,Lumio,175,EUR,Creative,1
+Ima,Rennes,100,EUR,Creative,1
+Maison Kieny,Riedisheim,125,EUR,Modern Cuisine,1
+Hostellerie la Montagne,Colombey-les-Deux-Églises,110,EUR,Modern Cuisine,1
+Les Explorateurs - Hôtel Pashmina,Val-Thorens,180,EUR,Modern Cuisine,1
+Le Colombier,Offranville,90,EUR,Modern Cuisine,1
+Le Passe Temps,Lyon,109,EUR,Creative,1
+Hervé Busset,Conques,110,EUR,Creative,1
+L'Écrin de Yohann Chapuis,Tournus,175,EUR,"Creative, Modern Cuisine",1
+Château de Pray,Amboise,120,EUR,Modern Cuisine,1
+En Pleine Nature,Quint-Fonsegrives,82,EUR,Modern Cuisine,1
+Château de Sully,Bayeux,119,EUR,Modern Cuisine,1
+Yam'Tcha,Paris,150,EUR,Creative,1
+Il Cortile,Mulhouse,115,EUR,"Mediterranean Cuisine, Italian",1
+Le Cap,Saint-Jean-Cap-Ferrat,200,EUR,Creative,1
+Oka,Paris,130,EUR,Creative,1
+La Table de Philippe Girardon,Chonas-l'Amballan,145,EUR,Modern Cuisine,1
+Guy Lassausaie,Chasselay,125,EUR,Modern Cuisine,1
+Flaveurs,Valence,98,EUR,Modern Cuisine,1
+La Pomme d'Api,Saint-Pol-de-Léon,123,EUR,Creative,1
+Terre-Mer au Domaine de Kerdrain,Auray,95,EUR,Modern Cuisine,1
+Helen,Paris,170,EUR,Seafood,1
+L'O des Vignes,Fuissé,100,EUR,Modern Cuisine,1
+Mon Plaisir,Chamesol,110,EUR,Modern Cuisine,1
+Le Pot d'Étain,Danjoutin,126,EUR,Modern Cuisine,1
+Le Relais des Moines,Les Arcs,118,EUR,Modern Cuisine,1
+Les Terrasses de Lyon,Lyon,120,EUR,Modern Cuisine,1
+Ivan Vautier,Caen,120,EUR,Modern Cuisine,1
+Le Brittany,Roscoff,160,EUR,"Modern Cuisine, Regional Cuisine",1
+La Dame de Pic,Paris,165,EUR,Creative,1
+Le France,Villers-le-Lac,94,EUR,Modern Cuisine,1
+Le Manoir du Lys,Bagnoles-de-l'Orne,120,EUR,Modern Cuisine,1
+La Bastide Saint-Antoine,Grasse,193,EUR,Provençal,1
+Moulin d'Alotz,Arcangues,104,EUR,"Creative, Modern Cuisine",1
+Les Rosiers,Biarritz,125,EUR,Modern Cuisine,1
+Le Sergent Recruteur,Paris,160,EUR,Modern Cuisine,1
+Auberge de la Brie,Couilly-Pont-aux-Dames,95,EUR,Modern Cuisine,1
+Automne,Paris,125,EUR,Modern Cuisine,1
+L'Orangerie,Paris,165,EUR,Modern Cuisine,1
+Le Belvédère,Bozouls,118,EUR,Modern Cuisine,1
+La Gourmandière - La Table d'Olivier,Vannes,95,EUR,Modern Cuisine,1
+Le Manoir de la Régate,Nantes,100,EUR,Modern Cuisine,1
+Le Haut-Allier,Alleyras,110,EUR,Modern Cuisine,1
+Michel Trama,Puymirol,210,EUR,Creative,1
+La Huchette,Replonges,110,EUR,Modern Cuisine,1
+Maximin Hellio,Deauville,120,EUR,Modern Cuisine,1
+Le Millénaire,Reims,160,EUR,"Modern Cuisine, Classic Cuisine",1
+L'Atelier Alexandre Bousquet,Biarritz,105,EUR,"Modern Cuisine, Creative",1
+Le Sénéchal,Sauveterre-de-Rouergue,155,EUR,Modern Cuisine,1
+Ursus,Tignes,148,EUR,Creative,1
+La Table d'Hôtes - La Rôtisserie du Chambertin,Gevrey-Chambertin,85,EUR,Modern Cuisine,1
+L'Ours,Vincennes,120,EUR,"Modern Cuisine, Creative",1
+Logis de la Cadène,Saint-Emilion,105,EUR,Modern Cuisine,1
+Le Grand Cap,Leucate,115,EUR,Modern Cuisine,1
+Jérémy Galvan,Lyon,125,EUR,Creative,1
+Gordon Ramsay au Trianon,Versailles,189,EUR,Creative,1
+SEPT,Toulouse,120,EUR,Modern Cuisine,1
+Nakatani,Paris,165,EUR,Modern Cuisine,1
+ONA,Arès,116,EUR,Vegan,1
+Maison Hache,Eygalières,135,EUR,Provençal,1
+En Marge,Aureville,150,EUR,Creative,1
+Le Clair de la Plume,Grignan,135,EUR,Modern Cuisine,1
+Jérôme Feck,Châlons-en-Champagne,132,EUR,Modern Cuisine,1
+Au Crocodile,Strasbourg,138,EUR,Classic Cuisine,1
+L'Auberge de St-Rémy-de-Provence - Fanny Rey & Jonathan Wahid,Saint-Rémy-de-Provence,200,EUR,Modern Cuisine,1
+La Liégeoise,Wimereux,99,EUR,Modern Cuisine,1
+Auberge de l'Île Barbe,Lyon,165,EUR,Classic Cuisine,1
+Lucas Carton,Paris,185,EUR,Modern Cuisine,1
+Un Parfum de Gourmandise,Périgueux,89,EUR,Creative,1
+Cibo,Dijon,100,EUR,Modern Cuisine,1
+L'Ekrin by Laurent Azoulay,Méribel,215,EUR,Modern Cuisine,1
+La Palmeraie - Château de Valmer,La Croix-Valmer,155,EUR,Modern Cuisine,1
+La Balette,Collioure,150,EUR,Modern Cuisine,1
+Duende,Nîmes,205,EUR,Modern Cuisine,1
+L'Oustalet,Gigondas,120,EUR,Modern Cuisine,1
+Le Pily,Cherbourg-en-Cotentin,78,EUR,Creative,1
+La Nouvelle Auberge,Wihr-au-Val,87,EUR,"Modern Cuisine, Classic Cuisine",1
+L'Anthocyane,Lannion,85,EUR,Modern Cuisine,1
+La Promenade,Verfeil,110,EUR,Creative,1
+Choko Ona,Espelette,72,EUR,"Modern Cuisine, Creative",1
+Le Jardin des Plumes,Giverny,120,EUR,Creative,1
+Palais Royal Restaurant,Paris,180,EUR,"Creative, Modern Cuisine",1
+L'Aupiho - Domaine de Manville,Les Baux-de-Provence,145,EUR,Modern Cuisine,1
+La Table de la Mainaz,Gex,139,EUR,Modern Cuisine,1
+Frédéric Molina au Moulin de Léré,Vailly,98,EUR,Modern Cuisine,1
+Le Carré d'Alethius,Charmes-sur-Rhône,110,EUR,Modern Cuisine,1
+Solstice,Paris,120,EUR,Creative,1
+Avel Vor,Port-Louis,118,EUR,Modern Cuisine,1
+La Rotonde,Charbonnières-les-Bains,139,EUR,Modern Cuisine,1
+Château de Vault de Lugny,Vault-de-Lugny,149,EUR,Modern Cuisine,1
+Pertica,Vendôme,110,EUR,Creative,1
+Ze Kitchen Galerie,Paris,115,EUR,Creative,1
+La Closerie,Ansouis,78,EUR,Traditional Cuisine,1
+Frenchie,Paris,105,EUR,Modern Cuisine,1
+L'Auberge Basque,Saint-Pée-sur-Nivelle,122,EUR,Creative,1
+Domaine du Colombier,Malataverne,135,EUR,"Creative, Modern Cuisine",1
+La Condesa,Paris,125,EUR,Creative,1
+Le Gourmet de Sèze,Lyon,115,EUR,Classic Cuisine,1
+Le Panoramic,Tignes,115,EUR,"Traditional Cuisine, Savoyard",1
+Pur' - Jean-François Rouquette,Paris,240,EUR,Creative,1
+Bruno,Lorgues,195,EUR,Classic Cuisine,1
+La Bonne Auberge,Stiring-Wendel,140,EUR,Creative,1
+Vincent Favre Félix,Annecy,130,EUR,Creative,1
+Château Blanchard,Chazelles-sur-Lyon,130,EUR,Modern Cuisine,1
+Le Puits du Trésor,Lastours,120,EUR,Modern Cuisine,1
+Transparence - La Table de Patrick Fréchin,Nancy,90,EUR,Modern Cuisine,1
+L'Empreinte,Buxy,99,EUR,Modern Cuisine,1
+René'Sens par Jean-François Bérard,La Cadière-d'Azur,135,EUR,Modern Cuisine,1
+La Ribaudière,Bourg-Charente,122,EUR,"Creative, Modern Cuisine",1
+L'Essentiel,Deauville,79,EUR,"Modern Cuisine, Creative",1
+Dominique Bouchet,Paris,145,EUR,Classic Cuisine,1
+L'Observatoire du Gabriel,Bordeaux,160,EUR,"Modern Cuisine, Creative",1
+Le Marcq,Marcq-en-Barœul,76,EUR,Modern Cuisine,1
+La Table du Gourmet,Riquewihr,162,EUR,"Creative, Modern Cuisine",1
+L'Axel,Fontainebleau,160,EUR,Modern Cuisine,1
+Auberge Grand'Maison,Mûr-de-Bretagne,77,EUR,Traditional Cuisine,1
+Lait Thym Sel,Angers,92,EUR,Creative,1
+La Grande Cascade,Paris,215,EUR,Modern Cuisine,1
+Haut Bonheur de la Table,Cassel,60,EUR,Modern Cuisine,1
+Le Baudelaire,Paris,150,EUR,Modern Cuisine,1
+Les Genêts,Brem-sur-Mer,75,EUR,Modern Cuisine,1
+La Barbacane,Carcassonne,130,EUR,Classic Cuisine,1
+Colette,Saint-Tropez,146,EUR,Modern Cuisine,1
+Le Charlemagne,Pernand-Vergelesses,100,EUR,Creative,1
+La Table d'Uzès,Uzès,125,EUR,Modern Cuisine,1
+Soléna,Bordeaux,98,EUR,Modern Cuisine,1
+Albert 1er,Chamonix-Mont-Blanc,176,EUR,Classic Cuisine,1
+Pollen,Avignon,80,EUR,Creative,1
+L'Hysope,La Jarrie,145,EUR,Creative,1
+Le Jardin de Berne,Lorgues,260,EUR,Modern Cuisine,1
+La Table - Hôtel Clarance,Lille,115,EUR,Modern Cuisine,1
+La Table des Merville,Castanet-Tolosan,110,EUR,Modern Cuisine,1
+La Table du Connétable - Auberge du Jeu de Paume,Chantilly,145,EUR,Modern Cuisine,1
+Le Donjon - Domaine Saint-Clair,Etretat,110,EUR,Modern Cuisine,1
+Le Corot,Ville-d'Avray,150,EUR,Creative,1
+Restaurant Pierre Grein,Manosque,150,EUR,Modern Cuisine,1
+La Mère Germaine,Châteauneuf-du-Pape,130,EUR,Modern Cuisine,1
+La Table de Castigno,Assignan,110,EUR,Modern Cuisine,1
+La Table de la Ferme,Murtoli,305,EUR,"Corsican, Modern Cuisine",1
+Le Prince Noir - Vivien Durand,Lormont,125,EUR,Modern Cuisine,1
+Buerehiesel,Strasbourg,119,EUR,Modern Cuisine,1
+Villa de l'Étang Blanc,Seignosse,85,EUR,Modern Cuisine,1
+Le Gindreau,Saint-Médard,159,EUR,Creative,1
+Auberge au Bœuf,Sessenheim,102,EUR,Modern Cuisine,1
+Fleur de Pavé,Paris,110,EUR,"Creative, Modern Cuisine",1
+Auberge de Montfleury,Villeneuve-de-Berg,98,EUR,Modern Cuisine,1
+Pierre Reboul,Aix-en-Provence,159,EUR,Creative,1
+La Bonne Étape,Château-Arnoux,135,EUR,Provençal,1
+Le George,Paris,135,EUR,Italian,1
+Alliance,Paris,195,EUR,Modern Cuisine,1
+Nomicos,Paris,162,EUR,Modern Cuisine,1
+Roscanvec,Vannes,110,EUR,Modern Cuisine,1
+Château d'Adoménil,Lunéville,160,EUR,Traditional Cuisine,1
+Table - Bruno Verjus,Paris,400,EUR,Modern Cuisine,1
+Aspic,Paris,95,EUR,Modern Cuisine,1
+L'Aquarelle,Breuillet,130,EUR,Creative,1
+Les Trois Soleils de Montal,Saint-Céré,98,EUR,Modern Cuisine,1
+Auberge Le Prieuré,Moirax,89,EUR,Creative,1
+La Source,Saint-Galmier,90,EUR,Modern Cuisine,1
+Récif - Les Roches Rouges,Saint-Raphaël,152,EUR,Provençal,1
+Le Pousse-Pied,La Tranche-sur-Mer,75,EUR,Seafood,1
+Roza,Nantes,75,EUR,"Modern Cuisine, Creative",1
+Origines,Le Broc,130,EUR,Modern Cuisine,1
+Les Clefs d'Argent,Mont-de-Marsan,88,EUR,Creative,1
+La Promenade,Le Petit-Pressigny,125,EUR,Modern Cuisine,1
+Le Jules Verne,Paris,245,EUR,Modern Cuisine,1
+Lamartine,Le Bourget-du-Lac,120,EUR,Modern Cuisine,1
+Auguste,Paris,120,EUR,Modern Cuisine,1
+Apicius,Clermont-Ferrand,145,EUR,Creative,1
+Le Lièvre Gourmand,Orléans,88,EUR,"Fusion, Creative",1
+Château de Massillan,Uchaux,115,EUR,Modern Cuisine,1
+La Signoria,Calvi,195,EUR,Modern Cuisine,1
+L'Aparté,Montrabé,105,EUR,Modern Cuisine,1
+Numéro 3,Le Tremblay-sur-Mauldre,70,EUR,Modern Cuisine,1
+Frédéric Doucet,Charolles,130,EUR,Modern Cuisine,1
+1131 - Abbaye de la Bussière,La Bussière-sur-Ouche,135,EUR,Modern Cuisine,1
+L'Allée des Vignes,Cajarc,107,EUR,Creative,1
+ERH,Paris,140,EUR,Modern Cuisine,1
+La Vieille Tour,Cellettes,79,EUR,"Modern Cuisine, Creative",1
+Nature,Armentières,72,EUR,Modern Cuisine,1
+Lalique,Bommes,165,EUR,Modern Cuisine,1
+Le Restaurant des Rois - La Réserve de Beaulieu,Beaulieu-sur-Mer,280,EUR,Modern Cuisine,1
+Le Carmin,Beaune,128,EUR,Modern Cuisine,1
+Moulin de Rosmadec,Pont-Aven,117,EUR,Modern Cuisine,1
+L'Évidence,Montbazon,120,EUR,"Creative, Modern Cuisine",1
+Ô Flaveurs,Douvaine,145,EUR,Modern Cuisine,1
+Le Pressoir,Saint-Avé,110,EUR,Creative,1
+Radio,Chamalières,110,EUR,Modern Cuisine,1
+Claude Darroze,Langon,129,EUR,Classic Cuisine,1
+La Chapelle Saint-Martin,Saint-Martin-du-Fault,234,EUR,Modern Cuisine,1
+Les Foudres,Cognac,135,EUR,Modern Cuisine,1
+ES,Paris,180,EUR,"Modern Cuisine, Creative",1
+Le 7ème Continent,Rixheim,115,EUR,Modern Cuisine,1
+Auberge des Saints Pères,Aulnay-sous-Bois,90,EUR,Creative,1
+La Table du 11,Versailles,105,EUR,Modern Cuisine,1
+Frédéric Simonin,Paris,162,EUR,Modern Cuisine,1
+Auberge de la Mine,La Ferrière-aux-Étangs,81,EUR,Modern Cuisine,1
+Auberge à la Bonne Idée,Saint-Jean-aux-Bois,162,EUR,Modern Cuisine,1
+Alchémille,Kaysersberg,140,EUR,"Modern Cuisine, Creative",1
+Le Art,Aix-en-Provence,185,EUR,Modern Cuisine,1
+Le Farçon,Courchevel,95,EUR,Modern Cuisine,1
+Quai des Saveurs,Hagondange,125,EUR,Modern Cuisine,1
+Le Fantin Latour - Stéphane Froidevaux,Grenoble,120,EUR,Creative,1
+Maximilien,Zellenberg,120,EUR,Modern Cuisine,1
+Le Chiquito,Méry-sur-Oise,107,EUR,Classic Cuisine,1
+Manoir de Lan-Kerellec,Trébeurden,120,EUR,"Seafood, Modern Cuisine",1
+La Licorne Royale,Lyons-la-Forêt,189,EUR,Modern Cuisine,1
+Auberge Pom'Poire,Azay-le-Rideau,98,EUR,Modern Cuisine,1
+Ambroisie,Saint-Didier-de-la-Tour,140,EUR,Modern Cuisine,1
+Auberge du Pont d'Acigné,Noyal-sur-Vilaine,115,EUR,Modern Cuisine,1
+Le St-Placide,Saint-Malo,120,EUR,Creative,1
+Les Hautes Roches,Rochecorbon,135,EUR,"Classic Cuisine, Modern Cuisine",1
+Le Clocher des Pères,Saint-Martin-sur-la-Chambre,90,EUR,Creative,1
+La Galinette,Perpignan,65,EUR,Creative,1
+Neige d'Été,Paris,110,EUR,Modern Cuisine,1
+Pure & V,Nice,120,EUR,Modern Cuisine,1
+La Chassagnette,Le Sambuc,115,EUR,Creative,1
+Virtus,Paris,165,EUR,Modern Cuisine,1
+Auberge Frankenbourg,La Vancelle,100,EUR,Modern Cuisine,1
+Louroc - Hôtel du Cap-Eden-Roc,Antibes,240,EUR,Modern Cuisine,1
+La Vieille Tour,Plérin,90,EUR,Modern Cuisine,1
+La Madeleine,Sens,136,EUR,Modern Cuisine,1
+Faventia,Tourrettes,190,EUR,Modern Cuisine,1
+La Passagère - Hôtel Belles Rives,Juan-les-Pins,185,EUR,Creative,1
+Le Pourquoi Pas - Hôtel Castelbrac,Dinard,110,EUR,Modern Cuisine,1
+La Table d'à Côté,Ardon,104,EUR,"Modern Cuisine, Creative",1
+La Cachette,Valence,130,EUR,Creative,1
+Relais Louis XIII,Paris,160,EUR,Classic Cuisine,1
+Les Tables de Gaspard,Saint-Crépin,77,EUR,"Modern Cuisine, Market Cuisine",1
+Le Saint-Martin,Vence,130,EUR,"Modern Cuisine, Mediterranean Cuisine",1
+Akrame,Paris,180,EUR,Creative,1
+Léa Linster,Frisange,165,EUR,Modern French,1
+Mosconi,Luxembourg,150,EUR,Italian,1
+La Distillerie,Bourglinster,145,EUR,Creative,1
+La Cristallerie,Luxembourg,178,EUR,Modern French,1
+Fani,Roeser,180,EUR,Italian,1
+Clairefontaine,Luxembourg,105,EUR,Creative French,1
+Guillou Campagne,Schouweiler,100,EUR,Classic French,1
+Les Jardins d'Anaïs,Luxembourg,159,EUR,Modern French,1
+Le Comptoir de Marie,Mons,75,EUR,Spanish,1
+The Butcher's son,Antwerpen,94,EUR,"Traditional Cuisine, Meats and Grills",1
+'t Fornuis,Antwerpen,150,EUR,Classic Cuisine,1
+San Daniele,Ganshoren,140,EUR,Italian,1
+Libertine,Erpe,175,EUR,"French, Seasonal Cuisine",1
+L'Envie,Sint-Denijs,105,EUR,Modern French,1
+"Cuines,33",Knokke,125,EUR,Creative,1
+Aux petits oignons,Jodoigne,88,EUR,Modern Cuisine,1
+Zet'Joe by Geert Van Hecke,Brugge,147,EUR,Creative French,1
+'t Korennaer,Nieuwkerken-Waas,125,EUR,Modern Cuisine,1
+Benoit en Bernard Dewitte,Ouwegem,117,EUR,Modern French,1
+Philippe Fauchet,Saint-Georges-sur-Meuse,135,EUR,Creative,1
+l'Essentiel,Temploux,94,EUR,Creative French,1
+Bistrot du Nord,Antwerpen,145,EUR,Traditional Cuisine,1
+Alain Bianchin,Overijse,160,EUR,"Modern French, Creative French",1
+EED,Leuven,115,EUR,Modern Cuisine,1
+Hostellerie Le Prieuré Saint-Géry,Solre-Saint-Géry,130,EUR,Creative,1
+Hofke van Bazel,Bazel,124,EUR,"Market Cuisine, Seasonal Cuisine",1
+La Canne en Ville,Ixelles,163,EUR,Market Cuisine,1
+Vol-Ver,Marke,95,EUR,Traditional Cuisine,1
+Sir Kwinten,Sint-Kwintens-Lennik,115,EUR,Modern Cuisine,1
+Le Pré des Oréades,Spa,89,EUR,Classic French,1
+Le Cor de Chasse,Wéris,105,EUR,Creative,1
+'t Overhamme,Aalst,95,EUR,Modern Cuisine,1
+Michel,Groot-Bijgaarden,140,EUR,Modern French,1
+Attablez-vous,Namur,105,EUR,"Creative French, Modern French",1
+Eyckerhof,Bornem,110,EUR,Modern French,1
+'t Truffeltje,Dendermonde,100,EUR,"Modern French, Modern Cuisine",1
+Kommilfoo,Antwerpen,120,EUR,Creative,1
+Zur Post,Saint Vith,129,EUR,Modern Cuisine,1
+De Pastorie,Lichtaart,130,EUR,Modern Cuisine,1
+Sans Cravate,Brugge,129,EUR,"Creative French, Creative",1
+OAK,Gent,129,EUR,"World Cuisine, Creative French",1
+La Belle,Geel,145,EUR,Creative French,1
+Innesto,Houthalen,125,EUR,Creative,1
+Bistro Racine,Braine-le-Château,85,EUR,Modern Cuisine,1
+Auberge de Herborist,Sint-Andries,140,EUR,"Market Cuisine, Creative",1
+Boo Raan,Knokke,45,EUR,"Thai, Traditional Cuisine",1
+Le Château de Strainchamps,Fauvillers,130,EUR,Modern French,1
+Publiek,Gent,101,EUR,Modern Cuisine,1
+La Ligne Rouge,Plancenoit,110,EUR,Modern French,1
+Héliport Brasserie,Liège,92,EUR,Creative French,1
+Da Mimmo,Woluwe-Saint-Lambert,165,EUR,Italian,1
+Au Gré du Vent,Seneffe,121,EUR,Market Cuisine,1
+Dôme,Antwerpen,120,EUR,Classic French,1
+Couvert Couvert,Heverlee,135,EUR,"Creative, Modern Cuisine",1
+Goffin,Sint-Kruis,105,EUR,Modern Cuisine,1
+senzanome,Brussels,165,EUR,"Italian, Sicilian",1
+Le Pristine,Antwerpen,120,EUR,Italian Contemporary,1
+'t Stoveke,Strombeek-Bever,92,EUR,Modern Cuisine,1
+Lettres Gourmandes,Montignies-Saint-Christophe,80,EUR,"Creative French, Modern Cuisine",1
+Carcasse,Sint-Idesbald,150,EUR,Meats and Grills,1
+Bar Bulot,Sint-Michiels,95,EUR,"Classic Cuisine, Belgian",1
+Chai Gourmand,Beuzet,135,EUR,Modern Cuisine,1
+De Kristalijn,Genk,158,EUR,Modern Cuisine,1
+La Plage d'Amée,Jambes,94,EUR,Modern Cuisine,1
+Het Gebaar,Antwerpen,150,EUR,Creative,1
+Melchior,Tienen,116,EUR,Creative French,1
+Wine in the City,Jette,110,EUR,"Creative, Modern Cuisine",1
+Les Pieds dans le Plat,Marenne,95,EUR,"Classic Cuisine, Modern Cuisine",1
+M-Bistro,Nieuwpoort,98,EUR,Modern Cuisine,1
+Hostellerie Vivendum,Dilsen,130,EUR,"Modern Cuisine, Modern French",1
+Les Gourmands,Blaregnies,110,EUR,Classic Cuisine,1
+Le Coq aux Champs,Soheit-Tinlot,125,EUR,Creative French,1
+Colette - De Vijvers,Averbode,185,EUR,Modern French,1
+Arenberg,Heverlee,134,EUR,Classic Cuisine,1
+De Mijlpaal,Tongeren,122,EUR,Creative,1
+De Vork van Luc Bellings,Hasselt,150,EUR,Creative,1
+Philippe Meyers,Braine-l'Alleud,78,EUR,Modern French,1
+Horseele,Gent,175,EUR,Creative French,1
+Brasserie Julie,Sint-Martens-Bodegem,105,EUR,"Home Cooking, Creative French",1
+Arabelle Meirlaen,Marchin,120,EUR,"Organic, Creative",1
+Sel Gris,Knokke,150,EUR,Creative,1
+Quadras,Saint Vith,95,EUR,Creative,1
+Le Gastronome,Paliseul,110,EUR,"Contemporary, Market Cuisine",1
+La Villa Emily,Brussels,135,EUR,Mediterranean Cuisine,1
+Maison Marit,Braine-l'Alleud,120,EUR,Classic French,1
+Marcus,Deerlijk,110,EUR,Creative,1
+Kamo,Ixelles,120,EUR,"Japanese, Sushi",1
+La Truffe Noire,Brussels,225,EUR,Italian,1
+L.E.S.S.,Brugge,120,EUR,Asian Influences,1
+Hostellerie Gilain,Sorinnes,126,EUR,Modern French,1
+Ogst,Hasselt,95,EUR,Modern French,1
+Hof Ter Hulst,Hulshout,120,EUR,Classic Cuisine,1
+Souvenir,Gent,119,EUR,"Creative, Organic",1
+EssenCiel,Leuven,125,EUR,French Contemporary,1
+L'impératif,Roucourt,110,EUR,Seafood,1
+Le Pigeon Noir,Uccle,77,EUR,"Country cooking, Classic French",1
+JER,Hasselt,120,EUR,"Modern Cuisine, Contemporary",1
+Altermezzo,Tongeren,235,EUR,Creative,1
+Bozar Restaurant,Brussels,185,EUR,"Modern French, Creative",1
+Nathan,Antwerpen,168,EUR,Modern French,1
+Centpourcent,Sint-Katelijne-Waver,118,EUR,Modern Cuisine,1
+FRANQ,Antwerpen,152,EUR,Modern Cuisine,1
+La Villa in the Sky,Brussels,210,EUR,"Creative, Organic",1
+De Zuidkant,Damme,93,EUR,Modern Cuisine,1
+Kelderman,Aalst,208,EUR,"Traditional Cuisine, Seafood",1
+Magis,Tongeren,99,EUR,Modern Cuisine,1
+Den Gouden Harynck,Brugge,160,EUR,"Creative, Modern French",1
+Kinoshita,São Paulo,383,BRL,Japanese,1
+Evvai,São Paulo,389,BRL,Modern Cuisine,1
+Mee,Rio de Janeiro,520,BRL,Asian Influences,1
+Cipriani,Rio de Janeiro,440,BRL,Italian,1
+Maní,São Paulo,470,BRL,Creative,1
+Jun Sakamoto,São Paulo,395,BRL,Japanese,1
+Huto,São Paulo,315,BRL,Japanese,1
+Kan Suke,São Paulo,340,BRL,Japanese,1
+Picchi,São Paulo,460,BRL,Italian,1
+Lasai,Rio de Janeiro,385,BRL,Modern Cuisine,1
+Bottiglieria 1881,Cracow,360,PLN,Creative,1
